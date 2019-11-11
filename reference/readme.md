@@ -1162,6 +1162,638 @@ Occurrence Severity Risk
 19-[30] P. Wright, B. Fields, and M. Harrison. Deriving human-error tolerance requirements from tasks. IEEE International Conference on Requirements Engineer- ing (ICRE’94), 1:462–467, 1994.
 
 [20]Haddadin, S., 2014. Towards Safe Robots, Approaching Asimovs 1st Law. Vol. Springer Tracts in Advanced Robotics, Vol. 90. Springer.
+http://darwin.bth.rwth-aachen.de/opus3/volltexte/2011/3826/pdf/3826.pdf
+
+20-[1] Wikipdedia, the free encyclopedia. http://en.wikipedia.org.
+
+20-[2] www.dentonatd.com.
+
+20-[3] www.nhtsa.dot.gov/cars/rules/rulings/aairbagsnprm/pea/index.html.
+
+20-[4] AAAM. The Abbreviated Injury Scale. 1980.
+
+20-[5] AAAM. The Abbreviated Injury Scale (1990) Revision Update 1998. Des Plaines/IL, 1998.
+
+20-[6] S. Advani, A. Ommaya, and W. Yang. Head injury mechanisms. Human Body Dynamics. Oxford University Press, 1982.
+
+20-[7] A. Albu-Scha ̈ffer. Regelung von Robotern mit elastischen Gelenken am Beispiel der DLR-Leichtbauarme. PhD thesis, Technical University of Mu- nich, 2002. (German).
+
+20-[8] A. Albu-Scha ̈ffer, A. Bicchi, G. Boccadamo, R. Chatila A.De Luca, A. De Santis, G.Giralt, G. Hirzinger, V. Lippiello, R. Mattone, R. Schiavi, B. Si- ciliano, G. Tonietti, and L. Villani. Physical human-robot interaction in anthropic domains: Safety and dependability. In IARP International Workshop on Technical challenges and for dependable robots in Human envi- ronments (IARP2005), Nagoya, Japan, 2005.
+
+20-[9] A. Albu-Scha ̈ffer, O. Eiberger, M. Fuchs, M. Grebenstein, S. Haddadin, C. Ott, A. Stemmer, T. Wimbo ̈ck, S. Wolf, and G. Hirzinger. Anthropo- morphic soft robotics - from torque control to variable intrinsic compli- ance. In International Symposium on Robotics Research (ISRR2009), Lucerne, Switzerland, 2009.
+
+20-[10] A. Albu-Scha ̈ffer, O. Eiberger, M. Grebenstein, S. Haddadin, C. Ott, T. Wimbo ̈ck, S. Wolf, and G. Hirzinger. Soft robotics: From torque feed- back controlled lightweight robots to intrinsically compliant systems. IEEE Robotics and Automation Mag.: Special Issue on Adaptable Compli- ance/Variable Stiffness for Robotic Applications, 15(3):20 – 30, 2008.
+
+20-[11] A. Albu-Scha ̈ffer, S. Haddadin, C. Ott, A. Stemmer, T. Wimbo ̈ck, and G. Hirzinger. The DLR lightweight robot - lightweight design and soft robotics control concepts for robots in human environments. Industrial Robot Journal, 34(5):376–385, 2007.
+
+
+20-[12] A. Albu-Scha ̈ffer and G. Hirzinger. A globally stable state-feedback con-
+troller for flexible joint robots. J. of Advanced Robots, 15(8):799–814, 2001.
+
+20-[13] A. Albu-Scha ̈ffer and G. Hirzinger. Cartesian impedance control tech- niques for torque controlled light-weight robots. IEEE Int. Conf. on Robotics and Automation (ICRA2002), Washington, DC, USA, pages 657– 663, 2002.
+
+20-[14] A. Albu-Scha ̈ffer, C. Ott, and G. Hirzinger. A unified passivity based control framework for position, torque and impedance control of flexible joint robots. In International Symposium on Robotics Research (ISRR2005), San Francisco, USA, pages 5–21, 2005.
+
+20-[15] A. Albu-Scha ̈ffer, C. Ott, and G. Hirzinger. A unified passivity-based control framework for position, torque and impedance control of flexible joint robots. The Int. J. of Robotics Research, 26:23–39, 2007.
+
+20-[16] A. Albu-Scha ̈ffer, Ch. Ott, and G. Hirzinger. A passivity based cartesian impedance controller for flexible joint robots - Part II: Full state feed- back, impedance design and experiments. In Int. Conf. on Robotics and Automation (ICRA2004), New Orlenas, USA, pages 2666–2673, 2004.
+
+20-[17] A. Albu-Scha ̈ffer, S. Wolf, O. Eiberger, S. Haddadin, F. Petit, and M. Chalon. Dynamic modeling and control of variable stiffness actua- tors. In IEEE Int. Conf. on Robotics and Automation (ICRA2010), Anchorage, Alaska, pages 2155–2162, 2010.
+
+20-[18] D.L.AllsopandC.Y.Perl,T.R.andWarner.Force/deflectionandfracture characteristics of the temporo-parietal region of the human head. SAE Transactions, pages 2009–2018, 1991.
+
+20-[19] D.L. Allsop, C.Y. Warner, M.G. Wille, D.C. Schneider, and A.M. Nahum. Facial impact response - a comparison of the Hybrid III dummy and human cadaver. SAE Paper No.881719, Proc. 32th Stapp Car Crash Conf., pages 781–797, 1988.
+
+20-[20] T. E. Andersen, A ́ A ́ rnason, L. Engebretsen, and R. Bahr. Mechanisms of head injuries in elite football. British Journal Sports Medicine, 38:690–696, 2004.
+
+20-[21] ART. advanced realtime tracking GmbH: Your expert for infrared opti- cal tracking systems. advanced realtime tracking GmbH, 2010. URL: http://www.ar-tracking.de/.
+
+20-[22] Issac Asimov. The Caves Of Steel, A Robot Novel. Doubleday, Garden City, New York, 1954.
+
+20-[23] K.J. Astro ̈m and B. Wittenmark. Adaptive Control. Dover Books on Engi- neering, 2008.
+
+
+20-[24] S.Behnke,M.Schreiber,J.Stu ̈ckler,H.Schulz,M.Bo ̈hnert,andK.Meier. NimbRo teensize 2008 team description. In RoboCup 2008: Robot Soccer World Cup XII Preproceedings, 2008.
+
+20-[25] BG/BGIA. Empfehlungen zur Gestaltung von Arbeitspla ̈tzen mit kolla- borierenden Robotern (German). Technical report, 2009.
+
+20-[26] A. Bicchi and G. Tonietti. Fast and soft arm tactics: Dealing with the safety-performance trade-off in robot arms design and control. IEEE Robotics and Automation Mag., 11:22–33, 2004.
+
+20-[27] R.Bischoff,J.Kurth,G.Schreiber,R.Koeppe,A.Albu-Scha ̈ffer,A.Beyer, O. Eiberger, S. Haddadin, A. Stemmer, G. Grunwald, and G. Hirzinger. The kuka-dlr lightweight robot arm: a new reference platform for robotics research and manufacturing. In International Symposium on Robotics (ISR2010), Munich, Germany, 2010.
+
+20-[28] K. Bixby. Proactive safety design and implementation criteria. Proc. Na- tional Robot Safety Conf., 1991.
+
+20-[29] C. Borst, C. Ott, T. Wimbo ̈ck, B. Brunner, F. Zacharias, B. Ba ̈uml, U. Hil- lenbrand, S. Haddadin, A. Albu-Scha ̈ffer, and G. Hirzinger. A humanoid upper body system for two-handed manipulation. VIDEO, IEEE Int. Conf. on Robotics and Automation (ICRA2007), Rome, Italy, pages 2766– 2767, 2007.
+
+20-[30] C. Breazeal. Towards sociable robots. Robotics and Autonomous Systems, 42:167–175, 2002.
+
+20-[31] B. Brinkmann and B. Madea, editors. Handbuch gerichtliche Medizin. Springer Verlag, 2004. (German).
+
+20-[32] J.BrinnandS.E.Staffeld.Evaluationofimpacttestaccelerations:Adam- age index for the head and torso. 14th Stapp Car Crash and Field Demon- stration Conference Proceedings (STAPP1970), Paper 700902, 17-18:188–202, 1970.
+
+20-[33] O. Brock and O Khatib. Elastic strips: A framework for motion gener- ation in human environments. The Int. J. Robotics Research, 21(12):1031– 1052, 2002.
+
+20-[34] A.E. Bryson and Y.C. Ho. Applied optimal control. Hemisphere Publ. Corp., rev. print. edition, 1975.
+
+20-[35] R. Bulirsch and J. Stoer. Einfu ̈hrung in die numerische Mathematik 2. Springer-Verlag, 1978. (German).
+
+20-[36] H. Burg and A. Moser. Handbuch Verkehrsunfallrekonstruktion: Unfallauf- nahme, Fahrdynamik, Simulation. Vieweg+Teubner Verlag/GWV Fachver- lage GmbH, Wiesbaden, 2009. (German).
+
+
+20-[37] R. Burger, S. Haddadin, G. Planck, S. Parusel, and G. Hirzinger. The driver concept for the DLR Lightweight Robot III. In IEEE/RSJ Int. Conf. on Intelligent Robots and Systems (IROS2010), Taipeh, Taiwan, pages 5453– 5459, 2010.
+
+20-[38] H.D. Burkhard, D. Duhaut, M. Fujita, P. Lima, R. Murphy, and R. Rojas. The road to RoboCup 2050. IEEE Robotics and Automation Mag., 9(2):31– 38, 2002.
+
+20-[39] E.F. Camacho and C. Bordons. Model Predictive Control. Springer Verlag, Advanced Textbooks in Control and Signal Processing, 2007.
+
+20-[40] Carl-Cranz-Gesellschaft. Optimierungsverfahren- Software und prakti- sche Anwendungen, 1981. (German).
+
+20-[41] J.M. Cavanaugh, G.W. Nyquist, S.J. Goldberg, and A.I. King. Lower abdominal impact tolerance and response. SAE Paper No.861878, Proc. 30th Stapp Car Crash Conf., 1986.
+
+20-[42] R.F. Chandler, C.E. Clauser, J.T. McConville, H.M. Reynolds, and J.W. Young. Investigation of inertial properties of the human body. Technical Report DOT HS-801 430, Aerospace Medical Research Laboratory, 1975.
+
+20-[43] G. Cheng, S.H. Hyon, J. Morimoto, A. Ude, J.G. Hale, G. Colvin, W. Scroggin, and S.C. Jacobsen. CB: a humanoid research platform for exploring neuroscience. Advanced Robotics, 21(10):1097–1114, 2007.
+
+20-[44] J. Chiu and S.N. Robinovitch. Prediction of upper extremity impact forces during falls on the outstretched hand. Journal of Biomechanics, 31(12):1169–1176, 1998.
+
+20-[45] H. Choset, K.M. Lynch, S. Hutchinson, G. Kantor, W. Burgard, S. Thrun, and L.E. Kavraki. Principles of Robot Motion: Theory, Algroithms, and Im- plementation. MIT Press, Cambridge, 2005.
+
+20-[46] C.P. Chou and B. Hannaford. Measurement and modeling of McKibben pneumatic artificial muscles. IEEE Transactions on Robotics and Automa- tion, (12):90–102, 1996.
+
+20-[47] J. Craig and M. Raibert. A systematic method for hybrid position/force control of a manipulator. IEEE Computer Software Applications Conf., pages 446–451, 1979.
+
+20-[48] A. De Luca, A. Albu-Scha ̈ffer, S. Haddadin, and G. Hirzinger. Collision detection and safe reaction with the DLR-III lightweight manipulator arm. In IEEE/RSJ Int. Conf. on Intelligent Robots and Systems (IROS2006), Beijing, China, pages 1623–1630, 2006.
+
+20-[49] A. De Luca and W.J. Book. Robots with flexible elements. In Springer Handbook of Robotics, pages 287–319. 2008.
+
+20-[50] A. De Luca and R. Mattone. Actuator fault detection and isolation us- ing generalized momenta. In IEEE Int. Conf. on Robotics and Automation (ICRA2003), Taipei, Taiwan, pages 634–639, 2003.
+
+20-[51] A. De Luca and R. Mattone. An adapt-and-detect actuator FDI scheme for robot manipulators. IEEE Int. Conf. on Robotics and Automation (ICRA2004), New Orleans, USA, pages 4975–4980, 2004.
+
+20-[52] A. De Luca and R. Mattone. Sensorless robot collision detection and hybrid force/motion control. IEEE Int. Conf. on Robotics and Automation (ICRA2005), Barcelona, Spain, pages 1011–1016, 2005.
+
+20-[53] PHRIENDS: Physical Human-Robot Interaction: Dependability and
+Safety. PHRIENDS web site. Integrated project funded under the European Union’s Sixth Framework Programme (FP6), 2007. http://www.phriends.eu/.
+
+20-[54] D.Gao and C.W. Wampler. On the use of the head injury criterion (HIC) to assess the danger of robot impacts. IEEE Robotics and Automation Mag., 16, 2009.
+
+20-[55] P. Ford Dominey, G. Metta, L. Natale, and F. Nori. Anticipation and initiative in dialog and behavior during cooperative human-humanoid interaction. IEEE-RAS International Conference on Humanoid Robots (HU- MANOIDS2008), Daejeon, Korea, pages 693–699, 2008.
+
+20-[56] S.M. Duma, B.M. Boggess, J.R. Crandall, and C.B. MacMahon. Fracture tolerance of the small female elbow joint in compression: the effect of load angle relative to the long axis of the forearm. Stapp Crash Journal, 46:195–210, 2002.
+
+20-[57] S.M. Duma, J.R. Crandall, S.R. Hurwitz, and W.D. Pilkey. Small female upper extremity interaction with the deploying side air bag. SAE Paper No.983148, Proc. 42th Stapp Car Crash Conf., pages 47–63, 1998.
+
+20-[58] S.M. Duma, P. Schreiber, J. McMaster, J Crandall, C. Bass, and W. Pilkey. Dynamic injury tolerances for long bones of the female upper extrem- ity. International Research Council on Biomechanics of Injury (IRCOBI1998), pages 189–201, 1998.
+
+20-[59] R. Durasˇkovic ́, A. Joksimovic ́, and S. Joksimovic ́. Weight-height param- eters of the 2002 world football championship participants. Physical Ed- ucation and Sport, 2:13–24, 2004.
+
+20-[60] D. Ebert and D Henrich. Safe human-robot-cooperation: Image-based collision detection for industrial robots. IEEE/RSJ Int. Conf. on Intelligent Robots and Systems (IROS2002), Lausanne, Switzerland, pages 239– 244, 2002.
+
+20-[61] A. Edsinger. Robot Manipulation in Human Environments. PhD thesis, Massachusetts Institute of Technology, Department of Electrical Engi- neering and Computer Science, 2007.
+
+
+20-[62] A. Edsinger and C.C. Kemp. Human-robot interaction for cooperative manipulation: Handing objects to one another. IEEE International Sym- posium on Robot & Human Interactive Communication (RO-MAN2007), Jeju Island, Korea, pages 1167–1172, 2007.
+
+20-[63] O. Eiberger, S. Haddadin, M. Weis, A. Albu-Scha ̈ffer, and G. Hirzinger. On joint design with intrinsic variable compliance: Derivation of the DLR QA-joint. IEEE Int. Conf. on Robotics and Automation (ICRA2010), Anchorage, Alaska, pages 1687–1694, 2010.
+
+20-[64] W. Eisenmenger. Handbuch gerichtliche Medizin - Spitze, scharfe und halb- scharfe Gewalt. Springer Verlag, 2004. (German).
+
+20-[65] EuroNCAP. European Protocol New Assessment Programme - assess- ment protocol and biomechanical limits. 2003.
+
+20-[66] EuroNCAP. European protocol new assessment programme - frontal impact testing protocol. 2004.
+
+20-[67] European Commission Framework. Improved frontal impact protection through a world frontal impact dummy. Project No. GRD1 1999-10559, 2003.
+
+20-[68] IG. Fazekas, F. Kosa, I. Bajnoczky, G. Jobba, and J. Szendrenyi. Mecha- nische Untersuchung der Kraft durchbohrender Einstiche an der men- schlichen Haut und verschiedenen Kleidungsschichten. Zeitschrift fu ̈r Rechtsmedizin, 70:235–240, 1972. (German).
+
+20-[69] Fe ́ de ́ ration Internationale de Football Association. Laws of the game 2006, 2006.
+
+20-[70] Otto Foellinger. Regelungstechnik. Huethig Buch Verlag, 1992. (German).
+
+20-[71] E.Freund,M.Schluse,andJ.Roßmann.Dynamiccollisionavoidancefor redundant multi-robot systems. In International Conference on IEEE/RSJ Intelligent Robots and Systems (IROS2001), Maui, Hawaii, pages 1201–1206, 2001.
+
+20-[72] G. Frykna. Fracture of the distal radius including sequelae-shoulder- hand-finger syndrome, disturbance in the distal radio-ulnar joint and impairment of nerve function; a clinical and experimental study. Acta Orthop Scand, 1967.
+
+20-[73] S. Fuchs, S. Haddadin, S. Parusel, M. Keller, and A. Kolb. Cooperative bin-picking with time-of-flight camera and impedance controlled DLR Lightweight robot III. pages 4862–4867, 2010.
+
+20-[74] S. Fuchs and G. Hirzinger. Extrinsic and depth calibration of ToF- cameras. In IEEE Conference on Computer Vision and Pattern Recognition (CVPR2008), Anchorage, USA, pages 1–6, 2008.
+
+20-[75] Y. Fujita. Personal robot PaPeRo. Journal of Robotics and Mechatronics, (14):60–63, 2002.
+
+20-[76] Charles W. Gadd. Use of a weighted - impulse criterion for estimating injury hazard. SAE Paper No.660793, Proc. 10th Stapp Car Crash Conf., 1966.
+
+20-[77] C.W. Gadd. Criteria for injury potential. Publication 977,NAS-NRC, pages 141–145, 1962.
+
+20-[78] C.W. Gadd, C.C Culver, and A.M. Nahum. A study on responses and tolerances of the neck. SAE Paper No.710856, Proc. 15th Stapp Car Crash Conf., 1971.
+
+20-[79] Francis B.A. Goldsmith, P. B. and A.A. Goldenberg. Stability of hybrid position/force control applied to manipulators with flexible joints. Int. Journal of Robotics and Automation, (14):146–159, 1999.
+
+20-[80] C. Got, A. Patel, A. Fayon, C. Tarriere, and G. Walfisch. Results of exper- imental head impacts on cadavers: the various data obtained and their relation to some measured physical paramters. SAE Paper No.780887, Proc. 22th Stapp Car Crash Conf., 1978.
+
+20-[81] J.H. Graham. Safety, Reliability, and Human Factors in Robotic Systems. Van Nostrand Reinhold, New York, 1991.
+
+20-[82] M. Grebenstein and P. van der Smagt. Antagonism for a highly anthro- pomorphic hand-arm system. Advanded Robotics, 22(1):39–55, 2008.
+
+20-[83] J. Guiochet, G. Motet, C. Baron, and G. Boy. Toward a human-centered UML for risk analysis. In In WCC 18th IFIP World Computer Congress, Human Error Safety and System Development, 2004.
+
+20-[84] J.Guiochet,D.Powell,E ́.Baudin,andJ.-P.Blanquart.Onlinesafetymon- itoring using safety modes. In IARP International Workshop on Techni- cal challenges and for dependable robots in Human environments (IARP2008), Pasadena, USA, 2008.
+
+20-[85] F. Hacker, J. Dietrich, and G. Hirzinger. A laser-triangulation based miniaturized 2-D range-scanner as integral part of a multisensory robot- gripper. In EOS Topical Meeting on Optoelectronic Distance/Displacement Measurements and Applications, Nantes France, 1997.
+
+20-[86] S. Haddadin. Evaluation criteria and control structures for safe human- robot interaction. Master’s thesis, Technical University of Munich (TUM) & German Aerospace Center (DLR), 12 2005.
+
+20-[87] S. Haddadin. Towards the human-friendly robotic co-worker. Mas- ter’s thesis, Technical University of Munich (TUM) & German Aerospace Center (DLR), 05 2009.
+
+
+20-[88] S. Haddadin, A. Albu-Scha ̈ffer, A. De Luca, and G. Hirzinger. Evalua- tion of collision detection and reaction for a human-friendly robot on bi- ological tissue. In IARP International Workshop on Technical challenges and for dependable robots in Human environments (IARP2008), Pasadena, USA, 2008.
+
+20-[89] S. Haddadin, A. Albu-Scha ̈ffer, O. Eiberger, and G. Hirzinger. New in- sights concerning intrinsic joint elasticity for safety. In IEEE/RSJ Int. Conf. on Intelligent Robots and Systems (IROS2010), Taipeh, Taiwan, pages 2181– 2187, 2010.
+
+20-[90] S. Haddadin, A. Albu-Scha ̈ffer, M. Frommberger, J. Rossmann, and G. Hirzinger. The “DLR Crash Report”: Towards a standard crash- testing protocol for robot safety - part I: Results. In IEEE Int. Conf. on Robotics and Automation (ICRA2008), Kobe, Japan, pages 272–279, 2009.
+
+20-[91] S. Haddadin, A. Albu-Scha ̈ffer, M. Frommberger, J. Rossmann, and G. Hirzinger. The “DLR Crash Report”: Towards a standard crash- testing protocol for robot safety - part II: Discussions. IEEE Int. Conf. on Robotics and Automation (ICRA2008), Kobe, Japan, pages 280–287, 2009.
+
+20-[92] S. Haddadin, A. Albu-Scha ̈ffer, and G. Hirzinger. Approaching Asi- mov’s 1st Law. HRI Caught on Film, Proceedings of the 2nd ACM/IEEE International Conference on Human-Robot Interaction, Washington DC, USA, pages 177–184, 2007.
+
+20-[93] S. Haddadin, A. Albu-Scha ̈ffer, and G. Hirzinger. Approaching Asi- mov’s 1st law: The impact of the robot’s weight class. Robotics: Science and Systems Conference Workshop: Robot Manipulation: Sensing and adapt- ing the real world (RSS2007), Atlanta, USA, 2007.
+
+20-[94] S. Haddadin, A. Albu-Scha ̈ffer, and G. Hirzinger. Dummy crash-tests for the evaluation of rigid human-robot impacts. In IARP International Workshop on Technical challenges and for dependable robots in Human envi- ronments (IARP2007), Rome, Italy, 2007.
+
+20-[95] S. Haddadin, A. Albu-Scha ̈ffer, and G. Hirzinger. Safe physical human- robot interaction: Measurements, analysis & new insights. In Interna- tional Symposium on Robotics Research (ISRR2007), Hiroshima, Japan, pages 395–408, 2007.
+
+20-[96] S. Haddadin, A. Albu-Scha ̈ffer, and G. Hirzinger. Safety evaluation of physical human-robot interaction via crash-testing. Robotics: Science and Systems Conference (RSS2007), Atlanta, USA, pages 217–224, 2007.
+
+20-[97] S. Haddadin, A. Albu-Scha ̈ffer, and G. Hirzinger. The role of the robot mass and velocity in physical human-robot interaction - part I: Uncon- strained blunt impacts. In IEEE Int. Conf. on Robotics and Automation (ICRA2008), Pasadena, USA, pages 1331–1338, 2008.
+
+20-[98] S. Haddadin, A. Albu-Scha ̈ffer, and G. Hirzinger. The role of the robot mass and velocity in physical human-robot interaction - part II: Constrained blunt impacts. IEEE Int. Conf. on Robotics and Automation (ICRA2008), Pasadena, USA, pages 1339–1345, 2008.
+
+20-[99] S. Haddadin, A. Albu-Scha ̈ffer, and G. Hirzinger. Requirements for safe robots: Measurements, analysis & new insights. The Int. J. of Robotics Research, 28(11-12):1507–1527, 2009.
+
+20-[100] S. Haddadin, A. Albu-Scha ̈ffer, and G. Hirzinger. Soft-tissue injury in robotics. IEEE Int. Conf. on Robotics and Automation (ICRA2010), Anchor- age, Alaska, pages 3462–3433, 2010.
+
+20-[101] S. Haddadin, A. Albu-Scha ̈ffer, and G. Hirzinger. Soft-tissue injury caused by sharp tools: Definitions, experiments and countermeasures. accepted at: IEEE Robotics and Automation Mag., 2011.
+
+20-[102] S. Haddadin, A. Albu-Scha ̈ffer, A. De Luca, and G. Hirzinger. Collision detection & reaction: A contribution to safe physical human-robot inter- action. In IEEE/RSJ Int. Conf. on Intelligent Robots and Systems (IROS2008), Nice, France, pages 3356–3363, 2008.
+
+20-[103] S. Haddadin, A. Albu-Scha ̈ffer, J. Roßmann, and G. Hirzin-
+ger. Towards a standardized safety evaluation for robotics. submitted to: IEEE Transactions on Robotics, 2010.
+
+20-[104] S. Haddadin, A. Albu-Scha ̈ffer, M. Strohmayr, M. Frommberger, and G. Hirzinger. Injury evaluation of human-robot impacts. VIDEO, IEEE Int. Conf. on Robotics and Automation (ICRA2008), Pasadena, USA, pages 2203–2204, 2008.
+
+20-[105] S. Haddadin, T. Laue, U. Frese, and G. Hirzinger. Foul 2050: Thoughts on physical interaction in human-robot soccer. In IEEE/RSJ Int. Conf. on Intelligent Robots and Systems (IROS2007), San Diego, USA, pages 3243– 3250, 2007.
+
+20-[106] S. Haddadin, T. Laue, U. Frese, S. Wolf, A. Albu-Scha ̈ffer, and G. Hirzinger. Kick it like a safe robot: Requirements for 2050. Robotics and Autonomous Systems, 57:761–775, 2009.
+
+20-[107] S. Haddadin, S. Parusel, J. Vogel, R. Belder, T. Rokahr, A. Albu-Scha ̈ffer, and G. Hirzinger. Holistic design and analysis for the human-friendly robotic co-worker. In IEEE/RSJ Int. Conf. on Intelligent Robots and Systems (IROS2010), Taipeh, Taiwan, pages 4735–4742, 2010.
+
+20-[108] S.Haddadin,M.Suppa,S.Fuchs,T.Bodenmu ̈ller,A.Albu-Scha ̈ffer,and G. Hirzinger. Konzepte fu ̈r den Roboterassistenten der Zukunft. Au- tomatisierungstechnik (at), 58:695–708, 2010.
+
+20-[109] S. Haddadin, M. Suppa, S. Fuchs, Tim Bodenmu ̈ller, A. Albu-Scha ̈ffer, and G. Hirzinger. Towards the robotic co-worker. In International Sym- posium on Robotics Research (ISRR2009), Lucerne, Switzerland, 2009.
+
+20-110, S.Haddadin,H.Urbanek,S.Parusel,D.Burschka,J.Roßmann,A.Albu- Scha ̈ffer, and G. Hirzinger. Realtime reactive motion generation based on variable attractor dynamics and shaped velocities. In IEEE/RSJ Int. Conf. on Intelligent Robots and Systems (IROS2010), Taipeh, Taiwan, pages 3109–3116, 2010.
+
+20-111, J. Heinzmann and A. Zelinsky. Quantitative safety guarantees for physical human-robot interaction. The Int. J. of Robotics Research, 22(7-8):479– 504, 2003.
+
+20-112 D Henrich and S Kuhn. Modeling intuitive behavior for safe hu- man/robot coexistence cooperation. In IEEE Int. Conf. on Robotics and Automation (ICRA2006), Orlando, USA, pages 3929–3934, 2006.
+
+20-113 B.Herbst,S.Forrest,D.Chng,andA.Sances.FidelityofAnthropometric Test Dummy Necks in Rollover Accidents. 16th ESV Conference, Paper No. 98-S9-W-20, 1998.
+
+20-114 I.P. Herman. Physics of the Human Body. Springer Verlag, 2007.
+
+20-115 M. Hermann. Numerik gewo ̈hnlicher Differentialgleichungen: Anfangs- und Randwertprobleme. Oldenbourg, Mu ̈ chen, 2004. (German).
+
+
+20-116 E. Hertz. A note on the Head Injury Criteria (HIC) as a predictor of the risk of skull fracture. 37th Annual Proceedings of the Association for the Advancement of Automotive Medicine, pages 73–80, 1993.
+
+20-117 K. Hirai, M. Hirose, Y. Haikawa, and T. Takenaka. The development of honda humanoid robot. In IEEE Int. Conf. on Robotics and Automation (ICRA1998), Leuven, Belgium, pages 1321–1326, 1998.
+
+20-118 M. Hirose, Y. Haikawa, T. Takenaka, and K. Hirai. Development of hu- manoid robot ASIMO. In IEEE/RSJ Int. Conf. on Intelligent Robots and Systems (IROS2001): Workshop 2, Maui, USA, 2001.
+
+20-119 G. Hirzinger and A. Albu-Scha ̈ffer. Lightweight robots. Scholarpedia, 3:3889, 2008.
+
+20-120 G. Hirzinger and J. Heindl. Sensor programming - a new way for teach- ing a robot paths and forces. International Conference on Robot Vision and Sensory Controls (RoViSeC3), Cambridge, Massachusetts, USA, 1993.
+
+20-121 G. Hirzinger, N. Sporer, A. Albu-Scha ̈ffer, R. Krenn, A. Pascucci, and M. Schedl. DLR’s torque-controlled light weight robot III - are we reach- ing the technological limits now? In IEEE Int. Conf. on Robotics and Au- tomation (ICRA2002), Washington, DC, USA, pages 1710–1716, 2002.
+
+20-122 D. Hobbelen, T. de Boer, and M. Wisse. System overview of bipedal robots flame and tulip: Tailor-made for limit cycle walking. In IEEE/RSJ Int. Conf. on Intelligent Robots and Systems (IROS2008), Nice, France, pages 2486–2491, 2008.
+
+20-123 V.R.HodgsonandL.M.Thomas.Comparisonofheadaccelerationinjury indices in cadaver skull fracture. SAE Paper No710854, Proc. 15th Stapp Car Crash Conf., pages 299–307, 1971.
+
+20-124 N. Hogan. Impedance control: An approach to manipulation: Part I - theory, Part II - implementation, Part III - applications. Journal of Dynamic Systems, Measurement and Control, 107:1–24, 1985.
+
+20-125 D. Hsu, L.E. Kavraki, J.-C. Latombe, and R. Motwani. Capturing the connectivity of high-dimensional geometric spaces by parallelizable ran- dom sampling techniques. In In Advances in Randomized Parallel Com- puting, P.M. Pardalos and S. Rajasekaran (eds.), Combinatorial Optimization Series, pages 159–182. Kluwer Academic Publishers, 1998.
+
+20-126 J.W. Hurst, J. Chestnutt, and A. Rizzi. An actuator with physically vari- able stiffness for highly dynamic legged locomotion. IEEE Int. Conf. on Robotics and Automation (ICRA2004), Barcelona, Spain, pages 4662–4667, 2004.
+
+20-127 K. Ikuta, H. Ishii, and M. Nokata. Safety evaluation method of de- sign and control for human-care robots. The Int. J. of Robotics Research, 22(5):281–298, 2003.
+
+20-128 OPERAS:OccupationProtection&EgressinRailSystems.OPERASweb site. 2001. http://www.eurailsafe.net/.
+
+20-129 AmericanNationalStandardsInstitute.AmericanNationalStandardfor Industrial Robots and Robot Systems - Safety Requirements, ANSI/RIA R15.06-1986. 1986.
+
+20-130 ISO10218. Robots for industrial environments - Safety requirements - Part 1: Robot. 2006.
+
+20-131 K. Itoh, H. Miwa, M. Matsumoto, M. Zecca, H. Takanobu, S. Roccella, M.C. Carrozza, P. Dario, and A. Takanishi. Behavior model of humanoid robots based on operant conditioning. IEEE-RAS International Conference on Humanoid Robots (HUMANOIDS2005), Tsukuba, Japan, pages 220–225, 2005.
+
+20-132 H. Iwata and S. Sugano. Design of human symbiotic robot TWENDY- ONE. IEEE Int. Conf. on Robotics and Automation (ICRA2009), Kobe, Japan, pages 580–586, 2009.
+
+20-133 A.S Jaffredo, P. Potier, S. Robin, J.Y. Le Coz, and J.P. Lassau. Upper ex- tremity interaction with side impact air bag. International Research Coun- cil on Biomechanics of Injury (IRCOBI1998), pages 485–495, 1998.
+
+20-134 E. Jettner and E. Hiltner. Facial laceration measurements. SAE Paper No.860198, Society of Automotive Engineers International Congress and Ex- position, 1986.
+
+20-135 H. Johannsen and V. Schindler. Review of the abdomen injury criteria. Technical Report AP-SP51-0039-B, Institut National de Reserche sur les Transports et leur Se ́curite ́, 2005.
+
+20-136 S.Kajita,K.Kaneko,M.Morisawa,S.Nakaoka,andH.Hirukawa.ZMP- based biped running enhanced by toe springs. In Int. Conf. on Robotics and Automation (ICRA2007), Rome, Italy, pages 3363–3369, 2007.
+
+20-137 D. Kallieris. Schutzkriterien fu ̈ r den menschlichen Kopf. Forschungspro- jekt FP 2.9317/2, 1998. (German).
+
+20-138 D. Kallieris. Personal communication. 2007.
+
+20-139 D. Kallieris, A. Rizzetti, R. Mattern, S. Jost, P. Priemer, and M. Unger. Response and vulnerability of the upper arm through side air bag de- ployment. SAE Transactions, 120:143–152, 2004.
+
+20-140 K. Kaneko, F. Kanehiro, S. Kajita, H. Hirukawa, T. Kawasaki, M. Hirata, K. Akachi, and T. Isozumi. Humanoid robot HRP-2. In Int. Conf. on Robotics and Automation (ICRA2004), New Orleans, USA, pages 1083–1090, 2004.
+
+20-141 L. E. Kavraki, P. Svestka, J. C. Latombe, and M. H. Overmars. Prob- abilistic roadmaps for path planning in high-dimensional configuration spaces. IEEE Transactions on Robotics and Automation, 12(4):566–580, 1996.
+
+20-142 H. Kawasaki, T. Komatsu, and K. Uchiyama. Dexterous anthropo- morphic robot hand with distributed tactile sensor: Gifu hand II. IEEE/ASME Transactions Mechatronics, 7:296–303, 2002.
+
+20-143 Eric Kennedy, Tracy Ng, Craig McNally, Joel Stitzel, and Stefan Duma. Presentation: Evaluating the risk of eye injury using experimental and computational research methods.
+
+20-144 O. Khatib. Real-time obstacle avoidance for manipulators and mobile robots. The Int. J. of Robotics Research, 5:90–98, 1985.
+
+20-145 O. Khatib. Inertial properties in robotic manipulation: an object-level framework. The Int. J. of Robotics Research, 14(1):19–36, 1995.
+
+20-146 J.-Y. Kim, I.-W. Park, J. Lee, M.S. Kim, B.K. Cho, and J.-H. Oh. System design and dynamic walking of humanoid robot KHR-2. In Int. Conf. on Robotics and Automation (ICRA2005), Barcelona, Spain, pages 1443 – 1448, 2005.
+
+20-147 J.O. Kim and P.K. Khosla. Real-time obstacle avoidance using harmonic potential functions. IEEE Transactions on Robotics, 8:338–349, 1992.
+
+20-148 D.E. Kirk. Optimal control theory. Prentice-Hall, 1970.
+
+20-149 H. Kitano and M. Asada. RoboCup humanoid challenge: That’s one small step for a robot, one giant leap for mankind. In IEEE/RSJ Int. Conf. on Intelligent Robots and Systems (IROS1998), Victoria, Canada, pages 419– 424, 1998.
+
+20-150 K. Knobloch, D. Rossner, M. Jagodzinski, J. Zeichen, T. Go ̈ssling, S. Martin-Schmitt, M. Richter, and C. Krettek. Pra ̈vention von Schul- sportverletzungen - Analyse von Ballsportarten bei 2234 Verletzungen. Sportverletzungen Sportscha ̈den, 19:82–88, 2005. (German).
+
+20-151 H. Kobayashi, K. Hyodo, and D. Ogane. On tendon-driven robotic mechanisms with redundant tendons. The Int. J. of Robotics Research, 17(5):561–571, 1998.
+
+20-152 T. Kobayashi, Y. Komori, N. Hashimoto, K. Iwata, Y. Fukazawa, J. Yazawa, and K. Shirai. Speech conversation system of the musician robot. In International Conference on Advanced Robotics (ICAR1985), pages 483–488, 1985.
+
+20-153 K. Kosuge, T. Matsumoto, and S. Morinaga. Collision detection system for manipulator based on adaptive control scheme. Transactions of the Society of Instrument and Control Engineers, 4(39):552–558, 2003.
+
+20-154 F. Kramer. Passive Sicherheit von Kraftfahrzeugen. Vieweg Verlag, Braun- schweig, Germany, 2006. (German).
+
+20-155 C.K. Kroell, D.C. Scheider, and A.M. Nahum. Impact tolerance and re- sponse of the human thorax II. SAE Paper No.741187, Proc. 18th Stapp Car Crash Conference, pages 383–457, 1974.
+
+20-156 KUKA. http://www.kuka-robotics.com.
+
+20-157 D. Kulic and E. Croft. Pre-collision strategies for human robot interac-
+tion. Autonomous Robots, 22(2):149–164, 2007.
+
+20-158 D. Kulic and E.A. Croft. Affective state estimation for human-robot in-
+teraction. IEEE Transactions on Robotics, 23(5):991–1000, 2007.
+
+20-159 P. Kulvanit and O. von Stryk. Robocup soccer humanoid league rules
+and setup for the 2008 competition in Suzhou, China, 2008.
+
+20-160 H.-B. Kuntze, C.W. Frey, K. Giesen, and G. Milighetti. Fault tolerant supervisory control of human interactive robots. In IFAC Workshop on Advanced Control and Diagnosis, pages 55–60, 2003.
+
+20-161 S. Kuppa. Injury criteria for side impact dummies. NHTSA, 2004.
+
+20-162 J.C. Lagarias, J.A. Reeds, M.H. Wright, and P.E. Wright. Convergence properties of the nealder-mead simplex method in low dimensions. SIAM Journal on Optimisation, 9:112–147, 1998.
+
+20-163 J.-C. Latombe. Robot Motion Planning. Kluwer Academic Publishers, Norwell, MA, USA, 1991.
+
+20-164 I.V. Lau and D.C. Viano. Role of impact velocity and chest compression in thoraic injury. Avia. Space Environ. Med., 56:16–21, 1983.
+
+20-165 I.V. Lau and D.C. Viano. Thoracic impact: A viscous tolerance criterion. Tenth Experimental Safety Vehicle Conference, pages 16–21, 1985.
+
+20-166 I.V. Lau and D.C. Viano. The viscous criterion - basis and applications of an injury severity index for soft tissues. Proceedings of 30th Stapp Car Crash Conference, SAE Technical Paper No. 861882:123–142, 1986.
+
+20-167 K. Laurin-Kovitz, J. E. Colgate, and S. D. R. Carnes. Design of pro- grammable passive impedance. IEEE Int. Conf. on Robotics and Automa- tion (ICRA1991), Sacramento, USA, pages 1476–1481, 1991.
+
+20-168 S.M. LaValle, J.H. Yakey, and L.E. Kavraki. A probabilistic roadmap ap- proach for systems with closed kinematic chains, 1999.
+
+20-169 A. Lees and L. Nolan. The biomechanics of soccer: A review. Journal of Sport Sciences, 16(3):211–234, 1998.
+
+20-170 Frank L. Lewis, Darren M. Dawson, and Chaouki T. Abdallah. Robot Manipulator Control Theory and Praxis. Marcel Dekker, New York, Basel, 2004.
+
+20-171 P. Li and R. Horowitz. Passive velocity field control of mechanical ma- nipulators. In IEEE Int. Conf. on Robotics and Automation (ICRA1995), Nagoya/Aichi,Japan, pages 2764–2770, 1995.
+
+20-172 H.-Ok. Lim and K. Tanie. Human safety mechanisms of human-friendly robots: Passive viscoelastic trunk and passively movable Base. The Int. J. of Robotics Research, 19(4):307–335, 2000.
+
+20-173 H.R. Lissner, M. Lebow, and F.G. Evans. Experimental studies on the relation between acceleration and intracranial pressure changes in man. Surgery, Gynecology, and Obstetrics, 111:320–338, 1960.
+
+20-174 J. Liu, J.D. Simeral, S.D. Stavisky, D. Bacher, J. Vogel, S. Haddadin, L.R. van der Smagt, P. Hochberg, and J.P. Donoghue. Control of a robotic arm using intracortical motor signals by an individual with tetraplegia in the braingate2 trial. In Annual Meeting of Society for Neuroscience (SFN2010), 2010.
+
+20-175 T.E. Lobdell, C.K. Kroell, D.C. Scheider, and W.E. Hering. Impact re- sponse of the human thorax. Symposium on Human Impact Response, pages 201–245, 1972.
+
+20-176 S.Lohmeier,T.Buschmann,H.Ulbrich,andF.Pfeiffer.Modularjointde- sign for a performance enhanced humanoid robot. In IEEE Int. Conf. on Robotics and Automation (ICRA2006), Orlando, USA, pages 88 – 93, 2006.
+
+20-177 P. Lo ̈wenhielm. Mathematical simulation of gliding contusions. Journal of Biomechanics, 8:351–356, 1975.
+
+20-178 V.J. Lumelsky and E. Cheung. Real-time collision avoidance in teleoper- ated whole-sensitive robotarm manipulators. IEEE Transactions on Sys- tems, Man and Cybernetics, 23:194–203, 1993.
+
+20-179 A.A. Masoud. Kinodynamic motion planning: A novel type of nonlin- ear, passive damping forces and advantages. IEEE Robotics and Automa- tion Mag., 17(1):85–99, 2010.
+
+20-180 J.H. McElhaney, R.L. Stalnaker, and V.L. Roberts. Biomechanical aspects of head injury. Human Impact Response - Measurement and Simulation, 1972.
+
+20-181 A. McGrath and J. Ozanne-Smith. Heading injuries out of soccer: A re- view of the literature. Technical Report 125, Monash University Accident Research Center, 1997.
+
+20-182 B. McHenry. Head Injury Criterion and the ATB.
+
+20-183 J. Melvin. Human tolerance to impact conditions as related to motor
+vehicle design. SAE J885 APR80, 1980.
+
+20-184 J.W. Melvin, W.C. Little, J. Smrcka, Z. Yonghau, and M.J. Salloum. A biomechanical face for the Hybrid III dummy. Proceedings of the 39th Car Crash Conference, 1995.
+
+20-185 J.W. Melvin, R.G. Snyder, L.W. Travis, and N.R. Olson. Response of hu- man larynx to blunt loading. SAE Paper No.730967, Proc. 17th Stapp Car Crash Conf., page 101114, 1973.
+
+20-186 H.J. Mertz. Anthropomorphic test devices. Springer-Verlag, New York, 1993.
+
+20-187 H.J.MertzandL.M.Patrick.Investigationofthekinematicsandkinetics of whiplash. SAE Paper No.670919, Proc. 11th Stapp Car Crash Conf., pages 267–317, 1967.
+
+20-188 H.J. Mertz and L.M. Patrick. Strength and response of the human neck. Proceedings of the 15th Stapp Car Crash Conference, pages 207–255, 1971.
+
+20-189 D. Mewes and F. Mauser. Safeguarding crushing points by limitation of forces. International Journal of Occupational Safety and Ergonomics, 9(9):177–191, 2003.
+
+20-190 S.A. Migliore, E.A. Brown, and S.P. DeWeerth. Biologically inspired joint stiffness control. In IEEE Int. Conf. on Robotics and Automation (ICRA2005), Barcelona, Spain, 2005.
+
+20-191 H. Minoura, R. Kijima, and T. Ojika. Collision avoidance using a virtual electric charge in the electrostatic potential field. In International Con- ference on Virtual Systems and MultiMedia (VSMM1996), pages 289–294, 1996.
+
+20-192 S. Morinaga and K. Kosuge. Collision cetection system for manipulator based on adaptive impedance control law. IEEE Int. Conf. on Robotics and Automation (ICRA2002), Washington DC, USA, pages 1080–1085, 2003.
+
+20-193 T. Morita, H. Iwata, and S. Sugano. Development of human symbiotic robot: WENDY. In IEEE Int. Conf. on Robotics and Automation (ICRA1999), Detroit, USA, pages 3183–3188, 1999.
+
+20-194 T. Morita and S. Sugano. Development of one-dof robot arm equipped with mechanical impedance adjuster. IEEE/RSJ Int. Conf. on Intelligent Robots and Systems (IROS2006), Washington, DC, USA, page 407, 1995.
+
+20-195 R.S. Moshner. From handiman to hardiman. Trans. Soc. Autom. Eng., 16:588–597, 1967.
+
+20-196 R.M. Murray, Z. Li, and S.S. Sastry. A Mathematical Introduction to Robotic Manipulation. CRC, 1 edition, 1994.
+
+20-197 E.R. Myers, A.T. Hecker, D.S. Rooks, J.A. Hipp, and W.C. Hayes. Geo- metric variables from DXA of the radius predict forearm fracture load in vitro. Calcif Tissue Int., 52:199–204, 1993.
+
+20-198 J.A. Newman. A generalized acceleration model for brain injury thresh- old (GAMBIT). International Research Council on Biomechanics of Injury (IRCOBI1986), Bron, France, page 121131, 1986.
+
+20-199 J.A. Newman, N. Shewchenko, and E. Welbourne. A proposed new biomechanical head injury assessment function - the maximum power index. SAE paper 2000-01-SC16 Stapp Car Crash Journal, 44:215–247, 2000.
+
+20-200 NHTSA. Actions to reduce the adverse effects of air bags. FMVSS No. 208, 1997.
+
+20-201 B.M. Nigg, B.R. MacIntosh, and J. Mester, editors. Biomechanics and biol- ogy of movement. Human Kinetics Pub Inc., Champaign, IL, USA, 2000.
+
+20-202 R.W. Nightingale, J.H. McElhaney, D.L. Camacho, M. Kleinberger, B. Winkelstein, and B.S. Myers. The dynamic responses of the cervi- cal spine: Buckling, end conditions, and tolerance in compressive im- pacts. Proceedings of the 41st Stapp Car Crash Conference, SAE Paper No.973344:pp. 771–796, 1997.
+
+20-203 K. Nishiwaki, T. Sugihara, S. Kagami, F. Kanehiro, M. Inaba, and H. In- oue. Design and development of research platform for perception-action integration in humanoid robot: H6. In IEEE/RSJ Int. Conf. on Intelligent Robots and Systems (IROS2000), Takamatsu, Japan, pages 1559–1564, 2000.
+
+20-[204] R. Nisimura, T. Uchida, A. Lee, H. Saruwatari, K. Shikano, and Y. Mat- sumoto. ASKA: receptionist robot with speech dialogue system. In IEEE/RSJ Int. Conf. on Intelligent Robots and Systems (IROS2002), Lausanne, Switzerland, pages 1314–1319, 2007.
+
+20-[205] H. Nunome, T. Asai, Y. Ikegamiand, and S. Sakurai. Three-dimensional kinetic analysis of side-foot and instep soccer kicks. Medicine & Science in Sports & Excercise, 34(12):2028–2036, 2002.
+
+20-[206] GeraldW.Nyquist,JohnM.Cavanaugh,SarahJ.Goldberg,andAlbertI. King. Facial impact tolerance and response. SAE Paper No.861896, Proc. 30th Stapp Car Crash Conference, pages 733–754, 1986.
+
+20-[207] S. Oberer and R.-D. Schraft. Robot-dummy crash tests for robot safety assessment. In IEEE Int. Conf. on Robotics and Automation (ICRA2007), Rome, Italy, pages 2934–2939, 2007.
+
+20-[208] H.J. Oberle. BNDSCO - A Program for the Numerical Solution of Optimal Control Problems, October 2001. Hamburger Beitra ̈ge zur angewandten Mathematik, Bericht 36, Reihe B (German).
+
+20-[209] P. O ̈ gren, N. Egerstedt, and X. Hu. Reactive mobile manipulation using dynamic trajectory tracking. In IEEE Int. Conf. on Robotics and Automation (ICRA2000), San Francisco, USA, pages 3473–3478, 2000.
+
+20-[210] P. Ogren, L.Petersson, M. Egerstedt, and X. Hu. Reactive mobile manip- ulation using dynamic trajectory tracking: Design and implementation, 2000.
+
+20-[211] Y. Ogura, H. Aikawa, K. Shimomura, H. Kondo, A. Morishima, Hun- Ok Lim, and A. Takanishi. Development of a new humanoid robot WABIAN-2. In IEEE Int. Conf. on Robotics and Automation (ICRA2006), Orlando, USA, pages 76–81, 2006.
+
+20-[212] M. Okada, S. Ban, and Y. Nakamura. Skill of compliance with controlled charging/discharging of kinetic energy. In IEEE Int. Conf. on Robotics and Automation (ICRA2002), Washington, USA, pages 2455–2460, 2002.
+
+20-[213] A. Ommaya. Biomechanics of head injury. Bioechanics of Traums. Appleton-Century-Crofts, 1984.
+
+20-[214] A.K.Ommaya,P.Yarnell,A.E.Hirsch,andE.H.Harris.Scalingofexperi- mental data on cerebral concussion in subhuman primates to concussion threshold for man. SAE Paper No670906, Proc. 11th Stapp Car Crash Conf., pages 73–80, 1967.
+
+20-[215] C. Ott. Cartesian Impedance Control of Redundant and Flexible-Joint Robots. Springer Publishing Company, Incorporated, 2008.
+
+20-216 C. Ott, A. Albu-Scha ̈ffer, and G. Hirzinger. A passivity based carte- sian impedance controller for flexible joint robots - Part I: Torque feed- back and gravity compensation. In Int. Conf. on Robotics and Automation (ICRA2004), New Orlenas, USA, pages 2659–2665, 2004.
+
+20-217 C.Ott,C.Baumga ̈rtner,J.Mayr,M.Fuchs,R.Burger,D.Lee,O.Eiberger, A. Albu-Scha ̈ffer, M. Grebenstein, and G. Hirzinger. Development of a biped robot with torque controlled joints. IEEE-RAS International Confer- ence on Humanoid Robots (HUMANOIDS2010), Nashville, USA, 2010.
+
+20-218 G. Palli, C. Melchiorri, T. Wimbo ̈ck, M. Grebenstein, and G. Hirzinger. Feedback linearization and simultaneous stiffness-position control of robots with antagonistic actuated joints. In IEEE Int. Conf. on Robotics and Automation (ICRA2007), Rome, Italy, pages 2928–2933, 2007.
+
+20-219 D. Paluska and H. Herr. The effect of series elasticity on actuator power and work output: Implications for robotic and prosthetic joint design. Robotics and Autonomous Systems, 54:667–673, 2006.
+
+20-220 M. Papageorgiou. Optimierung : statische, dynamische, stochastische Ver- fahren fu ̈ r die Anwendung. Oldenbourg, 2. erw. u. verb. aufl. edition, 1996. (German).
+
+20-221 J.-J.Park,H.-S.Kim,andJ.-B.Song.Saferobotarmwithsafejointmecha- nism using nonlinear spring system for collision safety. IEEE Int. Conf. on Robotics and Automation (ICRA2009), Kobe, Japan, pages 3371–3376, 2009.
+
+20-222 A.J. Parker. Angular acceleration of the head. Humatic Reports PTM 163, 1965.
+
+20-223 S.Parusel.Playingbillardwithananthropomorphicrobotarm.Master’s thesis, FH Kempten & German Aerospace Center (DLR), 07 2009.
+
+20-224 L.M. Patrick. Impact force deflection of the human thorax. SAE Paper No.811014, Proc. 25th Stapp Car Crash Conference, pages 471–496, 1981.
+
+20-225 L.M. Patrick, H.R. Lissner, and E.S. Gurdijan. Survival by design-head protection. SAE Paper No.963-12-0036, Proc. 7th Stapp Car Crash Confer- ence, pages 483–499, 1965.
+
+20-226 R. Paul and B. Shimano. Compliance and control. In Joint Automatic Control Conf. (JACC1976), San Francisco, USA, pages 694–699, 1976.
+
+20-227 Brereton P. Pickard, J. and A. Hewson. Objective method of assessing laceration damage to simulated facial tissues - the triple laceration in- dex. SAE Paper No.1973-12-0010, Proc. 17th Conference of the American Association of Automotive Medicine, 1965.
+
+20-228 F.A. Pintar, N. Yoganandan, and R.H. Eppinger. Response intolerance of the human forearm to impact loading. SAE Paper No.983149, Proc. 42th Stapp Car Crash Conf., pages 65–74, 1998.
+
+20-229 L. Pontrjagin. Mathematische Theorie optimaler Prozesse. Oldenbourg, Mu ̈ nchen, 2., verb. aufl. edition, 1967. (German).
+
+20-230 P. Prasad and H. Mertz. The position of the US delegation to the ISO Working Group 6 on the use of HIC in automotive environment. SAE Paper 851246, 1985.
+
+20-231 P.PrasadandH.Mertz.HybridIIIsternaldeflectionassociatedwiththo- racic injury severities on occupants restrained with force-limiting shoul- der belts. SAE Paper 910812, 1991.
+
+20-232 P. Prasad, H. Mertz, and G. Nusholtz. Head injury risk assessment for forehead impacts. SAE Paper 960099, 1985.
+
+20-233 G.A. Pratt and M. Williamson. Series elastics actuators. IEEE/RSJ Int. Conf. on Intelligent Robots and Systems 1995 (IROS1995), Victoria, Canada, pages 399–406, 1995.
+
+20-234 S. Quinlan. Efficient distance computation between non-convex objects. In IEEE International Conference on Robotics and Automation (ICRA1994), San Diego, USA, pages 3324–3329, 1994.
+
+20-235 S. Quinlan and O. Khatib. Elastic bands: connecting path planning and control. In IEEE Int. Conf. on Robotics and Automation (ICRA1993), Atlanta, USA, pages 802–807, 1993.
+
+20-236 A. Rizzetti, D. Kallieris, P. Schiemann, and P. Mattern. Response and injury of the head-neck unit during a low velocity head impact. Inter- national Research Council on Biomechanics of Injury (IRCOBI1997), pages 194–207, 1997.
+
+20-237 S.N. Robinovitch and J. Chiu. Surface stiffness affects impact force during a fall on the outstretched hand. Journal of Orthopaedic Research, 16(3):309–313, 1998.
+
+20-238 J. Roßmann. Echtzeitfa ̈hige kollisionsvermeidende Bahnplanung fu ̈r Mehrrobotersysteme. PhD thesis, University of Dortmund, 1993. (German).
+
+20-239 J. Roßmann. On-line collision avoidance for multi-robot systems: A new solution considering the robots’ dynamics. In Int. Conf. on Multisensor Fusion and Integration for Intelligent Systems (MFI1996), Washington D.C., USA, pages 249–256, 1996.
+
+20-240 Occupational Safety and Health Administration. Guidelines for Robotic Safety, OSHA PUB 8-1.3. 1987.
+
+20-241 J.K.Salisbuy.ActivestiffnesscontrolofmanipulatorinCartesiancoordi- nates. In Int. Conf. on Decision and Control (CDC1980), Albuquerque, USA, pages 95–100, 1980.
+
+20-242 SARCOS. Sarcos web site. http://www.sarcos.com.
+
+20-243  K. Sato. Collision avoidance in multi-dimensional space using Laplace potential. 15th Conf. Robotics Society Japan,, pages 155–156, 1987.
+
+20-244 K. Sato. Deadlock-free motion planning using the Laplace potential field. Advanced Robotics, 7(5):449–461, 1992.
+
+20-245 H.Schempf,C.Kraeuter,andM.Blackwell.ROBOLEG:Aroboticsoccer- ball kicking leg. In IEEE Int. Conf. on Robotics and Automation (ICRA1995), Nagoya, Aichi, Japan, volume 2, pages 1314 – 1318, 1995.
+
+20-246 R. Schiavi, G. Grioli, S. Sen, and A. Bicchi. VSA-II: a novel prototype of variable stiffness actuator for safe and performing robots interacting with humans. IEEE Int. Conf. on Robotics and Automation (ICRA2008), Pasadena, USA, pages 2171–2176, 2008.
+
+20-247 K.-U. Schmitt. Trauma biomechanics: accidental in traffic and sports. Springer, Berlin, Heidelberg, New York, 2004.
+
+20-248 K.-U. Schmitt, P.F. Niederer, and F. Walz. Trauma biomechanics: introduc- tion to accidental injury. Springer, Berlin Heidelberg, 2007.
+
+20-249 D.C. Schneider and A.M. Nahum. Impact studies of facial bones and skull. SAE Paper No.720965, Proc. 16th Stapp Car Crash Conference, pages 186–204, 1972.
+
+20-250 G. Schro ̈der, D. Kallieris, U. Tscha ̈sche, D. Scheunert, J. Schu ̈tz, and R. Zobel. Are sidebags dangerous in certain sitting positions? Inter- national Research Council on Biomechanics of Injury (IRCOBI1998), pages 477–483, 1998.
+
+20-251 K. Sellier. Zur Physik des Scha ̈deltraumas. Int. Journal of Legal Medicine, 51(3):550–554, 1961. (German).
+
+20-252 K. Sellier and R. Mu ̈ller. Die mechanischen Vorga ̈nge bei Stoßwirkung auf den Scha ̈del. Klinische Wochenschrift, 38(5):233–236, 1960. (German).
+
+20-253 K.SellierandF.Unterharnscheidt.MechanikundPathomorphologieder Hirnscha ̈den nach stumpfer Gewalteinwirkung auf den Scha ̈del. Hefte Unfallheilkunde, 76(1-140):233–236, 1963. (German).
+
+20-254 W.Sepp,S.Fuchs,andG.Hirzinger.Hierarchicalfeaturelesstrackingfor position-based 6-DoF visual servoing. IEEE/RSJ Int. Conf. on Intelligent Robots and Systems (IROS2006), Beijing, China, pages 4310–4315, 2006.
+
+20-255 N. Shewchenko, N. Withnall, M. Keown, R. Gittens, and J. Dvorak. Heading in football. part 1: Development of biomechanical methods to investigate head response. British Journal Sports Medicine, 39:10–25, 2005.
+
+20-256 K.ShiraiandH.Fujisawa.Analgorithmforspokensentencerecognition and its application to the speech input-output system. IEEE Transactions on Systems, Man, and Cybernetics, (4):475–479, 1974.
+
+20-257 S. Shirata, A. Konno, and M. Uchiyama. Design and development of a light-weight biped humanoid robot Saika-4. In IEEE/RSJ Int. Conf. on Intelligent Robots and Systems (IROS2004), Sendai, Japan, pages 148–153, 2004.
+
+20-258 B. Siciliano and O. Khatib, editors. Springer Handbook of Robotics. Springer, 2008.
+
+20-259 L. Singh, H. Stephanou, and J. Wen. Real-time motion control with cir- culatory fields. In IEEE Int. Conf. on Robotics and Automation (ICRA1996), Minneapolis, USA, pages 2737–2742, 1996.
+
+20-260 E.A. Sisbot, L.F. Marin-Urias, R. Alami, and T. Simeon. A human aware mobile robot motion planner. IEEE Transactions on Robotics, 23(5):874– 883, 2007.
+
+20-261 SMErobotTM. The European Robot Initiative for Strengthening the Com- petitiveness of SMEs in Manufacturing. Integrated project funded under the European Union’s Sixth Framework Programme (FP6), 2005. URL: http://www.smerobot.org/.
+
+20-262 J.A. Spadaro, F.W. Werner, R.A. Brenner, M.D. Fortino, L.A. Fay, and W.T. Edwards. Cortical and trabecular bone contribute strength to the osteopenic distal radius. Journal of Orthopaedic Research, 12:211–218, 1994.
+
+20-263 M. Spong. Modeling and control of elastic joint robots. IEEE Journal of Robotics and Automation, pages 291–300, 1987.
+
+20-264 R.L. Stalnaker, T.C. Low, and A.G. Lin. Translational energy criteria and its correlation with head injury in the sub-human primate. Inter- national Research Council on Biomechanics of Injury (IRCOBI1987), Birm- ingham, England, 1987.
+
+20-265 R.L. Stalnaker, J.H. McElhany, and V.L. Roberts. The application of the new mean strain criterion (NMSC). International Research Council on Biomechanics of Injury (IRCOBI1956), Go ̈teborg, Sweden, pages 191–209, 1985.
+
+20-266 R.L. Stalnaker and V. Rojanavich. A practical application of the transla- tional energy potentials. International Research Council on Biomechanics of Injury (IRCOBI1990), Lyon, France, 1990.
+
+20-267 J.P. Stapp. Tolerance to abrupt deceleration. Proceedings of Impact Injury and Crash Protection, pages 308–349, 1955.
+
+20-268 J.P. Stapp. Human Tolerance to Severe, Abrupt Deceleration. Gravitational Stress in Aerospace Medicine, Little, Brown, Boston, 1961.
+
+20-269 A. Stemmer, A. Albu-Scha ̈ffer, and G. Hirzinger. An analytical method for the planning of robust assembly tasks of complex shaped planar parts. In Int. Conf. on Robotics and Automation (ICRA2007), Rome, Italy, pages 317 – 323, 2007.
+
+20-270 K.H.Strobl,E.Wahl,W.Sepp,T.Bodenmu ̈ller,J.F.Seara,M.Suppa,and G. Hirzinger. The DLR hand-guided device: The laser-stripe profiler. In Int. Conf. on Robotics and Automation (ICRA2004), New Orleans, USA, pages 1927 – 1932, 2004.
+
+20-271 K. Suita, Y. Yamada, N. Tsuchida, K. Imai, H. Ikeda, and N. Sugimoto. A failure-to-safety “kyozon” system with simple contact detection and stop capabilities for safe human - autonomous robot coexistence. In IEEE Int. Conf. on Robotics and Automation (ICRA1995), Nagoya/Aichi,Japan, pages 3089–3096, 1995.
+
+20-272 M. Suppa. Autonomous robot work cell exploration using multisensory eye- in-hand systems. PhD thesis, Gottfried Wilhelm Leibniz Universita ̈t Han- nover, 2007.
+
+20-273 M. Suppa, S. Kielho ̈fer, J. Langwald, F. Hacker, K. H. Strobl, and G. Hirzinger. The 3D-Modeller: A multi-purpose vision platform. In IEEE Int. Conf. on Robotics and Automation (ICRA2007), Rome, Italy, pages 781–787, 2007.
+
+20-274 VIACTORS: Variable Impedance ACTuation systems emboying ad- vances interaction behaviORS. VIACTORS web site. Integrated project funded under the European Union’s Sixth Framework Programme (FP7), 2009. http://www.viactors.org/.
+
+20-275 S. Takakura, T. Murakami, and K. Ohnishi. An approach to collision de- tection and recovery motion in industrial robot. In Annual Conference of IEEE Industrial Electronics Society (IECON1989), Philadelphia, USA, pages 421–426, 1989.
+
+20-276 T.-J. Tarn, N. Xi, and A.K. Bejczy. Path-based approach to integrated planning and control for robotic systems. Automatica, 32(12):1675–1687, 1996.
+
+20-277 P. Tomei. A simple pd controller for robots with elastic joints. IEEE Transactions on Automatic Control, 36(10):1208–1213, 1991.
+
+20-278 G. Tonietti, R. Schiavi, and A. Bicchi. Design and control of a variable stiffness actuator for safe and fast physical human/robot interaction. In IEEE Int. Conf. on Robotics and Automation (ICRA2005), Barcelona, Spain, pages 528–533, 2005.
+
+20-279 W.T. Townsend and J.K. Salisbury. Mechanical design for whole-arm manipulation. In P. Dario, G. Sandini, and P. Aebischer, editors, Robots and Biological Systems: Towards a New Bionics?, pages 153–164. Springer, 1993.
+
+20-280 K.T. Ulrich, T.T. Tuttle, J.P. Donoghue, and W.T. Townsend. Intrinsically safer robots. Technical report, 139 Main Street, Kendall Square, May 1995.
+
+20-281 H. Unbehauen. Regelungstechnik III, Identifikation, Adaption, Optimierung. Oldenbourg, 6., durchges. Aufl. edition, 1989. (German).
+
+20-283 United Auto Workers. Review of robot injuries - one of the best kept secrets. In National Robot Safety Conference, Ypsilanti, USA, 2004.
+
+20-283 H. Urbanek, A. Albu-Scha ̈ffer, and P. van der Smagt. Learning from demonstration: repetitive movements for autonomous service robotics. In IEEE/RSJ Int. Conf. on Intelligent Robots and Systems (IROS2004), Sendai, Japan, pages 3495–3500, 2004.
+
+20-284 M. Van Damme, B. Vanderborght, B. Verrelst, R. Van Ham, F. Daerden, and D. Lefeber. Proxy-based sliding mode control of a planar pneumatic manipulator. In The Int. Journal of Robotics Research, pages 266–284, 2009.
+
+20-285 R. Van Ham, B. Vanderborght, M. Van Damme, B. Verrelst, and D. Lefeber. MACCEPA, the mechanically adjustable compliance and controllable equilibrium position actuator: Design and implementation in a biped robot. Robotics and Autonomous Systems, 55:761–768, 2007.
+
+20-286 B. Vanderborght, B. Verrelst, R. Van Ham, M. Van Damme, D. Lefeber, B.M.Y. Duran, and P. Beyl. Exploiting natural dynamics to reduce energy consumption by controlling the compliance of soft actuators. The Int. J. of Robotics Research, 25(4):343–358, 2006.
+
+20-287 J. Versace. A review of the severity index. Proc 15th Stapp Conference, SAE Paper No.710881:pp. 771–796, 1971.
+
+20-288 D.C. Viano, C. Bir, T. Walilko, and D. Sherman. Ballistic impact to the forehead, zygoma, and mandible: Comparison of human and frangible dummy face biomechanics. The Journal of Trauma, 56(6):1305–1311, 2004.
+
+20-289 J. Vogel, S. Haddadin, J. D. Simeral, D. Stavisky, S. D. Bacher, L. R. Hochberg, J. P. Donoghue, and P. van der Smagt. Continuous control of the DLR Lightweight Robot III by a human with tetraplegia using the BrainGate2 neural interface system. In International Symposium on Exper- imental Robotics (ISER2010), Dehli, India, 2010.
+
+20-290 A. von Prittwitz und Gaffron. Bestimmung der Kraft durchbohrender Ein- stiche am menschlichen Thorax mit einem “in situ” - Messverfahren. PhD thesis, University of Heidelberg, 1974. (German).
+
+20-291 D. Walter, H. Ta ̈ubig, and C. Lu ̈th. Experiences in applying formal ver- ification in robotics. In 29th International Conference on Computer Safety, Reliability and Security. International Conference on Computer Safety, Relia- bility and Security (SAFECom-2010), Vienna, Austria, pages 477–483, 2010.
+
+20-292 C.W. Warren. Global path planning using artificial potential fields. In IEEE Int. Conf. on Robotics and Automation (ICRA1989), Scottsdale, USA, pages 316–321, 1989.
+
+20-[293] M. Wassink and S. Stramigioli. Towards a novel safety norm for do- mestic robots. In IEEE/RSJ Int. Conf. on Intelligent Robots and Systems (IROS2007), San Diego, USA, 2007.
+
+20-[294] W. Weber and H. Schweitzer. Stichversuche an Leichen mit unter- schiedlicher kinetischer Energie. Beitra ̈ge Gerichtliche Medizin, 31:180– 184, 1973. (German).
+
+20-[295] J. Wesson. The Science of Soccer. IOP Publishing Ltd., Dirac House, Tem- ple Back, Bristol, 2002.
+
+20-[296] D.E. Whitney. Force feedback control of manipulator fine motions. ASME J. of Dynamic Systems, Measurement, and Control, 99:91–97, 1977.
+
+20-[297] D.E. Whitney. Quasi-static assembly of compliantly supported rigid parts. ASME J. of Dynamic Systems, Measurement, and Control, 99:65–77, 1982.
+
+20-[298] C Withnall, N Shewchenko, R Gittens, and J Dvorak. Biomechanical in- vestigation of head impacts in football. British Journal of Sports Medicine, 39:49–57, 2005.
+
+20-[299] S. Wolf and G. Hirzinger. A new variable stiffness design: Matching requirements of the next robot generation. IEEE Int. Conf. on Robotics and Automation (ICRA2008), Pasadena, USA, pages 1741–1746, 2008.
+
+20-[300] Data Processing Vehicle Safety Workgroup. Crahs analysis criteria ver- sion 1.6.1. 2004.
+
+20-[301] Y. Yamada, Y. Hirasawa, S.Y. Huand, and Y. Umetani. Fail-safe hu- man/robot contact in the safety space. IEEE Int. Workshop on Robot and Human Communication, pages 59–64, 1996.
+
+20-[302] Y. Yamada, Y. Hirasawa, S. Huang, Y. Umetani, and K. Suita. Human- robot contact in the safeguarding space. IEEE/ASME Transactions on Mechatronics, 2(4):230–236, 1997.
+
+20-[303] Y. Yamada, H. Konosu, T. Morizono, and Y. Umetani. Proposal of skill- assist: a system of assisting human workers by reflecting their skills in positioning tasks. IEEE International Conference on Systems, Man, and Cy- bernetics (SMC1999), Tokyo, Japan, pages 11 – 16, 1999.
+
+20-[304] J. Yamaguchi, S. Inoue, D. Nishino, and A. Takanishi. Development of a bipedal humanoid robot having antagonistic driven joints and three DOF trunk. In IEEE/RSJ Int. Conf. on Intelligent Robots and Systems (IROS1998), Victoria, B.C., Canada, pages 96–101, 1998.
+
+20-[305] J. Yamaguchi, D. Nishino, and A. Takanishi. Realization of dynamic biped walking varying joint stiffness using antagonistic driven joints. In IEEE Int. Conf. on Robotics and Automation (ICRA1998), Leuven, Belgium, pages 2022–2029, 1998.
+
+20-[306] Y. Yamamoto and X. Yun. Coordinated obstacle avoidance of a mobile manipulator. In IEEE Int. Conf. on Robotics and Automation (ICRA1995), Nagoya, Aichi, Japan, volume 3, pages 2255–2260, 1995.
+
+20-[307] C. Yang, G. Gowrishankar, S. Haddadin, S. Parusel, A. Albu-Scha ̈ffer, and E. Burdet. Human like adaptation of force and impedance in stable and unstable interactions. accepted: IEEE Transactions on Robotics, 2010.
+
+20-[308] M. Zinn, O. Khatib, and B. Roth. A new actuation approach for human friendly robot design. The Int. J. of Robotics Research, 23:379–398, 2004.
+
+20-[309] L. Zollo, B. Siciliano, A. De Luca, E. Guglielmelli, and P. Dario. Com- pliance control for an anthropomorphic robot with elastic joints: Theory and experiments. ASME Journal of Dynamic Systems, Measurements and Control, (127):321–328, 2005.
 
 [21]Hansen, K. M., Wells, L., Maier, T., 2004. HAZOP analysis of UML-based software architecture descriptions of safety-critical systems. In: Nordic Workshop on UML and Software Modeling (NWUML04).
 
@@ -1244,7 +1876,7 @@ summary
 |17|32|	
 |18|46|	
 |19|30|	
-20	
+|20|309|	
 21	
 22	
 23	
@@ -1273,7 +1905,7 @@ summary
 46	
 47	
 48
-|sum|425||
+|sum|734||
 
 
 # ref
