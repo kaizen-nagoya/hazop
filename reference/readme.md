@@ -5,8 +5,10 @@ https://arxiv.org/pdf/1602.03139.pdf
 Reference
 
 [1] 2006/42/EC, 2006. Council directive on machinery. Official Journal of the European Union L157.
+https://osha.europa.eu/en/legislation/directives/directive-2006-42-ec-of-the-european-parliament-and-of-the-council
 
 [2] 93/42/EEC, 1993. Council directive of the 14th of june 1993 concerning med- ical devices. Official Journal of the European Union.
+https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CONSLEG:1993L0042:20071011:en:PDF
 
 [3] Alemzadeh, H., Chen, D., Lewis, A., Kalbarczyk, Z., Iyer, R., 2015. Systems-theoretic safety assessment of robotic telesurgical system. In: 34th International Conference on Computer Safety, Reliability and Security.
 https://arxiv.org/abs/1504.07135
@@ -471,6 +473,7 @@ Addison-Wesley, 1999.
 SAND Report 99-1242. Sandia National Laboratories, 1999.
 
 [8] Blanquart, J.-P., 2010. Survey of state of the art and of the practice in safety and diagnosability. Tech. Rep. D SP1 R5.8 M2, EADS Astrium Satellites, CESAR European Project.
+https://www.researchgate.net/profile/Jean-Paul_Blanquart
 
 
 [9] Boiteau, M., Dutuit, Y., Rauzy, A., Signoret, J.-P., 2006. The AltaRica data-flow language in use: modeling of production availability of a multi-state system. Reliability Engineering & System Safety 91 (7), 747 – 755. https://ideas.repec.org/a/eee/reensy/v91y2006i7p747-755.html
@@ -607,6 +610,24 @@ study. Journal of Systems Software 28: 9-18, 1995.
 validating technology. IEEE Computer 31: 23-31, 1998
 
 [12] CPSELabs, 2015-2018. Cyber-Physical Systems Engineering Labs. Project funded by the European Union, Horizon2020 Programme, http://www.cpse-labs.eu, accessed 2015-05-17.
+
+12-1 D1.1 Data management plan. D1.1 Published in July 2015 by CPSE Labs
+12-2 D1.2 Quality management plan. D1.2 Published in August 2015 by CPSE Labs
+12-3 D1.6 Collaboration plan with other SAE projects. D1.6 Published in May 2015 by CPSE Labs
+12-4 D2.2 Communication plan.Deliverable D2.2 (Communication Plan) is revisited and refreshed every six months. We publish the most recent version. D2.2 Published in January 2016 by CPSE Labs. This is D2.2 Month 12 refresh
+12-5 D2.4 Public Materials. D2.4 Published in January 2016 by CPSE Labs.
+12-6 D3.1 Open Call Process. D3.1 Published in May 2015 by CPSE Labs
+12-7 D3.2 Information events and coaching activities D3.2 Due later in 2016.
+12-8 D3.3 Call texts. D3.3 Published in May 2016 by CPSE Labs
+12-9 D4.1 Centre Handbook. D4.1 Published in June 2015 by CPSE Labs
+12-10 D4.2 Report on best practices and professional training. D4.2 Published in February 2016 by CPSE Labs
+12-11 D4.3 Innovation and Management Report D4.3 Due in 2018.
+12-12 D4.4 Strategic Innovation Agenda for CPS. D4.4 Published in December 2015 by CPSE Labs
+12-13 D4.5 Market Place Report D4.5 Due in 2018.
+12-14 D4.6 Design Centres Final Report D4.6 Due in 2018.
+12-15 D5.1 Dissemination and Exploitation plan D5.1 Due later in 2016.
+12-16 D5.2 Annual Report on Dissemination Activities. D5.2 Published in March 2016 by CPSE Labs
+12-17 D6.3 Final Experiments Report D6.3 Due in 2018.
 
 [13] DefStan00-58, 2000. HAZOP studies on systems containing programmable electronics. Defence Standard, Ministry of Defence, UK, part 1 and 2.
 
@@ -1895,8 +1916,16 @@ M. Barbacci, Eds., Computer Hardware Description Languages and their Application
 IEEE COMPSAC '77 Conference (1977) 242 251
 
 [23]IEC61508-5, 2010. Functional safety of electrical/electronic/programmable electronic safety-related systems: Part 5: Examples of methods for the de- termination of safety integrity level. International Electrotechnical Commission.
+https://webstore.iec.ch/preview/info_iec61508-5%7Bed2.0%7Db.pdf
+
+23-1 Normative Reference
+23-1-1 IEC 61508-1:2010, Functional safety of electrical/electronic/programmable electronic safety- related systems – Part 1: General requirements
+
+23-1-2 IEC 61508-4:2010, Functional safety of electrical/electronic/programmable electronic safety- related systems – Part 4: Definitions and abbreviations
 
 [24]IEC61882, 2001. Hazard and operability studies (HAZOP studies) – Application guide. International Electrotechnical Commission.
+
+23-2 Bibliographie
 
 v.2001
 24-1-1 IEC 60300-3-9, Dependability management – Part 3: Application guide – Section 9: Risk analysis of technological systems
@@ -1943,10 +1972,303 @@ https://pdfs.semanticscholar.org/1418/846a29dc95a6230be7d23c07fb9ea9400ccf.pdf?_
 25-4. Leveson, Nancy G., “Software Challenges in Achieving Space Safety,” Journal of the British Interplanetary Society (JBIS), Volume 62, 2009.
 
 [26]ISO10218-1, 2011. Robots for industrial environments – safety requirements – part 1: Robot. International Organization for Standardization.
+https://www.sis.se/api/document/preview/907442/
+
+26-1 Normative Reference
+
+26-1 ISO 9283:1998, Manipulating industrial robots — Performance criteria and related test methods
+
+26-2 ISO 12100-1:2003, Safety of machinery — Basic concepts, general principles for design — Part 1: Basic
+terminology, methodology
+
+26-3 ISO 12100-2:2003, Safety of machinery — Basic concepts, general principles for design — Part 2: Technical principles
+
+26-4 ISO 13849-1:1999, Safety of machinery — Safety-related parts of control systems — Part 1: General principles for design
+
+26-5 ISO 13850, Safety of machinery — Emergency stop — Principles for design
+
+26-6 ISO 13855, Safety of machinery — Positioning of protective equipment with respect to the approach speeds of
+parts of the human body
+
+26-7 ISO 14121:1999, Safety of machinery — Principles for risk assessment
+
+26-8 IEC 60204-1:2005, Safety of machinery — Electrical equipment of machines — Part 1: General requirements
+
+26-9 IEC 61000-6-2, Electromagnetic compatibility (EMC) — Part 6-2: Generic standards — Immunity for industrial environments
+
+26-10 IEC 61000-6-4, Electromagnetic compatibility (EMC) — Part 6: Generic standards — Section 4: Emission standard for industrial environments
+
+26-2 Bibliography .
+
 
 [27]ISO13482, 2014. Robots and robotic devices – safety requirements for per- sonal care robots. International Organization for Standardization.
+https://www.iso.org/obp/ui/#iso:std:iso:13482:ed-1:v1:en
+
+27-1- Normative Reference
+
+27-1- ISO 2631 (all parts), Mechanical vibration and shock — Evaluation of human exposure to whole-body vibration
+
+27-1- ISO 3746, Acoustics — Determination of sound power levels and sound energy levels of noise sources using sound pressure — Survey method using an enveloping measurement surface over a reflecting plane
+
+27-1- ISO 3864-1, Graphical symbols — Safety colours and safety signs — Part 1: Design principles for safety signs and safety markings
+
+27-1- ISO 4413, Hydraulic fluid power — General rules and safety requirements for systems and their components
+
+27-1- ISO 4414, Pneumatic fluid power — General rules and safety requirements for systems and their components
+
+27-1- ISO 4871, Acoustics — Declaration and verification of noise emission values of machinery and equipment
+
+27-1- ISO 7000, Graphical symbols for use on equipment — Registered symbols
+
+27-1- ISO 7010, Graphical symbols — Safety colours and safety signs — Registered safety signs
+
+27-1- ISO 8373:2012, Robots and robotic devices — Vocabulary
+
+27-1- ISO 11202, Acoustics — Noise emitted by machinery and equipment — Determination of emission sound pressure levels at a work station and at other specified positions applying approximate environmental corrections
+
+27-1- ISO 12100:2010, Safety of machinery — General principles for design — Risk assessment and risk reduction
+
+27-1- ISO 13849-1, Safety of machinery — Safety-related parts of control systems — Part 1: General principles for design
+
+27-1- ISO 13850, Safety of machinery — Emergency stop — Principles for design
+
+27-1- ISO 13854, Safety of machinery — Minimum gaps to avoid crushing of parts of the human body
+
+27-1- ISO 138551, Safety of machinery — Positioning of safeguards with respect to the approach speeds of parts of the human body
+
+27-1- ISO 13856 (all parts), Safety of machinery — Pressure-sensitive protective devices
+
+27-1- ISO 13857, Safety of machinery — Safety distances to prevent hazard zones being reached by upper and lower limbs
+
+27-1- ISO 14118, Safety of machinery — Prevention of unexpected start-up
+
+27-1- ISO 14119, Safety of machinery — Interlocking devices associated with guards — Principles for design and selection
+
+27-1- ISO 14120, Safety of machinery — Guards — General requirements for the design and construction of fixed and movable guards
+
+27-1- ISO 15534 (all parts), Ergonomic design for the safety of machinery1
+
+27-1- IEC 60204-1:2009, Safety of machinery — Electrical equipment of machines — Part 1: General requirements
+
+27-1- IEC 60335-1, Household and similar electrical appliances — Safety — Part 1: General requirements
+
+27-1- IEC 60335-2-29, Household and similar electrical appliances — Safety — Part 2-29: Particular requirements for battery chargers
+
+27-1- IEC 60417-1, Graphical symbols for use on equipment — Part 1: Overview and application
+
+27-1- IEC 60529, Degrees of protection provided by enclosures (IP Code)
+
+27-1- IEC 60825-1, Safety of laser products — Part 1: Equipment classification and requirements
+
+27-1- IEC 61140, Protection against electric shock — Common aspects for installation and equipment
+
+27-1- IEC 61496 (all parts), Safety of machinery — Electro-sensitive protective equipment
+
+27-1- IEC 62061:2012, Safety of machinery — Functional safety of safety-related electrical, electronic and programmable electronic control systems
+
+27-1- IEC 62471, Photobiological safety of lamps and lamp systems
+
+Bibliography
+
+[1]	ISO 1996 (all parts), Acoustics — Description, measurement and assessment of environmental noise
+[2]	ISO 2919, Radiological protection — Sealed radioactive sources — General requirements and classification
+[3]	ISO 3740, Acoustics — Determination of sound power levels of noise sources — Guidelines for the use of basic standards
+[4]	ISO 3925, Unsealed radioactive substances — Identification and documentation
+[5]	ISO 4126 (all parts), Safety devices for protection against excessive pressure
+[6]	ISO 6385, Ergonomic principles in the design of work systems
+[7]	ISO 7176 (all parts), Wheelchairs
+[8]	ISO 7212, Enclosures for protection against ionizing radiation — Lead shielding units for 50 mm and 100 mm thick walls
+[9]	ISO 7243, Hot environments — Estimation of the heat stress on working man, based on the WBGT-index (wet bulb globe temperature)
+[10]	ISO 7250 (all parts), Basic human body measurements for technological design
+[11]	ISO 9000:2005, Quality management systems — Fundamentals and vocabulary
+[12]	ISO/TR 9241-100, Ergonomics of human-system interaction — Part 100: Introduction to standards related to software ergonomics
+[13]	ISO 9241-210, Ergonomics of human-system interaction — Part 210: Human-centred design for interactive systems
+[14]	ISO 9241-400, Ergonomics of human — system interaction — Part 400: Principles and requirements for physical input devices
+[15]	ISO 9241-920, Ergonomics of human-system interaction — Part 920: Guidance on tactile and haptic interactions
+[16]	ISO 10218-1:2011, Robots and robotic devices — Safety requirements for industrial robots — Part 1: Robots
+[17]	ISO 10218-2:2011, Robots and robotic devices — Safety requirements for industrial robots — Part 2: Robot systems and integration
+[18]	ISO 11200, Acoustics — Noise emitted by machinery and equipment — Guidelines for the use of basic standards for the determination of emission sound pressure levels at a work station and at other specified positions
+[19]	ISO 11228-1, Ergonomics — Manual handling — Part 1: Lifting and carrying
+[20]	ISO/TR 11688 (all parts), Acoustics — Recommended practice for the design of low-noise machinery and equipment
+[21]	ISO 13732 (all parts), Ergonomics of the thermal environment — Methods for the assessment of human responses to contact with surfaces
+[22]	ISO 13823, General principles on the design of structures for durability
+[23]	ISO 13849-2, Safety of machinery — Safety-related parts of control systems — Part 2: Validation
+[24]	ISO 14123 (all parts), Safety of machinery — Reduction of risks to health from hazardous substances emitted by machinery
+[25]	ISO 14152, Neutron radiation protection shielding — Design principles and considerations for the choice of appropriate materials
+[26]	ISO 14738, Safety of machinery — Anthropometric requirements for the design of workstations at machinery
+[27]	ISO/TS 15066, Robots and robotic devices — Safety requirements for industrial robots — Collaborative operation3
+[28]	ISO/TS 15666, Acoustics — Assessment of noise annoyance by means of social and socio-acoustic surveys
+[29]	ISO 15667, Acoustics — Guidelines for noise control by enclosures and cabins
+[30]	ISO 15686-1, Buildings and constructed assets — Service life planning — Part 1: General principles and framework
+[31]	ISO 15686-2, Buildings and constructed assets — Service life planning — Part 2: Service life prediction procedures
+[32]	IEC/TS 61000-1-2, Electromagnetic compatibility (EMC) — Part 1-2: General — Methodology for the achievement of functional safety of electrical and electronic systems including equipment with regard to electromagnetic phenomena
+[33]	IEC 61000-4-2, Electromagnetic compatibility (EMC) — Part 4-2: Testing and measurement techniques — Electrostatic discharge immunity tests
+[34]	IEC 61000-6-1, Electromagnetic compatibility (EMC) — Part 6-1: Generic standards — Immunity for residential, commercial and light-industrial environments
+[35]	IEC 61000-6-2, Electromagnetic compatibility (EMC) — Part 6-2: Generic standards — Immunity for industrial environments
+[36]	IEC 61000-6-3, Electromagnetic compatibility (EMC) — Part 6-3: Generic standards — Emission standard for residential, commercial and light-industrial environments
+[37]	IEC 61000-6-4, Electromagnetic compatibility (EMC) — Part 6-4: Generic standards — Emission standard for industrial environments
+[38]	IEC 61160, Design review
+[39]	IEC 61508-7, Functional safety of electrical/electronic/programmable electronic safety-related systems — Part 7: Overview of techniques and measures
+[40]	IEC 61800-5-2, Adjustable speed electrical power drive systems — Part 5-2: Safety requirements — Functional
+[41]	IEC 61851 (all parts), Electric vehicle conductive charging system
+[42]	IEC/TS 62046, Safety of machinery — Application of protective equipment to detect the presence of persons
+[43]	IEC 62079, Preparation of instructions — Structuring, content and presentation
+[44]	EN 50272 (all parts), Safety requirements for secondary batteries and battery installations
+[45]	ANSI/RIA R15.06-1999, Industrial robots and robot systems — Safety requirements
+[46]	T. Fujikawa, M. Kubota, Y. Yamada, H. Ikeda Evaluation of Injury Level and Probability for Risk Assessment of Mobile Robots, Proceedings of SIAS2012, 2012
+[47]	S. Haddadin, A. Albu-Schäffer, G. Hirzinger Safety evaluation of physical human-robot interaction via crash-testing, Robotics: Science and Systems Conference (RSS2007), Atlanta, USA, pp. 217–224, 2007
+[48]	S. Haddadin, A. Albu-Schäffer, M. Frommberger, J. Rossmann, G. Hirzinger The DLR Crash Report: Towards a Standard Crash-Testing Protocol, for Robot Safety - Part I: Results, 2009 IEEE Int Conf on Robotics and Automation (ICRA’2009), Kobe Int Conf Center, Kobe, Japan, May 12-17, pp 272-279, 2009
+[49]	S. Haddadin, A. Albu-Schäffer, G. Hirzinger Requirements for safe robots: Measurements, analysis and new insights. Int. J. Robot. Res. 2009, 28 (11-12) pp. 1507–1527
+[50]	S. Haddadin, A. Albu-Schäffer, G. Hirzinger Soft-tissue injury in robotics. ICRA, 2010
+[51]	S. Haddadin, A. Albu-Schäffer Fahed Haddadin, Jürgen Roßmann, and Gerd Hirzinger: Experimental Safety Study on Soft-tissue Injury in Robotics. IEEE Robot. Autom. Mag. 2011 Dec., 18 (4) pp. 20–34
+[52]	S. Haddadin, A. Haddadin, S. Khoury, T. Rokahr, S. Parusel, R. Burgkart On making robots understand safety: Embedding injury knowledge into control. Int. J. Robot. Res. 2012
+[53]	S. Haddadin Human Injury in Robotics: Technical Report. DLR, Germany, 2012
+[54]	O. Khatib Inertial properties in robotic manipulation: an object-level framework. Int. J. Robot. Res. 1995, 14 (1) pp. 19–36
+[55]	National Highway Traffic Safety Administration FMVSS 208 Occupant crash protection and National Highway Traffic Safety Administration, Proposed Amendment to FMVSS No 213 Frontal Test Procedure. U.S. Department of Transportation, 2002
+[56]	K. Ono, A. Kikuchi, M. Nakamura, H. Kobayashi, N. Nakamura Human head tolerance to sagittal impact – Reliable estimation deduced from experimental head injury using subhuman primates and human cadaver skulls, Proceedings SAE Technical Paper 801303, doi:, 1980 [no rendering defined for element: pub-id ] 10.4271/801303
+[57]	Y. Yamada, K. Suita, K. Imai, H. Ikeda, N. Sugimoto A failure-to-safety robot system for human-robot coexistence. Robot. Auton. Syst. 1996, 18 (1-2) pp. 283–291
+[58]	Y. Yamada, Y. Hirasawa, S.Y. Huang, Y. Umetani, K. Suita Human-Robot Contact in the Safeguarding Space, IEEE/ASME Trans. on Mechatronics, Vol.2, No.4, pp.230-236, 1997
+[59]	T.P. Ruedi, R.E. Buckley, C.G. Morgan AO Principles of Fracture Management, Thieme, Ed., 2007.Information on the design of workplaces with collaborative robots, U 001/2009e (October 2009 edition, revised February 2011), Available from <http://www.dguv.de/ifa/en/pra/kollaborierende_roboter>
+
 
 [28]ISO13849-1, 2006. Safety of machinery – safety-related parts of control sys- tems – part 1: General principles for design. International Organization for Standardization.
+https://www.iso.org/obp/ui/#iso:std:iso:13849:-1:ed-3:v1:en
+
+28-1 Normative Reference
+
+28-1-1 ISO 12100:2010, Safety of machinery — General principles for design — Risk assessment and risk reduction
+
+28-1-2 ISO 13849-2:2012, Safety of machinery — Safety-related parts of control systems — Part 2: Validation
+
+28-1-3 IEC 60050-191:1990, International electrotechnical vocabulary — Chapter 191: Dependability and quality of service. Amended by IEC 60050-191-am1:1999 and IEC 60050-191-am2:2002:1999
+
+28-1-4 IEC 61508-3:2010, Functional safety of electrical/electronic/programmable electronic safety-related systems — Part 3: Software requirements. Corrected by IEC 61508-3/Cor.1:1999
+
+28-1-5 IEC 61508-4:2010, Functional safety of electrical/electronic/programmable electronic safety-related systems — Part 4: Definitions and abbreviations. Corrected by IEC 61508-4/Cor.1:1999
+
+28-1-6 IEC 62061:2012, Safety of machinery — Functional safety of safety–related electrical, electronic and programmable electronic control systems
+
+28-1-7 ISO/TR 22100-2:2013, Safety of machinery — Relationship with ISO 12100 — Part 2: How ISO 12100 relates to ISO 13849‑1
+
+28-1-8 ISO/TR 23849, Guidance on the application of ISO 13849-1 and IEC 62061 in the design of safety-related control systems for machinery
+
+28-2 Bibliography, Publications on programmable electronic systems
+
+28-2-[1]	IEC 61000-4-4, Electromagnetic compatibility (EMC) — Part 4: Testing and measurement techniques — Section 4: Electrical fast transient/burst immunity test
+
+28-2-[2]	IEC 61496-1, Safety of machinery — Electro-sensitive protective equipment — Part 1: General requirements and tests
+
+28-2-[3]	IEC 61496-2, Safety of machinery — Electro-sensitive protective equipment — Part 2: Particular requirements for equipment using active opto-electronic protective devices
+
+28-2-[4]	IEC 61496-3, Safety of machinery — Electro-sensitive protective equipment — Part 3: Particular requirements for active opto-electronic protective devices responsive to diffuse reflection (AOPDDR)
+
+28-2-[5]	IEC 61508-1:1998, Functional safety of electrical/electronic/programmable electronic safety-related systems — Part 1: General requirements
+
+28-2-[6]	IEC 61508-2:2000, Functional safety of electrical/electronic/programmable electronic safety-related systems — Part 2: Requirements for electrical/electronic/programmable electronic safety-related systems
+
+28-2-[7]	IEC 61508-5:1998, Functional safety of electrical/electronic/programmable electronic safety-related systems — Part 5: Examples of methods for the determination of safety integrity levels
+
+28-2-[8]	IEC 61508-6:2000, Functional safety of electrical/electronic/programmable electronic safety-related systems — Part 6: Guidelines on the application of IEC 61508‑2 and IEC 61508‑3
+
+28-2-[9]	IEC 61508-7:2000, Functional safety of electrical/electronic/programmable electronic safety-related systems — Part 7: Overview of techniques and measures
+
+28-2-[10]	HSE Guidelines Programmable Electronic Systems in Safety-related Applications, Parts 1 (ISBN 0 11 883906 6) and 2 (ISBN 0 11 883906 3)
+
+28-2-[11]	CECR-184, Personal Safety in Microprocessor Control Systems (Elektronikcentralen, Denmark)
+
+Further publications
+
+28-2-[12]	ISO 13850, Safety of machinery — Emergency stop — Principles for design
+
+28-2-[13]	ISO 13851, Safety of machinery — Two-hand control devices — Functional aspects and design principles
+
+28-2-[14]	ISO 13856-1, Safety of machinery — Pressure-sensitive protective devices — Part 1: General principles for design and testing of pressure-sensitive mats and pressure-sensitive floors
+
+28-2-[15]	ISO 13856-2, Safety of machinery — Pressure-sensitive protective devices — Part 2: General principles for design and testing of pressure-sensitive edges and pressure-sensitive bars
+
+28-2-[16]	ISO 11428, Ergonomics — Visual danger signals — General requirements, design and testing
+
+28-2-[17]	ISO 9001, Quality management systems — Requirements
+
+28-2-[18]	ISO 9355-1, Ergonomic requirements for the design of displays and control actuators — Part 1: Human interactions with displays and control actuators
+
+28-2-[19]	ISO 9355-2, Ergonomic requirements for the design of displays and control actuators — Part 2: Displays
+
+28-2-[20]	ISO 9355-3, Ergonomic requirements for the design of displays and control actuators — Part 3: Control actuators
+
+28-2-[21]	ISO 11429, Ergonomics — System of auditory and visual danger and information signals
+
+28-2-[22]	ISO 7731, Ergonomics — Danger signals for public and work areas — Auditory danger signals
+
+28-2-[23]	ISO 4413, Hydraulic fluid power — General rules and safety requirements for systems and their components
+
+28-2-[24]	ISO 4414, Pneumatic fluid power — General rules and safety requirements for systems and their components
+
+28-2-[25]	ISO 13855:2010, Safety of machinery — Positioning of protective equipment with respect to the approach speeds of parts of the human body
+
+28-2-[26]	ISO 14118, Safety of machinery — Prevention of unexpected start-up
+
+28-2-[27]	ISO 19973 (all parts), Pneumatic fluid power — Assessment of component reliability by testing
+
+28-2-[28]	IEC 60204-1:2005, Safety of machinery — Electrical equipment of machines — Part 1: General requirements
+
+28-2-[29]	IEC 60447, Basic and safety principles for man-machine interface (MMI) — Actuating principles
+
+28-2-[30]	IEC 60529, Degrees of protection provided by enclosures (IP code)
+
+28-2-[31]	IEC 60812, Analysis techniques for system reliability — Procedure for failure mode and effects analysis (FMEA)
+
+28-2-[32]	IEC 60947 (all parts), Low-voltage switchgear and controlgear
+
+28-2-[33]	IEC 61000-6-2, Electromagnetic compatibility (EMC) — Part 6-2: Generic standards — Immunity for industrial environments
+
+28-2-[34]	IEC 61800-3, Adjustable speed electrical power drive systems — Part 3: EMC requirements and specific test methods
+
+28-2-[35]	IEC 61810 (all parts), Electromagnetic elementary relays
+
+28-2-[36]	IEC 61300 (all parts), Fibre optic interconnecting devices and passive components — Basic test and measurement procedures
+
+28-2-[37]	IEC 61310 (all parts), Safety of machinery — Indication, marking and actuation
+
+28-2-[38]	IEC 61131-3, Programmable controllers — Part 3: Programming languages
+
+28-2-[39]	EN 457, Safety of machinery — Auditory danger signals — General requirements, design and testing
+
+28-2-[40]	EN 614-1, Safety of machinery — Ergonomic design principles — Part 1: Terminology and general principles
+
+28-2-[41]	EN 982, Safety of machinery — Safety requirements for fluid power systems and their components — Hydraulic
+
+28-2-[42]	EN 983, Safety of machinery — Safety requirements for fluid power systems and their components — Pneumatic
+
+28-2-[43]	EN 1005-3, Safety of machinery — Human physical performance — Part 3: Recommended force limits for machinery operation
+
+28-2-[44]	EN 1088, Safety of machinery — Interlocking devices associated with guards — Principles for design and selection
+
+28-2-[45]	EN 50205, Relays with forcibly guided (mechanically linked) contacts
+
+28-2-[46]	SN 29500 (all parts), Failure rates of components
+
+28-2-[47]	W.M. Goble Control systems — Evaluation and Rehability. 2nd Edition. Instrument Society of America (ISA), North Carolina, 1998
+
+28-2-[48]	BGIA-Report 2/2008e, Functional safety of machine controls – Application of ISO 13849, German Social Accident Insurance (DGUV), June 2009, ISBN 978-3-88383-793-2, free download in the Internet: www.dguv.de/ifa/13849e
+
+Databases
+
+28-2-[49]	SN 29500, Failure rates of components, Edition 1999-11, Siemens AG 1999
+
+28-2-[50]	IEC/TR 62380, Reliability data handbook — Universal model for reliability prediction of electronics components, PCBs and equipment4
+
+28-2-[51]	Reliability Prediction of Electronic Equipment, MIL-HDBK-217E. Department of Defense, Washington, DC, 1982
+
+28-2-[52]	Reliability Prediction Procedure for Electronic Equipment, Telcordia SR-332, Issue 01, May 2001 (telecom-info.telcordia.com), Bellcore TR-332, Issue 06
+
+28-2-[53]	EPRD, Electronic Parts Reliability Data (RAC-STD-6100), Reliability Analysis Centre, 201 Mill Street, Rome, NY 13440
+
+28-2-[54]	NPRD-95 Non-electronic Parts Reliability Data (RAC-STD-6200), Reliability Analysis Centre, 201 Mill Street, Rome, NY 13440
+
+28-2-[55]	British Handbook for Reliability Data for Components used in Telecommunication Systems, British Telecom (HRD5, last issue)
+
+28-2-[56]	Chinese Military Standard, GJB/z 299B
 
 [29]ISO31000, 2009. Risk management - Principles and guidelines. International Organization for Standardization.
 https://www.ashnasecure.com/uploads/standards/BS%20ISO%2031000-2018.pdf
@@ -1954,6 +2276,33 @@ https://www.ashnasecure.com/uploads/standards/BS%20ISO%2031000-2018.pdf
 29-[1] IEC 31010, Risk management — Risk assessment techniques
 
 [30]ISO/FDIS14971, 2006. Medical devices - Application of risk management to medical devices. International Standard Organisation.
+https://www.iso.org/obp/ui/#iso:std:iso:14971:ed-3:v1:en
+
+30-[1] ISO/IEC Guide 51:2014, Safety aspects — Guidelines for their inclusion in standards
+
+30-[2]	ISO/IEC Guide 63:2019, Guide to the development and inclusion of aspects of safety in international standards for medical devices
+
+30-[3]	ISO 9000:2015, Quality management systems — Fundamentals and vocabulary
+
+30-[4]	ISO 10993-1, Biological evaluation of medical devices — Part 1: Evaluation and testing within a risk management process
+
+30-[5]	ISO 13485:2016, Medical devices — Quality management systems — Requirements for regulatory purposes
+
+30-[6]	ISO 14155, Clinical investigation of medical devices for human subjects — Good clinical practice
+
+30-[7]	ISO 18113-1:2009, In vitro diagnostic medical devices — Information supplied by the manufacturer (labelling) — Part 1: Terms, definitions and general requirements
+
+30-[8]	ISO 20916, In vitro diagnostic medical devices — Clinical performance studies using specimens from human subjects — Good study practice
+
+30-[9]	ISO/TR 24971, Medical devices — Guidance on the application of ISO 14971
+
+30-[10]	ISO 31000, Risk management — Guidelines
+
+30-[11]	IEC/TR 60513, Fundamental aspects of safety standards for medical electrical equipment
+
+30-[12]	IEC 60601-1, Medical electrical equipment — Part 1: General requirements for basic safety and essential performance
+
+30-[13]	IEC 62366-1:2015, Medical devices — Part 1: Application of usability engineering to medical devices
 
 [31]ISO/IEC-Guide 51, 1999. Safety aspects - Guidelines for their inclusion in standards. International Organization for Standardization.
 http://www.iec.ch/dyn/www/%3Fp%3D103%253A391%253A0%253A%253A%253A%253AP391_PUB_ID%252CP391_LANG%253A11941&usg=AOvVaw16oiuK7-ImBoZSivl8hmPR
@@ -2247,12 +2596,16 @@ Denning, T., Matuszec, C., Koscher, K., Smith, J.R., Kohno, T., 2009. A spotligh
 Etherton, J., Sneckenberger, J.E., 1990. A robot safety experiment varying robotspeed and contrast with human decision cost. Applied Ergonomics 21 (3), 231–236.European Community, 2000. Guide to the implementation of directives based onthe new approach and the global approach.Fei, B., Ng, W.S., Chauhan, S., Kwoh, C.K., 2001. The safety issues of medical robotics.Reliability Engineering and System Safety, 183–192.Friendly Robotics Acquisition Ltd., 2009. Robomow operating and safety manual.<http://www.robomow.com/pdf/2010/rl_manual_en.pdf >.Harper, C., Dogramadzi, S., Tokhi, O., 2009. Developments in vocabularystandardisation for robots and robotic devices. In: Proceedings of the TwelfthInternational Conference on Climbing and Walking Robots and the SupportTechnologies for Mobile Machines, Istanbul, Turkey.IEC 60204-1, 2005. 10.7.1 Devices for emergency stop shall be readily accessible.ISO 10218-1, 2011. Robots for industrial environments – safety requirements – PartI: robot.ISO 10218-2, 2011. Robots and robotic devices. Safety requirements for industrialrobots. Part 2: robot systems and integration.ISO 12100, 2010. Safety of machinery—general principles for design, riskassessment and risk reduction.ISO 12100-1, -2, 2003. Safety of machinery – basic concepts, general principles fordesign.ISO 13857, 2008. Safety of machinery—safety distances to prevent danger zonesbeing reached by the upper limbs.ISO 14120, 2002. Safety of machinery—guards—general requirements for the designand construction of ﬁxed and movable guards.ISO 14121. 1999. Safety of machinery – principles of risk assessment.ISO 14971, 2000. Medical devices – application of risk management to medicaldevices.ISO Standard, ISO 8373, 2007(E). Manipulating industrial robots – vocabulary.ISO/FDIS 8373, 2012. Robots and robotic devices – vocabulary.<http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=55890>.ISO/IEC Guide 50, 1999. Safety aspects – guidelines for their inclusion in standards. Jenkins, F., 1993. Practical requirements for a domestic vacuum-cleaning robot.Technical Report. Jiang, B., Cheng, O., 1990. A procedure analysis for robot system safety. International Journal of Industrial Ergonomics, 95–117 (Industrial Engineering Department,Auburn University, AL 36849, USA)
 
 [41]OMG-UML2, 2007. Unified Modeling Language (UML), Superstructure, V2.1.2, formal/2007-11-02. Object Management Group.
+http://www.uml-sysml.org/documentation/uml-2.1.2-superstructure-5.8mo/at_download/OMG%20Unified%20Modeling%20Language%202.1.2_Superstructure_November2007.pdf
+
+41-1 UML 2.0 Superstructure RFP
+41-2 UML 2. Infrastructure Specification 
+41-3 MOF 2.0 Specification
 
 [42]OMG-UML2, 2011. Unified Modeling Language (UML), Superstructure, V2.4.1, formal/2011-08-06. Object Management Group.
 https://www.omg.org/spec/UML/2.4.1/Superstructure/PDF
 
 42-1 RFC2119, http://ietf.org/rfc/rfc2119, Key words for use in RFCs to Indicate Requirement Levels, S. Bradner, March 1997.
-
 42-2 ISO/IEC 19505-1, Information technology — OMG Unified Modeling Language (OMG UML) Version 2.4 — Part 1: Infrastructure (pas/2011-08-11)
 42-3 OMG Specification formal/11-08-05, UML Infrastructure, v2.4.1
 42-4 OMG Specification formal/2010-02-01, Object Constraint Language, v2.2
@@ -2804,18 +3157,18 @@ summary
 |paper|ref.|Request|
 |--:|--:|--:|
 |0|48||
-|1||	
-|2||	
+|1|0|	
+|2|0|	
 |3|21|
 |4|14|
 |5|6|
 |6|	69|
 |7|34|	
-|8||
+|8|0|
 |9|17|R|	
 |10||R|	
 |11|26|	
-|12||	
+|12|17|	
 |13|7|	
 |14|39|	
 |15|12|	
@@ -2826,33 +3179,33 @@ summary
 |20|309|	
 |21|21	
 |22|33|	
-|23||	
+|23|2|	
 |24|14|	
 |25|4|	
-|26||	
-|27||	
-|28||	
+|26|10|	
+|27|69|	
+|28|64|	
 |29|1|	
-|30||	
+|30|13|	
 |31|26|	
-32	
+|32||R|	
 |33|32|	
 |34||R|	
 |35|217|	
 |36||R|	
-|37||	
+|37|0|	
 |38|21|	
-|39||		
+|39||R|		
 |40|53|		
-|41||		
-|42||		
+|41|3|		
+|42|7|		
 |43|26|		
 |44||R|		
-|45||	
+|45|29|	
 |46|148|	
 |47|17|	
 |48|13|
-|sum|1360||
+|sum|1574||
 
 
 # ref
