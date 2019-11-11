@@ -612,21 +612,37 @@ validating technology. IEEE Computer 31: 23-31, 1998
 [12] CPSELabs, 2015-2018. Cyber-Physical Systems Engineering Labs. Project funded by the European Union, Horizon2020 Programme, http://www.cpse-labs.eu, accessed 2015-05-17.
 
 12-1 D1.1 Data management plan. D1.1 Published in July 2015 by CPSE Labs
+
 12-2 D1.2 Quality management plan. D1.2 Published in August 2015 by CPSE Labs
+
 12-3 D1.6 Collaboration plan with other SAE projects. D1.6 Published in May 2015 by CPSE Labs
+
 12-4 D2.2 Communication plan.Deliverable D2.2 (Communication Plan) is revisited and refreshed every six months. We publish the most recent version. D2.2 Published in January 2016 by CPSE Labs. This is D2.2 Month 12 refresh
+
 12-5 D2.4 Public Materials. D2.4 Published in January 2016 by CPSE Labs.
+
 12-6 D3.1 Open Call Process. D3.1 Published in May 2015 by CPSE Labs
+
 12-7 D3.2 Information events and coaching activities D3.2 Due later in 2016.
+
 12-8 D3.3 Call texts. D3.3 Published in May 2016 by CPSE Labs
+
 12-9 D4.1 Centre Handbook. D4.1 Published in June 2015 by CPSE Labs
+
 12-10 D4.2 Report on best practices and professional training. D4.2 Published in February 2016 by CPSE Labs
+
 12-11 D4.3 Innovation and Management Report D4.3 Due in 2018.
+
 12-12 D4.4 Strategic Innovation Agenda for CPS. D4.4 Published in December 2015 by CPSE Labs
+
 12-13 D4.5 Market Place Report D4.5 Due in 2018.
+
 12-14 D4.6 Design Centres Final Report D4.6 Due in 2018.
+
 12-15 D5.1 Dissemination and Exploitation plan D5.1 Due later in 2016.
+
 12-16 D5.2 Annual Report on Dissemination Activities. D5.2 Published in March 2016 by CPSE Labs
+
 12-17 D6.3 Final Experiments Report D6.3 Due in 2018.
 
 [13] DefStan00-58, 2000. HAZOP studies on systems containing programmable electronics. Defence Standard, Ministry of Defence, UK, part 1 and 2.
