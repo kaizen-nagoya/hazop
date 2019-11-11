@@ -11,49 +11,90 @@ Reference
 [3] Alemzadeh, H., Chen, D., Lewis, A., Kalbarczyk, Z., Iyer, R., 2015. Systems-theoretic safety assessment of robotic telesurgical system. In: 34th International Conference on Computer Safety, Reliability and Security.
 https://arxiv.org/abs/1504.07135
 
+3-1. MAUDE: Manufacturer and User Facility Device Experience, U.S. Food and Drug Administration,
+http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfMAUDE/search.CFM
+
+3-2. Alemzadeh, H., et al.: Adverse Events in Robotic Surgery: A Retrospective Study of 14 Years of FDA Data. Technical Report (2015), http://web.engr.illinois.edu/~alemzad1/papers/daVinciMAUDE_14.pdf
+
+3-3. Cotroneo, D., Natella R.: Fault injection for software certification. IEEE Security & Privacy 11(4), 38-
+45 (2013)
+
+3-4. Leveson, N.: Engineering a Safer World: Systems Thinking Applied to Safety. MIT Press (2011)
+
+3-5. Balgos, V.: A Systems Theoretic Application to Design for the Safety of Medical Devices. SDM Master’s Thesis, Engineering Systems Division, MIT, Cambridge (2012)
+
+3-6. Hsueh M. C., Tsai, T. K., Iyer, R. K: Fault injection techniques and tools. Computer 30(4), 75-82 (1997)
+
+3-7. Arlat, J., et al.: Fault injection for dependability validation: A methodology and some applications. IEEE
+Transactions on Software Engineering 16(2), 166-182 (1990)
+
+3-8. Hannaford, B., et al.: RAVEN-II: an open platform for surgical robotics research. IEEE Transactions on Biomedical Engineering 60(4) (2013)
+
+3-9. King, H. H., et al: Plugfest 2009: Global interoperability in telerobotics and telemedicine. In: IEEE International Conference on Robotic Automation (ICRA), pp. 1733–1738. IEEE Press (2010)
+
+3-10. Robotic Surgery Simulator (RoSS), Simulated Surgical Systems, http://www.simulatedsurgicals.com/.
+
+3-11. RAVEN II Source Code, University of Washington, http://brl.ee.washington.edu/RAVEN2docs/
+
+3-12. Lum, E., et al.: The RAVEN: Design and validation of a telesurgery system. The International Journal of Robotics Research 28(9), 1183-1197 (2009)
+
+3-13. Safety Assessment of RAVEN II Robot, http://web.engr.illinois.edu/~alemzad1/papers/RAVEN.html.
+
+3-14. The da Vinci® Surgical System, http://www.intuitivesurgical.com/products/davinci_surgical_system/
+
+3-15. Chen, D., et al.: Error Behavior Comparison of Multiple Computing Systems: A Case Study Using Linux on Pentium, Solaris on SPARC, and AIX on POWER. In: 14th IEEE Pacific Rim International Symposium on Dependable Computing (PRDC '08). IEEE Press (2008)
+
+3-16. Faza, A., Sedigh, S., McMillin, B.: Integrated Cyber-physical Fault Injection for Reliability Analysis of
+the Smart Grid. In: 29th International Conference on Computer Safety, Reliability, and Security
+(SAFECOMP), pp. 277-90. Springer Berlin Heidelberg (2010)
+
+3-17. Di Martino, C., et al.: Analysis and Diagnosis of SLA Violations in a Production SaaS Cloud. In: 25th
+International Symposium on Software Reliability Engineering (ISSRE), pp.178-188. IEEE Press (2014)
+
+3-18. Park, J. D., et al.: Method of fault injection for medical device based on ISO 26262. In: 18th IEEE
+International Symposium on Consumer Electronics (ISCE 2014), pp. 1-2. IEEE Press (2014)
+
+3-19. Majikes, J. J., et al.: Literature Review of Testing Techniques for Medical Device Software. In: 4th
+Medical Cyber-Physical Systems Workshop (MCPS 2013). ACM Press (2013)
+
+3-20. Ishimatsu, T., et al: Hazard analysis of complex spacecraft using systems-theoretic process analysis.
+Journal of Spacecraft and Rockets 51.2, 509-522 (2014)
+
+3-21. Antoine, B.: Systems Theoretic Hazard Analysis (STPA) applied to the risk review of complex systems:
+an example from the medical device industry. PhD diss., Massachusetts Institute of Technology (2013)
+
+
 [4] Allenby, K., Kelly, T., 2001. Deriving safety requirements using scenarios. In: Fifth IEEE International Symposium on Requirements Engineering. pp. 228–235.
 https://www.researchgate.net/publication/3913917_Deriving_safety_requirements_using_scenarios
 
-4-[1] Certification considerations for highly-integrated or complex
-aircraft systems. Society of Automotive Engineers, December
+4-[1] Certification considerations for highly-integrated or complex aircraft systems. Society of Automotive Engineers, December
 1994.
-4-[2] Draft defence standard 00-56: Safety management requirements
-for defence systems containing programmable electronics.
-Ministry of Defence, UK, 1995.
-4-[3] Guidelines and methods for conducting the safety assessment
-process on civil airborne systems and equipment. Society
-of Automotive Engineers, August 1995.
-4-[4] Interim defence standard 00-58: Hazop studies on systems
-containing programmable electronics. Ministry of Defence,
-UK, 1996.
+
+4-[2] Draft defence standard 00-56: Safety management requirements for defence systems containing programmable electronics. Ministry of Defence, UK, 1995.
+
+4-[3] Guidelines and methods for conducting the safety assessment process on civil airborne systems and equipment. Society of Automotive Engineers, August 1995.
+
+4-[4] Interim defence standard 00-58: Hazop studies on systems containing programmable electronics. Ministry of Defence, UK, 1996.
+
 4-[5] Requirements Engineering Journal, 3(3/4), 1998.
-4-[6] G. Booch, J. Rumbaugh, and I. Jacobson. The Unified Modelling
-Language User Guide. Addison-Wesley, Reading,
-Massachusetts, 1999.
-4-[7] A. Jaaksi. Our cases with use cases. Journal of Object Oriented
-Programming, pages 58 – 65, February 1998.
-4-[8] I. Jacobson, M. Christerson, P. Jonsson, and G. Overgaard.
-Object-Oriented Software Engineering: A Use Case Driven
-Approach. Addison-Wesley, Harlow, England, 1992.
-4-[9] G. Kotonya and I. Sommerville. Requirements Engineering:
-Processes and Techniques. Wiley, Chichester, England,
-1998.
-4-[10] C. Potts, K. Takahashi, and A. I. Anton. Inquiry-based requirements
-analysis. IEEE Software, 11(2):21 – 32, March
-1994.
-4-[11] D. J. Pumfrey. The principled design of computer system
-safety analyses. D.Phil Thesis, University of York, UK,
-1999.
-4-[12] F. Redmill, M. Chudleigh, and J. Catmur. System Safety:
-HAZOP and Software HAZOP. Wiley, Chichester, England,
-1999.
-4-[13] J. Rumbaugh, I. Jacobson, and G. Booch. The Unified Modeling
-Language Reference Manual. Addison-Wesley, Reading,
-Massachusetts, 1999.
-4-[14] P. J. Wilkinson and T. P. Kelly. Functional hazard analysis
-for highly integrated aerospace systems. Presented at IEE
-Seminar on the Certification of Ground/Air Systems, IEE
-Savoy Place, London, 1998.
+
+4-[6] G. Booch, J. Rumbaugh, and I. Jacobson. The Unified Modelling Language User Guide. Addison-Wesley, Reading, Massachusetts, 1999.
+
+4-[7] A. Jaaksi. Our cases with use cases. Journal of Object Oriented Programming, pages 58 – 65, February 1998.
+
+4-[8] I. Jacobson, M. Christerson, P. Jonsson, and G. Overgaard. Object-Oriented Software Engineering: A Use Case Driven Approach. Addison-Wesley, Harlow, England, 1992.
+
+4-[9] G. Kotonya and I. Sommerville. Requirements Engineering: Processes and Techniques. Wiley, Chichester, England, 1998.
+
+4-[10] C. Potts, K. Takahashi, and A. I. Anton. Inquiry-based requirements analysis. IEEE Software, 11(2):21 – 32, March 1994.
+
+4-[11] D. J. Pumfrey. The principled design of computer system safety analyses. D.Phil Thesis, University of York, UK, 1999.
+
+4-[12] F. Redmill, M. Chudleigh, and J. Catmur. System Safety: HAZOP and Software HAZOP. Wiley, Chichester, England, 1999.
+
+4-[13] J. Rumbaugh, I. Jacobson, and G. Booch. The Unified Modeling Language Reference Manual. Addison-Wesley, Reading, Massachusetts, 1999.
+
+4-[14] P. J. Wilkinson and T. P. Kelly. Functional hazard analysis for highly integrated aerospace systems. Presented at IEE Seminar on the Certification of Ground/Air Systems, IEE Savoy Place, London, 1998.
 
 [5] Arlow, A., Duffy, C., McDermid, J., 2006. Safety specification of the ac- tive traffic management control system for english motorways. In: The First Institution of Engineering and Technology International Conference on System Safety.
 
@@ -79,20 +120,28 @@ Savoy Place, London, 1998.
 https://www.researchgate.net/publication/241608330_Development_and_validation_of_a_HAZOP-based_inspection_of_UML_models
 
 15-[1] Boehm B. W., Software engineering economics, Prentice-Hall, Englewood Cliffs, 1981
-15-[2] Fagan, M., Design and Code Inspections to Reduce Errors in Program Development, IBM Systems Journal
-8, 1976.
-15-[3] Freeedman D., Weinberg G., Handbook of Walkthroughs, Inspections, and Technical Reviews: Evaluating
-Programs, Projects, and Products (Third Edition), Dorset House, 1990.
+
+15-[2] Fagan, M., Design and Code Inspections to Reduce Errors in Program Development, IBM Systems Journal 8, 1976.
+
+15-[3] Freeedman D., Weinberg G., Handbook of Walkthroughs, Inspections, and Technical Reviews: Evaluating Programs, Projects, and Products (Third Edition), Dorset House, 1990.
+
 15-[4] Gilb T., Graham D., Software Inspections, Addison-Wesley, 1993.
-15-[5] Górski J., Jarzębowicz A., Detecting defects in object-oriented diagrams using UML-HAZOP, Foundations
-of Computing and Decision Sciences, Vol. 27 (2002), No 4.
+
+15-[5] Górski J., Jarzębowicz A., Detecting defects in object-oriented diagrams using UML-HAZOP, Foundations of Computing and Decision Sciences, Vol. 27 (2002), No 4.
+
 15-[6] Object Management Group, OMG Unified Modeling Language Specification, Version 1.5, March 2003.
+
 15-[7] UK Ministry of Defence, Defence Standard 00-58, HAZOP Studies on Systems Containing Programmable Electronics (Part 1&2), Issue 2, 2000.
+
 15-[8] Redmill F., Chudleigh M., Catmur J., System Safety: HAZOP and Software HAZOP, J. Wiley & Sons, 1999
+
 15-[9] Winther R., Johnsen O., Gran B., Security assessments of safety critical systems using HAZOPs, Proceedings of Computer Safety, Reliability and Security, 20th International Conference SAFECOMP
 2001, Springer Lecture Notes in Computer Science 2187.
+
 15-[10] Górski J., Jarzębowicz A., Leszczyna R., Miler J., Olszewski M., Tool support for detecting defects in object-oriented models, Proc. of 10th International Multi-Conference on Advanced Computer Systems, 22-24 X 2003, Międzyzdroje.
+
 15-[11] IST-1999-12040 DRug In Virtual Enterprise (DRIVE) D11.4 deliverable version 1.1, January 2003
+
 15-[12] Jarzębowicz A., Górski J. Experimental comparison of UML-HAZOP inspection and non-structured
 review, Foundations of Computing and Decision Sciences, vol. 30 (2005) no. 1.
 
