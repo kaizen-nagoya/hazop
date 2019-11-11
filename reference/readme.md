@@ -379,15 +379,232 @@ Tandem Technical Report 94.1, Mar. 1994.
 
 
 
-[7] Bjørn Axel Gran, R. F., Thunem, A. P.-J., 2004. An approach for model- based risk assessment. In: 23rd International Conference, SAFECOMP 2004, Potsdam, Germany. Springer Berlin / Heidelberg, pp. 311–324.
+[7] Bjørn Axel Gran, R. F., Thunem, A. P.-J., 2004. An approach for model-based risk assessment. In: 23rd International Conference, SAFECOMP 2004, Potsdam, Germany. Springer Berlin / Heidelberg, pp. 311–324.
+https://pdfs.semanticscholar.org/58cc/1f3fca6fc14b3fbfa7b795ad4ee7621de978.pdf?_ga=2.40661282.1290594660.1573452389-204723679.1573452389
+
+7-[1]AS/NZS 4360:1999 Risk management.
+
+7-[2] Atkinson, C., Bayer, J., Bunse, C., Kamsties, E., Laitenberger, O., Laqua, R., Muthig, D., Paech, B., Wüst, J.,
+Zettel, J. Component-based product line engineering with UML. Addison-Wesley, 2002.
+
+7-[3] Barber, B., Davey, J. The use of the CCTA risk analysis and management methodology CRAMM. Proc.
+MEDINFO92, North Holland, 1589–1593, 1992.
+
+7-[4] Bouti, A., Ait Kadi, D. A state-of-the-art review of FMEA/FMECA. International Journal of reliability, quality
+and safety engineering 1:515-543, 1994.
+
+7-[5] Bray, T., Paoli, J., Sperberg-McQueen, C. M., Maler, E. Extensible markup language (XML) 1.0 (Second
+edition). World Wide Web Consortium recommendation REC-xml, October 2000.
+
+7-[6] Bræk, R., Gorman, J., Haugen, Ø., Melby, G., Møller-Pedersen, B., Sanders, R. Quality by construction
+exemplified by TIMe - the integrated methodology. Telektronikk 95(1):73-82, 1999.
+
+7-[7] Clark, J. XSL transformations (XSLT) 1.0, World Wide Web Consortium recommendation REC-xslt, November
+1999.
+
+7-[8] Clements, P., Kazman, R., Klein, M. Evaluating software architectures: methods and case studies. Addison-
+Wesley, 2002.
+
+7-[9] Clements, P., Northrop, L. Software product lines: practices and patterns. Addision-Wesley, 2001.
+
+7-[10] CORAS: A platform for risk analysis of security critical systems. IST-2000-25031, 2000.
+(http://www.nr.no/coras/)
+
+7-[11] Curry, D., Debar Merrill Lynch, H. Intrusion detection message exchange format (IDMEF). Working draft,
+December 28, 2001.
+
+7-[12] Fevrier, A., Najm, E., Stefani, J. B. Contracts for ODP. Proc. ARTS97, LNCS, 1997.
+
+7-[13] Hoare, C. A. R. An axiomatic basis for computer programming. Communications of the ACM, 12:576-583,
+1969.
+
+7-[14] IEC 1025: 1990 Fault tree analysis (FTA).
+
+7-[15] IEC 61508: 2000 Functional safety of electrical/electronic/programmable safety related systems.
+
+7-[16] ISO/IEC 10746: 1995 Basic reference model for open distributed processing.
+
+7-[17] ISO/IEC TR 13335-1:2001: Information technology – Guidelines for the management of IT Security – Part 1:
+Concepts and models for IT Security.
+
+7-[18] ISO/IEC 15408:1999 Information technology – Security techniques – Evaluation criteria for IT security.
+
+7-[19] ISO/IEC 17799: 2000 Information technology – Code of practise for information security management.
+
+7-[20] Information technology security evaluation criteria (ITSEC), version 1.2, Office for Official Publications of the
+European Communities, June 1991.
+
+7-[21] Jacobson, I., Rumbaugh, J., Booch, G. The unified software development process. Addison-Wesley, 1999.
+
+7-[22] Jones, C. B. Development methods for computer programs including a notion of interference. PhD-thesis,
+Oxford University, 1981.
+
+7-[23] Kang, K. C., Cohen, S. G., Novak, W. E., Peterson, A. S. Feature-oriented domain analaysis (FODA) feasibility
+study. Technical report UMIAC-TR-21, SEI, 1990.
+
+7-[24] Lano, K., Androutsopoulos, K., Clark, D. Structuring and design of reactive systems using RSDS and B. Proc.
+FASE 2000, LNCS 1783, 97-111, 2000.
+
+7-[25] Littlewood, B. A reliability model for systems with Markov structure. Appl. Stat. 24:172-177, 1975.
+
+7-[26] Meyer, B. Object-oriented software construction. Prentice Hall, 1997.
+
+7-[27] Mingis, C., Liu, Y. From UML to design by contract. Journal of object-oriented programming, April issue: 6-9,
+2001.
+
+7-[28] Misra, J., Chandy, K. M. Proofs of networks of processes. IEEE transactions on software engineering, 7:417-
+426,1981.
+
+7-[29] OMG-XML Metadata Interchange (XMI) Specification, v1.2, http://www.omg.org.
+
+7-[30] Redmill, F., Chudleigh, M., Catmur, J. Hazop and software hazop. Wiley, 1999.
+
+7-[31] Sindre, G., Opdahl, A. L. Eliciting security requirements by misuse cases. In Proc. TOOLS_PACIFIC 2000.
+IEEE Computer Society Press, 120-131, 2000.
+
+7-[32] UML proposal to the Object management group, Version 1.4, 2000.
+
+7-[33] Weiss, D. M. and Lai, C. T. R. Software product line engineering: a family based software engineering process.
+Addison-Wesley, 1999.
+
+7-[34] Wyss, G. D., Craft, R. L., Funkhouser, D. R. The use of object-oriented analysis methods in surety analysis.
+SAND Report 99-1242. Sandia National Laboratories, 1999.
 
 [8] Blanquart, J.-P., 2010. Survey of state of the art and of the practice in safety and diagnosability. Tech. Rep. D SP1 R5.8 M2, EADS Astrium Satellites, CESAR European Project.
 
-[9] Boiteau, M., Dutuit, Y., Rauzy, A., Signoret, J.-P., 2006. The AltaRica data- flow language in use: modeling of production availability of a multi-state system. Reliability Engineering & System Safety 91 (7), 747 – 755.
+
+[9] Boiteau, M., Dutuit, Y., Rauzy, A., Signoret, J.-P., 2006. The AltaRica data-flow language in use: modeling of production availability of a multi-state system. Reliability Engineering & System Safety 91 (7), 747 – 755. https://ideas.repec.org/a/eee/reensy/v91y2006i7p747-755.html
+
+9-1 Petri Nets: Properties, Analysis and Applications, January 1989, T. MurataT. Murata
+
+9-2 An experimental study on iterative methods to compute transient solutions of large Markov models, October 2004 Reliability Engineering System Safety, Antoine Bertrand RauzyAntoine Bertrand Rauzy
+
+9-3 A new approach to production regularity assessment in the oil and chemical industries
+https://www.researchgate.net/publication/223546955_A_new_approach_to_production_regularity_assessment_in_the_oil_and_chemical_industries
+March 2002 Reliability Engineering System Safety, Yoshio KawauchiYoshio KawauchiMarvin RausandMarvin Rausand
+
+9-4 Mode automata and their compilation into fault trees, October 2002Reliability Engineering System Safety, Antoine Bertrand RauzyAntoine Bertrand Rauzy
+
+9-5 On the solution of GSPN reward models, July 1991 Performance Evaluation, Gianfranco CiardoGianfranco CiardoJogesh MuppalaJogesh MuppalaKishor S TrivediKishor S Trivedi
+
+9-6 Reibman, Andrew & Smith, Roger & Trivedi, Kishor, 1989. "Markov and Markov reward model transient analysis: An overview of numerical approaches," European Journal of Operational Research, Elsevier, vol. 40(2), pages 257-267, May.
+
+9-7 MEC: A System for Constructing and Analysing Transition Systems., June 1989 Automatic Verification Methods for Finite State Systems, International Workshop, Grenoble, France, June 12-14, 1989, Proceedings, André ArnoldAndré Arnold
+
+9-8 Transient Analysis of Markov and Markov Reward Models., January 1987 Computer Performance and Reliability, Proceedings of the Second International MCPR Workshop held in Rome, Italy, May 25-29, 1987, Kishor S TrivediKishor S TrivediAndrew L. ReibmanAndrew L. ReibmanRoger SmithRoger Smith
+
+9-9 Modeling with Generalized Stochastic Petri Nets, August 1998ACM SIGMETRICS Performance Evaluation Review
+Marco Ajmone MarsanMarco Ajmone MarsanGianfranco BalboGianfranco BalboGianni ConteGianni Conte[...]Giuliana FranceschinisGiuliana Franceschinis
+
+9-10, The Unified Modeling Language Reference Manual, January 1998, James RumbaughJames RumbaughIvar JacobsonIvar JacobsonGrady BoochGrady Booch
+
+9-11 Coloured Petri Nets: Basic Concepts, January 1992, K. Jensen
+
+9-12, Hierarchical composition and aggregation of state-based availability and performability models, April 2003 IEEE Transactions on Reliability, Mark Lanus, Yin Liang, Kishor S Trivedi
+
+9-13 Analysis and Applications. Proceedings of the IEEE 77(4), 541-580, May 1989 Proceedings of the IEEE, Tadao Murata
+
+9-14 Stochastic Reward Nets for Reliability Prediction, October 2002, Gianfranco Ciardo, Kishor S Trivedi
+https://www.researchgate.net/publication/2532398_Stochastic_Reward_Nets_for_Reliability_Prediction
+
+9-15 Jensen K. Coloured petri nets. Analysis methods. vol. 2. Berlin: Springer; 1994. M. Boiteau et al. / Reliability Engineering and System Safety 91 (2006) 747–755
+
+9-16 S. Trivedi, Communications in Reliability, Maintainability and Serviceability: An International Journal published by SAE International, Vol. 1, No. 2, pp. 9-20, July 1994.
+
+9-17 M. AjmoneMarsan, G. Balbo, G. Conte, S. Donatelli, and G. Franceschinis. Modelling with Generalized Stochastic Petri Nets. Wiley Series in Parallel Computing. John Wiley and Sons, 1994.
 
 [10] Cantrell, S., Clemens, P., 2009. Finding all the hazards how do we know we are done? Professional Safety, American Society of Safety Engineers 54 (11).
-   
+
 [11] CORAS, 2014. A platform for risk analysis of security critical systems. coras.sourceforge.net, accessed 2015-05-17.
+https://www.researchgate.net/publication/30418730_CORAS_-_A_Framework_for_Risk_Analysis_of_Security_Critical_Systems
+
+11-[1] CORAS: A platform for risk analysis of security critical
+systems. IST-2000-25031, 2000. (http://www.nr.no/coras/)
+
+11-[2] UML proposal to the Object Management Group, Version
+1.3, 1998.
+
+11-[3] Recommendation Z.100 - CCITT Specification and
+Description Language (SDL). ITU, 1993.
+
+11-[4] Recommendation Z.120 - Message Sequence Chart (MSC).
+ITU, 1996.
+
+11-[5] J. R. Putman. Architecting with RM-ODP. Prentice Hall,
+2001.
+
+11-[6] A. Bouti, D. Ait Kadi. A state-of-the-art review of
+FMEA/FMECA. International Journal of Reliability, Quality
+and Safety Engineering 1:515-543, 1994.
+
+11-[7] IEC 1025: Fault tree analysis (FTA), 1990.
+
+11-[8] F. Redmill, M. Chudleigh, J. Catmur. Hazop and Software
+Hazop. Wiley, 1999.
+
+11-[9] B. Littlewood. A reliability model for systems with Markov
+structure. Appl. Stat. 24:172-177, 1975.
+
+11-[10] E. Hollnagel. Human reliability analysis: context and
+control. Academic Press, 1993.
+
+11-[11] J. Rumbaugh, M. Blaha, W. Premerlani, F. Eddy, W.
+Lorensen. Object-oriented modelling and design. Prentice Hall,
+1991.
+
+11-[12] G. Booch. Object-oriented analysis and design with
+applications (second edition). Benjamin/Cummings Publishing
+Company, 1994.
+
+11-[13] B. Selic, G. Gullekson, P. T. Ward. Real-time objectoriented
+modelling. Wiley, 1994.
+
+11-[14] Information processing systems - Open systems
+interconnections - LOTOS - A formal description technique
+based on the temporal ordering of observational behaviour.
+ISO/IEC 8807, ISO, 1989.
+
+11-[15] Information technology - Programming languages, their
+environments and system software interfaces - Vienna
+Development Method --- Specification language. ISO/IEC
+13817, ISO, 1996.
+
+11-[16] J. Spivey. Understanding Z. Cambridge University Press,
+1988.
+
+11-[17] J.-R. Abrial. The B-book. Cambridge University Press,
+1996.
+
+11-[18] K. M. Chandy, J. Misra. Parallel program design. Addison-
+Wesley, 1988.
+
+11-[19] L. Lamport. The temporal logic of actions. ACM
+Transactions on Programming Languages and Systems. 16:872-
+923,1994.
+
+11-[20] L. Cardelli, A. D. Gordon. Mobile ambients. Theoretical
+Computer Science 240:177-213, 2000.
+
+11-[21] M. Abadi, A. D. Gordon. A Calculus for cryptographic
+protocols: the Spi calculus. Information and Computation
+148:1-70, 1999.
+
+11-[22] K. Finney, N. E. Fenton. Evaluating the effectiveness of
+using Z: the claims made about CICS and where we go from
+here. Journal of Systems Software 35:206-219, 1996.
+
+11-[23] I. Jacobson, G. Booch, J. Rumbaugh. The unified software
+development process. Addison-Wesley, 1998.
+
+11-[24] W. F. Tichy. Should computer scientists experiment more?
+IEEE Computer 31: 32-40, 1998.
+
+11-[25] W. F. Tichy, P. Lukowics, P. Prechelt, E.A. Heinz.
+Experimental evaluation in computer science: a quantitative
+study. Journal of Systems Software 28: 9-18, 1995.
+
+11-[26] M. V. Zelkowitz, D. R. Wallace. Experimental models for
+validating technology. IEEE Computer 31: 23-31, 1998
 
 [12] CPSELabs, 2015-2018. Cyber-Physical Systems Engineering Labs. Project funded by the European Union, Horizon2020 Programme, www. cpse-labs.eu, accessed 2015-05-17.
 
@@ -493,20 +710,20 @@ Social Robotics, 1–22.
 
 summary
 
-|paper|ref.|
-|--:|--:|
-|0|48|
+|paper|ref.|Request|
+|--:|--:|--:|
+|0|48||
 |1||	
 |2||	
 |3|21|
 |4|14|
 |5|6|
 |6|	69|
-7	
-8	
-9	
-10	
-11	
+|7|34|	
+|8||
+|9|17|R|	
+|10||R|	
+|11|26|	
 12	
 13	
 14	
@@ -544,7 +761,7 @@ summary
 46	
 47	
 48
-|sum|	158|
+|sum|	|
 
 
 # ref
