@@ -2249,6 +2249,17 @@ Etherton, J., Sneckenberger, J.E., 1990. A robot safety experiment varying robot
 [41]OMG-UML2, 2007. Unified Modeling Language (UML), Superstructure, V2.1.2, formal/2007-11-02. Object Management Group.
 
 [42]OMG-UML2, 2011. Unified Modeling Language (UML), Superstructure, V2.4.1, formal/2011-08-06. Object Management Group.
+https://www.omg.org/spec/UML/2.4.1/Superstructure/PDF
+
+42-1 RFC2119, http://ietf.org/rfc/rfc2119, Key words for use in RFCs to Indicate Requirement Levels, S. Bradner, March 1997.
+
+42-2 ISO/IEC 19505-1, Information technology — OMG Unified Modeling Language (OMG UML) Version 2.4 — Part 1: Infrastructure (pas/2011-08-11)
+42-3 OMG Specification formal/11-08-05, UML Infrastructure, v2.4.1
+42-4 OMG Specification formal/2010-02-01, Object Constraint Language, v2.2
+42-5 OMG Specification formal/2011-08-07, Meta Object Facility (MOF) Core, v2.4.1
+42-6 OMG Specification formal/2011-08-09, XML Metadata Interchange (XMI), v2.4.1
+42-7 OMG Specification formal/06-04-04 , UML 2.0 Diagram Interchange
+
 
 [43]PHRIENDS, 2006-2009. Physical Human-Robot Interaction: Dependability and Safety. Project supported by the European Commission under the 6th Framework Programme (STReP IST-045359),http://www.phriends.eu, accessed: 2015-04-30.
 https://www.researchgate.net/publication/4333079_Physical_human-robot_interaction_Dependability_safety_and_performance
@@ -2365,7 +2376,43 @@ and Automations, Vol. 11, no. 4, August 1995, pp. 477-490.
 [44]Royakkers, L., van Est, R., 2015. A literature review on new robotics: Automation from love to war. International Journal of 
 Social Robotics, 1–22.
 
-[45]SAPHARI, 2011-2015. Safe and Autonomous Physical Human-Aware Robot Interaction. Project supported by the European Commission under the 7th Framework Programme, www.saphari.eu, accessed 2015-05-17.
+[45]SAPHARI, 2011-2015. Safe and Autonomous Physical Human-Aware Robot Interaction. Project supported by the European Commission under the 7th Framework Programme, http://www.saphari.eu, accessed 2015-05-17.
+
+MAIN RESEARCH RESULTS & PUBLIC DELIVERABLES 
+Human safety. 
+45-1 Deliverable D1.1.1 - Human injuries in robotics 
+45-2 Deliverable D1.3.1 - Safety monitoring framework and safe control strategies
+45-3 Deliverable D1.4.1 - Existing standards and recommendations for future safety standards in robotics
+The mechatronic development of assistant robots
+45-4 Deliverable D2.1.1 - New actuators for the robot companion
+45-5 Deliverable D2.2.1 -­ Low-­cost modular VSA platform
+45-6 Deliverable D2.3.1 - Compliant robot body
+45-7 Deliverable D2.4.1 - Prototypes of safe and interactive tools and hardware safety concept of workspace 
+Perception and control.
+45-8 Deliverable D3.1.1 - Combined collision avoidance, detection, and reaction
+45-9 Deliverable D3.2.1 - Control and estimation algorithms for VIA robots
+45-10 Deliverable D3.2.2 - Experimental validation of control laws for multi-dof VIA manipulators
+45-11 Deliverable D3.3.1 - Safe dynamic control laws for redundant robots
+45-12 Deliverable D3.4.1 - Intentional human-interaction control of compliant robots
+45-13 Deliverable D4.1.1 - Collision detection methods by means of sensor fusion
+45-14 Deliverable D4.2.1 - Prediction based algorithms for wide range monitoring
+45-15 Deliverable D4.3.1 - Tracking of human motions and object interactions
+45-16 Deliverable D4.4.1 - Detection and isolation of sensors/actuators faults
+Learning and interpretation of human actvites by the robot. 
+45-17 Deliverable D5.1.1 - Gesture and grammar descriptors of human motion and statistical gesture parser
+45-18 Deliverable D5.2.1 - Intuitive motion learning and iterative motion refinement
+45-19 Deliverable D5.3.1 - Learning of force patterns and impedance behaviors 
+Task reasoning and situational reaction. 
+45-20 Deliverable D6.1.1 - Reactively adaptable motion plans for real-time collision avoidance
+45-21 Deliverable D6.2.1 - Multimodal reactive motion generation
+45-22 Deliverable D6.3.1 - Action generation patterns and search algorithms
+45-23 Deliverable D6.4.1 - Interface framework for multimodal safe interaction
+45-24 Deliverable D7.1.1 - Final models and algorithms for collaborative activities
+45-25 Deliverable D7.2.1 - An implemented human-aware navigation and placement planner
+45-26 Deliverable D7.3.1 - An implemented human-aware manipulation planner
+45-27 Deliverable D7.4.1 - Planning of smooth motion-force transition tasks
+45-28 Deliverable D7.5.1 - Specification of a human-aware robot controller
+45-29 Deliverable D7.5.2 - Prototype of the human-aware robot executive controller 
 
 [46]Srivatanakul, T., 2005. Security analysis with deviational techniques. Ph.D. thesis, University of York.
 https://pdfs.semanticscholar.org/c1b5/0c6687e6feae1ca07187dea358eb9a42bdbf.pdf?_ga=2.241588482.1290594660.1573452389-204723679.1573452389
