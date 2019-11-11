@@ -490,3 +490,62 @@ Social Robotics, 1–22.
 [47]Sulaman, S. M., Abbas, T., Wnuk, K., Ho ̈ st, M., 2014. Hazard analysis of collision avoidance system using stpa. In: 11th International Conference on Information Systems for Crisis Response and Management (ISCRAM).
 
 [48]Thomas, J., Leveson, N. G., 2011. Performing hazard analysis on complex, software and human-intensive systems. In: 29th ISSC Conference about System Safety.
+
+summary
+
+|paper|ref.|
+|--:|--:|
+|0|48|
+|1||	
+|2||	
+|3|21|
+|4|14|
+|5|6|
+|6|	69|
+7	
+8	
+9	
+10	
+11	
+12	
+13	
+14	
+15	
+16	
+17	
+18	
+19	
+20	
+21	
+22	
+23	
+24	
+25	
+26	
+27	
+28	
+29	
+30	
+31	
+32	
+33	
+34	
+35	
+36	
+37	
+38	
+39	
+40	
+41	
+42	
+43	
+44	
+45	
+46	
+47	
+48
+|sum|	158|
+
+
+# ref
+https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa
