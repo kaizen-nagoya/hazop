@@ -1888,11 +1888,53 @@ M. Barbacci, Eds., Computer Hardware Description Languages and their Application
 22-[8] A.B. Ferrentino and H.D. Mills, State machines and their semantics in software engineering, Proc. 
 IEEE COMPSAC '77 Conference (1977) 242 251
 
-[23]IEC61508-5, 2010. Functional safety of electrical/electronic/programmable electronic safety-related systems: Part 5: Examples of methods for the de- termination of safety integrity level. International Electrotechnical Com- mission.
+[23]IEC61508-5, 2010. Functional safety of electrical/electronic/programmable electronic safety-related systems: Part 5: Examples of methods for the de- termination of safety integrity level. International Electrotechnical Commission.
 
-[24]IEC61882, 2001. Hazard and operability studies (HAZOP studies) – Appli- cation guide. International Electrotechnical Commission.
+[24]IEC61882, 2001. Hazard and operability studies (HAZOP studies) – Application guide. International Electrotechnical Commission.
+
+v.2001
+24-1-1 IEC 60300-3-9, Dependability management – Part 3: Application guide – Section 9: Risk analysis of technological systems
+
+24-1-2 IEC 60812, Analysis techniques for system reliability – Procedure for failure mode and effects analysis (FMEA)
+
+24-1-3 IEC 61025, Fault tree analysis (FTA)
+
+24-1-4 IEC 61160, Formal design review
+
+24-2-(1) A Guide to Hazard and Operability Studies. Chemical Industries Association, London, UK, (1977), 1992.
+
+24-2-(2) Das PAAG-Verfahren. International Social Security Association, (ISSA), c/o B.G. Chemie, Heidelberg, Germany, 2000, ISBN 92-843-7037-X.
+
+24-2-(3) Storingsanalyse Waarom? Wanner? Hoe? Dutch Labour Inspectorate, 1979. Body of text in Dutch, appendices in English.
+
+24-2-(4) Kletz, Trevor A. HAZOP and HAZAN – Identifying and Assessing Chemical Industry Hazards, Institution of Chemical Engineers, Rugby, UK, 1999, ISBN 0-85295-421-2.
+
+24-2-(5) Knowlton, Ellis. An Introduction to Hazard and Operability Studies, the Guide Word Approach, Chemetics International, Vancouver, Canada, 1992, ISBN 0-9684016-0-0. (Also available in French, Spanish, Finnish, Arabic, Chinese, Hindi and Korean).
+
+24-2-(6) Knowlton, Ellis. A manual of Hazard & Operability Studies, The creative identification of deviations and disturbances. Chemetics International, Vancouver, Canada, 1992, ISBN 0-9684016-3-5.
+
+24-2-(7) Redmill, Felix; Chudleigh, Morris and Catmur, James. System Safety: HAZOP and Software HAZOP. Wiley, 1999, ISBN 0-471-98280-6.
+
+24-2-(8) Crawley, Frank; Preston, Malcolm and Tyler, Brian, HAZOP: Guide to best practice. Guidelines to best practice for the process and chemical industries. European Process Safety Centre, Chemical Industries Association & Institution of Chemical Engineers. Rugby, England, IChem, 2000, ISBN 0-85295-427-1.
+
+24-2-(9) Guidelines for Hazard Evaluation Procedures. Center for Chemical Process Safety of the American Institute of Chemical Engineers, New York, USA, 1999, ISBN 0-8169-0491-X.
+
+24-2-(10) Defence Standard 00-58, HAZOP Studies on Systems containing Programmable Electronics, Ministry of Defence, UK, 2000.
+
+v.2016
+IEC 60050-192, International electrotechnical vocabulary – Part 192: Dependability (available at http://www.electropedia.org)
+
 
 [25]Ishimatsu, T., Leveson, N., Thomas, J., Katahira, M., Miyamoto, Y., Nakao, H., 2010. Modeling and hazard analysis using STPA. In: 4th Confer- ence of the International Association for the Advancement of Space Safety (IAASS).
+https://pdfs.semanticscholar.org/1418/846a29dc95a6230be7d23c07fb9ea9400ccf.pdf?_ga=2.211188245.1290594660.1573452389-204723679.1573452389
+
+25-1. Japan Aerospace Exploration Agency, “HTV-1 Mission Press Kit,” September 2009.
+
+25-2. Tsukui, J., Hotta, S, Imada, T., Yamanaka, K., and Kasai, T., “Automatic Rendezvous to the International Space Station,” Proceedings of the 7th International Symposium on Artificial Intelligence, Robotics and Automation in Space, i-SAIRAS 2003, Nara, Japan, May 19-23, 2003.
+
+25-3. Leveson, Nancy G., “A New Accident Model for Engineering Safer Systems,” Safety Science, Vol. 42, No. 4, pp. 237-270, April 2004.
+
+25-4. Leveson, Nancy G., “Software Challenges in Achieving Space Safety,” Journal of the British Interplanetary Society (JBIS), Volume 62, 2009.
 
 [26]ISO10218-1, 2011. Robots for industrial environments – safety requirements – part 1: Robot. International Organization for Standardization.
 
@@ -1901,18 +1943,233 @@ IEEE COMPSAC '77 Conference (1977) 242 251
 [28]ISO13849-1, 2006. Safety of machinery – safety-related parts of control sys- tems – part 1: General principles for design. International Organization for Standardization.
 
 [29]ISO31000, 2009. Risk management - Principles and guidelines. International Organization for Standardization.
+https://www.ashnasecure.com/uploads/standards/BS%20ISO%2031000-2018.pdf
+
+29-[1] IEC 31010, Risk management — Risk assessment techniques
 
 [30]ISO/FDIS14971, 2006. Medical devices - Application of risk management to medical devices. International Standard Organisation.
 
-[31]ISO/IEC-Guide51, 1999. Safety aspects - Guidelines for their inclusion in standards. International Organization for Standardization.
+[31]ISO/IEC-Guide 51, 1999. Safety aspects - Guidelines for their inclusion in standards. International Organization for Standardization.
+http://www.iec.ch/dyn/www/%3Fp%3D103%253A391%253A0%253A%253A%253A%253AP391_PUB_ID%252CP391_LANG%253A11941&usg=AOvVaw16oiuK7-ImBoZSivl8hmPR
+
+31-[1] ISO 3864 (all parts), Graphical symbols — Safety colours and safety signs
+
+31-[2] ISO 7000, Graphical symbols for use on equipment — Registered symbols
+
+31-[3] ISO 7001, Graphical symbols — Public information symbols
+
+31-[4] ISO 7010, Graphical symbols — Safety colours and safety signs — Registered safety signs
+
+31-[5] ISO 9186 (all parts), Graphical symbols — Test methods
+
+31-[6] ISO 10377, Consumer product safety — Guidelines for suppliers
+
+31-[7] ISO 12100, Safety of machinery — General principles for design — Risk assessment and risk reduction
+
+31-[8] ISO/TR 14121-2, Safety of machinery — Risk assessment — Part 2: Practical guidance and examples
+of methods
+
+31-[9] ISO 14798, Lifts (elevators), escalators and moving walks — Risk assessment and reduction
+methodology
+
+31-[10] ISO 14971, Medical devices — Application of risk management to medical devices
+
+31-[11] ISO 15223-1, Medical devices — Symbols to be used with medical device labels, labelling and
+information to be supplied — Part 1: General requirements
+
+31-[12] ISO/IEC 17007, Conformity assessment — Guidance for drafting normative documents suitable for
+use for conformity assessment
+
+31-[13] ISO 22727, Graphical symbols — Creation and design of public information symbols — Requirements
+
+31-[14] ISO 31000, Risk management — Principles and guidelines
+
+31-[15] IEC 31010, Risk management — Risk assessment techniques
+
+31-[16] IEC 60417, Graphical symbols for use on equipment
+
+31-[17] IEC 62368-1, Audio/video, information and communication technology equipment — Part 1: Safety
+requirements
+
+31-[18] IEC 82079-1, Preparation of instructions for use — Structuring, content and presentation — Part 1:
+General principles and detailed requirements
+
+31-[19] ISO/IEC Guide 2, Standardization and related activities — General vocabulary
+
+31-[20] ISO/IEC Guide 14, Purchase information on goods and services intended for consumers
+
+31-[21] ISO/IEC Guide 37, Instructions for use of products by consumers
+
+31-[22] ISO/IEC Guide 41, Packaging — Recommendations for addressing consumer needs
+
+31-[23] ISO/IEC Guide 46, Comparative testing of consumer products and related services — General
+principles
+
+31-[24] ISO/IEC Guide 50, Safety aspects — Guidelines for child safety in standards and other specifications
+
+31-[25] ISO/IEC Guide 59, Code of good practice for standardization
+
+31-[26] ISO/IEC Guide 63, Guide to the development and inclusion of safety aspects in International Standards
+for medical devices
 
 [32]Iwu, F., Galloway, A., Mcdermid, J., Ian, T., 2007. Integrating safety and formal analyses using UML and PFS. Reliability Engineering and System Safety 92 (2), 156–170.
+https://www.sciencedirect.com/science/article/pii/S095183200500270X
 
 [33]Jarzebowicz, A., Go ́rski, J., 2006. Empirical evaluation of reading techniques for UML models inspection. ITSSA 1 (2), 103–110.
+https://www.researchgate.net/publication/242114685_Empirical_Evaluation_of_Reading_Techniques_for_UML_Models_Inspection
 
-[34]Johannessen, P., Grante, C., Alminger, A., Eklund, U., Torin, J., 2001. Haz- ard analysis in object oriented design of dependable systems. In: 2001 In- ternational Conference on Dependable Systems and Networks, Go ̈teborg, Sweden. pp. 507–512.
+33-[1] V R Basili, S Green, O Laitenberger, F Lanubile, F Shull, S Sørumgård and M V Zelkowitz, The Empirical Investigation of Perspective-Based Reading, Empirical Software Engineering, Vol. 1, No. 2, 1996, pp. 133-164.
+
+33-[2] D B Bisant and J R Lyle, A two-person inspection method to improve programming productivity. IEEE Trans. on Soft-ware Engineering, Vol. 15, No. 10, 1989, pp. 1294-1304.
+
+33-[3] M Ciolkowski, C Differding, O Laitenberger and J Munch, Empirical Investigation of Perspective-based Reading: A Rep-licated Experiment, ISERN Report 97-13, 1997.
+
+33-[4] R Conradi, P Mohagheghi, T Arif, L C Hegde, G A Bunde and A Pedersen, Object-Oriented Reading Techniques for In-spection of UML Models - An Industrial Experiment, In: European Conference on Object-Oriented Programming ECOOP'03. Springer-Verlag, 2003, pp. 483-501.
+
+33-[5] A Dunsmore, M Roper and M Wood, Practical Code Inspection Techniques for Object-Oriented Systems: An Experi-mental Comparison, IEEE Software, Vol. 20, No. 4, July-August 2003, pp. 21-29.
+
+33-[6] M Fagan, Design and Code Inspections to Reduce Errors in Program Development, IBM Systems Journal Vol. 15 No. 3, 1976, pp. 182-211.
+
+33-[7] T Gilb and D Graham, Software Inspections, Addison-Wesley, 1993.
+
+33-[8] J Górski and A Jarzębowicz, Detecting defects in object-oriented diagrams using UML-HAZOP, Foundations of Compu-ting and Decision Sciences, Vol. 27 (2002), No. 4, pp. 197-210.
+
+33-[9] J Górski and A Jarzębowicz, Development and validation of a HAZOP-based inspection of UML models, In: Proc. 3rd World Congress for Software Quality, 2005, pp. 345-354.
+
+33-[10] J Górski, A Jarzębowicz, R Leszczyna, J Miler and M Olszewski, Tool support for detecting defects in object-oriented models, Proc. of 10th International Multi-Conference on Advanced Computer Systems, 2003, pp. 103-112.
+
+33-[11]B Hnatkowska, Z Huzar and L Tuzinkiewicz., Refinement of UML collaborations. International Journal of Applied Math-ematics and Computer Science AMCS Vol. 16, No.1, 2006, pp.155-164.
+
+33-[12]A Hussey, HAZOP analysis of formal models of safety-critical software, in: Proceedings of SAFECOMP 2000, LNCS 1943, 2000, pp. 371-381.
+
+33-[13] A Jarzębowicz and J Górski, Experimental comparison of UML-HAZOP inspection and non-structured review, Found. of Computing and Decision Sciences, Vol. 30. No. 1., 2005, pp. 29-38.
+
+33-[14] J C Knight and E A Myers, An improved inspection technique. Communications of the ACM, Vol. 36, No. 11, November 1993, pp. 51-61.
+
+33-[15]O Laitenberger, C Atkinson, Generalizing perspective-based inspection to handle object-oriented development artifacts, Proc. of the 21st International Conference on Software Engineering, 1998, pp. 494–503.
+
+33-[16]O Laitenberger, C Atkinson, M Schlich and K El Emam, An experimental comparison of reading techniques for defect de-tection in UML design documents, Journal of Systems and Software archive Vol. 53, No. 2 (August 2000), pp. 183 – 204.
+
+33-[17]O Laitenberger, K El Eman, and T Harbich, An Internally Replicated Quasi-Experimental Comparison of Checklist and Perspective-based Reading of Code Documents, Technical Report, ISERN-99-01, 1999.
+
+33-[18]O Laitenberger, K Kohler and C Atkinson, Architecture-Centric Inspection for the Unified Development Process (UP), ISERN-01-01 Technical Report, 2001.
+
+33-[19]F Lanubile and G Visaggio, Evaluating Defect Detection Techniques for Software Requirements Inspections, ISERN-00-08 Technical Report, 2000.
+
+33-[20] J C S P Leite, J H Doorn, G D S Hadad and G N Kaplan, Scenario inspections, Requirements Engineering (2005) 10, 2005, pp. 1-21.
+
+33-[21]C M Lott and D H Rombach, Repeatable Software Engineering Experiments for Comparing Defect-Detection Techniques, Empirical Software Engineering: An International Journal, Vol. 1, No. 2, 1996, pp. 241-277.
+
+33-[22]Y Okazaki and T Okazaki, Risk-based design review and code inspection, In: Proc. of 3rd World Congress for Software Quality, Munich, Germany, 2005, pp. 159-168.
+
+33-[23]Object Management Group, OMG Unified Modeling Language Specification, Version 1.5, March 2003.
+
+33-[24]Object Management Group, OMG Unified Modeling Language Specification, Version 2.0, July 2005.
+
+33-[25]D L Parnas and D M Weiss, Active design reviews: principles and practices. In: Proc. of the 8th International Conference on Software Engineering, 1985, pp.215-222.
+
+33-[26] A A Porter, H Siy, A Mockus and L G Votta, Understanding the Sources of Variation in Software Inspections, ACM Transactions on Software Engineering and Methodology, Vol. 7 No. 1, January 1998, pp. 41-79.
+
+33-[27]A A Porter, L G Votta and V R Basili, Comparing Detection Methods For Software Requirements Inspections: A Repli-cated Experiment. IEEE Trans. on Software Engineering, Vol. 21, No. 6, 1995, pp. 563-575.
+
+33-[28]F Redmill, M Chudleigh and J Catmur, System Safety: HAZOP and Software HAZOP, J. Wiley & Sons, 1999.
+
+33-[29]G Travassos, F Shull, M Fredericks and V Basili, Detecting defects in object oriented designs: Using reading techniques to increase software quality. In: Proc. of Conference on Object-oriented Programming Systems, Languages & Applications (OOPSLA), 1999, pp. 47-56.
+
+33-[30]L G Votta, Does every inspection need a meeting? In Proceedings of ACM SIGSOFT '93 Symposium on Foundations of Software Engineering. ACM, 1993, pp. 107-114.
+
+33-[31]R Winther, O Johnsen and B A Gran, Security assessments of safety critical systems using HAZOPs, Proceedings of Computer Safety, Reliability and Security, 20th International Conference SAFECOMP 2001, Springer LNCS 2187, pp.14-24.
+
+33-[32]Z Zhang, V Basili, and B Shneiderman, An empirical study of perspective-based usability inspection. Human Factors and Ergonomics Society Annual Meeting, Chicago, October 1998, pp. 1346-1350.
+
+[34]Johannessen, P., Grante, C., Alminger, A., Eklund, U., Torin, J., 2001. Hazard analysis in object oriented design of dependable systems. In: 2001 International Conference on Dependable Systems and Networks, Go ̈teborg, Sweden. pp. 507–512.
 
 [35]Leveson, N. G., 2011. Engineering a Safer World, Systems Thinking Applied to Safety. The MIT Press.
+http://sunnyday.mit.edu/safer-world.pdf
+
+35-1.	Ackoff, Russell L. (July 1971). Towards a system of systems concepts. Management Science 17 (11):661—671.
+
+35-2.	Aeronautica Civil of the Republic of Colombia. AA965 Cali Accident Report. September 1996.
+
+35-3.	Air Force Space Division. System Safety Handbook for the Acquisition Manager. SDP 127-1, January 12,1987.
+
+35-4.	Aircraft Accident Investigation Commission. Aircraft Accident Investigation Report 96-5. Ministry of Transport, Japan, 1996.
+
+35-5.	James G. Andrus. Aircraft Accident Investigation Board Report: U.S. Army UH-60 Black Hawk Helicopters 87-26000 and 88-26060. Department of Defense, July 13,1994.
+
+35-6.	Angell, Marcia. 2005. The Truth about the Drug Companies: How They Deceive Us and What to Do about It. New York: Random House.
+
+35-7.	Anonymous. American Airlines only 75% responsible for 1995 Cali crash. Airline Industry Informa¬tion, June 15, 2000.
+
+35-8.	Anonymous. USS Scorpion (SSN-589). Wikipedia.
+
+35-9.	Arnold, Richard. A Qualitative Comparative Analysis of STAMP and SOAM in ATM Occurrence Investigation. Master’s thesis, Lund University, Sweden, June 1990.
+
+35-10.	Ashby, W. R. 1956. An Introduction to Cybernetics. London: Chapman and Hall.
+
+35-11.	Ashby, W. R. 1962. Principles of the self-organizing system. In Principles of Self-Organization, ed. H. Von Foerster and G. W. Zopf, 255-278. Pergamon.
+
+35-12.	Ayres, Robert U., and Pradeep K. Rohatgi. 1987. Bhopal: Lessons for technological decision-makers. Technology in Society 9:19-45.
+
+35-13.	Associated Press. Cali crash case overturned. CBS News, June 16, 1999 (http://www.csbnews.com/ stories/1999/06/16/world/main51166.shtml).
+
+35-14.	Bainbridge, Lisanne. 1987. Ironies of automation. In New Technology and Human Error, ed. Jens Rasmussen, Keith Duncan, and Jacques Leplat, 271-283. New York: John Wiley & Sons.
+
+35-15.	Bachelder, Edward, and Nancy Leveson. Describing and probing complex system behavior: A graphi-cal approach. Aviation Safety Conference, Society of Automotive Engineers, Seattle, September 2001.
+
+35-16.	Baciu, Alina, Kathleen R. Stratton, and Sheila P. Burke. 2007. The Future of Drug Safety: Promoting and Protecting the Health of the Public, Institute of Medicine. Washington, D.C.: National Academies Press.
+
+35-17.	Baker, James A. (Chair). The Report of the BP U.S. Refineries Independent Safety Review Panel. January 2007.
+
+35-18.	Barstow, David, Laura Dood, James Glanz, Stephanie Saul, and Ian Urbina. Regulators failed to address risk in oil rig fail-safe device. New York Times, New York Edition, June 21, 2010, Page Al.
+
+35-19.	Benner, Ludwig, Jr., Accident investigations: Multilinear events sequencing methods. (June 1975). Journal of Safety Research 7 (2):67-73.
+
+35-20.	Bernstein, D. A., and P. W. Nash. 2005. Essentials of Psychology. Boston: Houghton Mifflin.
+
+35-21.	Bertalanffy, Ludwig. 1969. General Systems Theory: Foundations. New York: Braziller.
+
+35-22.	Billings, Charles. 1996. Aviation Automation: The Search for a Human-Centered Approach. New York: CRC Press.
+
+35-23.	Bogard, William. 1989. The Bhopal Tragedy. Boulder, Colo.: Westview Press.
+
+35-24.	Booten, Richard C., Jr., and Simon Ramo. (July 1984). The development of systems engineering. IEEE Transactions on Aerospace and Electronic Systems AES-20 (4):306-309.
+
+35-25.	Brehmer, B. 1992. Dynamic decision making: Human control of complex systems. Acta Psychologica 81:211-241.
+
+35-26.	Brookes, Malcolm J. 1982. Human factors in the design and operation of reactor safety systems. In Accident at Three Mile Island: The Human Dimensions, ed. David L. Sills, C. P. Wolf, and Vivien B. Shelanski, 155-160. Boulder, Colo.: Westview Press.
+
+35-27.	Brown, Robbie, and Griffin Palmer. Workers on doomed rig voiced concern about safety. New York Times, Page Al, July 22, 2010.
+
+35-28.	Bundesstelle fur Flugunfalluntersuchung. Investigation Report. German Federal Bureau of Aircraft Accidents Investigation, May 2004.
+
+35-29.	Cameron, R., and A. J. Millard. 1985. Technology Assessment: A Historical Approach. Dubuque, IA: Kendall/Hunt.
+
+35-30.	Cantrell, Rear Admiral Walt. (Ret). Personal communication.
+
+35-31.	Carrigan, Geoff, Dave Long, M. L. Cummings, and John Duffer. Human factors analysis of Predator B crash. Proceedings ofAUVSI: Unmanned Systems North America, San Diego, CA 2008.
+
+35-32.	Carroll, J. S. 1995. Incident reviews in high-hazard industries: Sensemaking and learning under ambi-guity and accountability. Industrial and Environmental Crisis Quarterly 9:175-197.
+
+35-33.	Carroll, J. S. (November 1998). Organizational learning activities in high-hazard industries: The logics underlying self-analysis. Journal of Management Studies 35 (6):699-717.
+
+35-34.	Carroll, John, and Sachi Hatakenaka. Driving organizational change in the midst of crisis. MIT Sloan Management Review 42:70-79.
+
+35-35.	Carroll, J. M., and J. R. Olson. 1988. Mental models in human-computer interaction. In Handbook of Human-Computer Interaction, ed. M. Helander, 45-65. Amsterdam: Elsevier Science Publishers.
+
+35-36.	Checkland, Peter. 1981. Systems Thinking, Systems Practice. New York: John Wiley & Sons.
+
+35-37.	Childs, Charles W. Cosmetic system safety. Hazard	, May/June 1979.
+
+35-38.	Chisti, Agnees. 1986. Dateline Bhopal. New Delhi: Concept.
+
+35-39.	Conant, R. C., and W. R. Ashby. 1970. Every good regulator of a system must be a model of that system. International Journal of Systems Science 1:89-97.
+
+35-40.	Cook, Richard I. Verite, abstraction, and ordinateur systems in the evolution of complex process control .3rd Annual Symposium on Human Interaction with Complex Systems (HICS ’96), Dayton Ohio, August 1996.
+
+35-41.	Cook, R. I., S. S. Potter, D. D. Woods, and J. M. McDonald. 1991. Evaluating the human engineering of microprocessor-controlled operating room devices .Jourof Clinical Monitoring 7:217-226.
+
+35-42.	Council for Science and Society. 1977. The Acceptability of Risks (The Logic and Social Dynamics of Fair Decisions and Effective Controls). Chichester, UK: Barry Rose Publishers Ltd.
 
 [36] Lipaczewski, M., Ortmeier, F., Prosvirnova, T., Rauzy, A., Struck, S., 2015. Comparison of modeling formalisms for safety analyses: SAML and Al- taRica. Reliability Engineering & System Safety (0), –.
 
@@ -1969,18 +2226,18 @@ summary
 |21|21	
 |22|33|	
 |23||	
-24	
-25	
-26	
+|24|14|	
+|25|4|	
+|26||	
 27	
 28	
-29	
+|29|1|	
 30	
-31	
+|31|26|	
 32	
-33	
+|33|32|	
 34	
-35	
+|35|217|	
 36	
 37	
 38	
@@ -1994,7 +2251,7 @@ summary
 46	
 47	
 48
-|sum|788||
+|sum|1082||
 
 
 # ref
