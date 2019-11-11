@@ -606,11 +606,103 @@ study. Journal of Systems Software 28: 9-18, 1995.
 11-[26] M. V. Zelkowitz, D. R. Wallace. Experimental models for
 validating technology. IEEE Computer 31: 23-31, 1998
 
-[12] CPSELabs, 2015-2018. Cyber-Physical Systems Engineering Labs. Project funded by the European Union, Horizon2020 Programme, www. cpse-labs.eu, accessed 2015-05-17.
+[12] CPSELabs, 2015-2018. Cyber-Physical Systems Engineering Labs. Project funded by the European Union, Horizon2020 Programme, http://www.cpse-labs.eu, accessed 2015-05-17.
 
 [13] DefStan00-58, 2000. HAZOP studies on systems containing programmable electronics. Defence Standard, Ministry of Defence, UK, part 1 and 2.
 
+part 1 ftp://ftp.iks-jena.de/pub/mitarb/lutz/standards/dstan/00/058/01000200.pdf
+part2 http://158.132.155.107/posh97/private/accident-prevention/minstry-of-defence.pdf
+
+13-1-1 Def Stan 00-25 Human Factors for Designers of Equipment
+13-1-2 Def Stan 00-56 Safety Management Requirements for Defence Systems
+13-2-1 CCPS Guide, Guidelines for Hazard Evaluation Procedures (ISBN 0 8169 0491 X)
+13-2-2 CIA Guide, A Guide to Hazard and Operability Studies HAZOP and HAZAN, Kletz, T.A. (ISBN 1 56032 276 4)
+13-2-3 IEC Publication 812,  Analysis Techniques for System Reliability - Procedure for Failure Modes and Effects Analysis (FMEA)
+13-2-4-[1] Hatley D and Pirbhai I. Strategies for real-time system specification. Dorset House, 1988. ISBN 0-932633-11-0
+13-2-4-[2] Shlaer S and Mellor S. Object lifecycles: Modelling the world in states. Yourdon Press, 1992. ISBN 0-13-629940-7
+
 [14] Dogramadzi, S., Giannaccini, M., Harper, C., Sobhani, M., Woodman, R., Choung, J., 2014. Environmental hazard analysis - a variant of preliminary hazard analysis for autonomous mobile robots. Journal of Intelligent & Robotic Systems 76 (1), 73–117.
+https://www.researchgate.net/publication/260529874_Environmental_Hazard_Analysis_-_a_Variant_of_Preliminary_Hazard_Analysis_for_Autonomous_Mobile_Robots
+
+
+14-1. Alami, R., Albu-Schaeffer, A., Bicchi, A., Bischoff, R., Chatila, R., De Luca, A., De Santis, A., Giralt, G.,　Guiochet, J., Hirzinger, G., Ingrand, F., Lippiello, V.,　 Mattone, R., Powell, D., Sen, S., Siciliano, B., Tonietti,　 G., Villani, L.: Safe and dependable physical humanrobot interaction in anthropic domains: State of the art and challenges. Proc. IROS’06 Workshop on pHRI - Physical Human-Robot Interaction in Anthropic Domains (2006)
+
+14- 2. Alexander, R., Herbert, N., Kelly, T.: The role of the human in an autonomous system. Proceedings of the 4th IET System Safety Conference (2009)
+
+14-3. ARP 4761: Guidelines and methods for conducting the safety assessment process on civil airborne systems and equipment. Society of Automotive Engineers (1996)
+
+14-4. Bonasso, P., Kortenkamp, D.: Using a layered control architecture to alleviate planning with incomplete information. 　Proceedings of the AAA Spring Symposium on Planning 　with Incomplete Information for Robot Problems, pp. 1–4 (1996) 
+
+14-5. Brooks, R.: Cambrian Intelligence: The Early History of the New AI. MIT Press, Cambridge (1999) 
+
+14-6. B¨ohm, P., Gruber, T.: A novel hazop study approach in the rams analysis of a therapeutic robot for disabled children. 　Proceedings of the 29th International Conference on Computer Safety, Reliability, and Security, vol. 6351, pp. 15–27 (2010) 
+
+14-7. Choung, J.: Safety analysis & simulation of a guide robot for the elderly in care home, MSc Dissertation, University of Bristol (2012) 
+
+14-8. Eliot, C.E.: What is a reasonable argument in law? Proc. 8th GSN User Club Meeting, York UK, 2007 December (2007) 
+
+14-9. Fuller, C., Vassie, L.: Health and SafetyManagement: Principles and Best Practice. Pearson Education, Essex (2004) 1892
+
+14-10. Giannaccini, M.E., Sobhani, M., Dogramadzi, S., Harper, C.: Investigating real world issues in Human Robot Inter- action: Physical and Cognitive solutions for a safe robotic system. Proc. ICRA 2013, IEEE (2013) 
+
+14-11. Giuliani, M., Lenz, C., Mller, T., Rickert, M., Knoll, A.: Design principles for safety in human-robot interaction. Int. J. Social Robot. 2(3), 253–274 (2010) 
+
+14-12. Goodrich, M., Schultz, A.: Human-robot interaction: a survey. Found. Trends Hum. Comput. Interact. 1(3), 203–275 (2007) 
+
+14-13. Grigore, E.C., Eder, K., Pipe, A.G., Melhuish, C., Leonards, U.: Joint Action Understanding improvesJrnlID 10846 ArtID 0020 Proof#1 - 30/01/2014UNCORRECTED PROOF
+J Intell Robot Syst　Robot-to-1905 Human Object Handover, to appear in Proc IROS 2013 (2013)
+
+14- 14. Guiochet, J., Baron, C.: UML based risk analysis - Application to a medical robot. Proc. of the Quality Reliability and Maintenance 5th International Conference, Oxford, UK, pp. 213–216, Professional Engineering Publishing, I Mech E. April, 2004 (2004)
+ 
+14- 15. Guiochet, J., Martin-Guillerez, D., Powell, D.: Experence with model-based user-centered risk assessment for service robots. Proceedings of the 2010 IEEE 12th International Symposium on High-Assurance Systems Engineering, pp. 104–113 (2010)
+ 
+14- 16. Haddadin, S., Albu-Scha¨ffer, A., Hirzinger, G.: Requirements for safe robots: measurements, analysis and new insights. Int. J. Robotics Res. 28(11–12), 1507–1527 (2009)
+
+14- 17. Haddadin, S., Albu-Schaffer, A., Hirzinger, G.: Soft-tissue　injury in robotics. In: Robotics and Automation (ICRA), IEEE International Conference on 2010, pp. 3426–3433. IEEE (2010)
+
+14-18. Harper, C., Giannaccini, M.E.,Woodman, R., Dogramadzi, S., Pipe, T., Winfield, A.: Challenges for the hazard identification process of autonomous mobile robots. 4th Workshop on Human-Friendly Robotics Enschede, Netherlands (2011)
+
+14- 19. Heinzmann, J., Zelinsky, A.: Quantitative safety guarantees for physical human-robot interaction. Int. J. Robot. Res. 22(7), 479–504 (2003)
+ 
+14- 20. IEC 61882: Hazard and operability studies (HAZOP studies)-Application Guide, IEC (2001)
+
+14- 21. Ikuta, K., Ishii, H., Makoto, N.: Safety evaluation method of design and control for human-care robots. Int. J. Robot. Res. 22(5), 281–298 (2003)
+
+14- 22. ISO/FDIS 13482: Robots and robotic devices - Safety requirements - Non-medical personal care robot. Interna1939tional Organization for Standardization (2013)
+
+14- 23. Kirwan, B., Ainsworth, L.K.: A Guide to Task Analysis: The Task Analysis Working Group. Taylor & Francis, London (1992)
+
+14- 24. Kulic, D., Croft, E.: Strategies for safety in human robot interaction. Proceedings of IEEE International Conference on Advanced Robotics, pp. 644–649 (2003)
+
+14- 25. Kulic, D., Croft, E.: Pre-collision safety strategies for human-robot interaction. Auton. Robot. 22(2), 149–164 (2007)
+
+14-26. Lankenau, A.,Meyer, O.: Formal methods in robotics: Fault tree based verification. Proceedings of QualityWeek (1999) 
+
+14-27. Larsen, T., Hansen, S.: Evolving composite robot behaviour – a modular architecture. Proceedings of RoMoCo’05, pp. 271–276 (2005) 
+
+14-28. Martin-Guillerez, D., Guiochet, J., Powell, D., Zanon, C.: A UML-based method for risk analysis of human-robot interactions. 2nd InternationalWorkshop on Software Engi- neering for Resilient Systems, pp. 32–41 (2010) 
+
+14-29. Nehmzow, U.: Flexible control of mobile robots through autonomous competence acquisition. Meas. Control 28, 48–54 (1995) 
+
+14-30. Nehmzow, U., Kyriacou, T., Iglesias, R., Billings, S.: Robotmodic: modelling, identification and characterisation of mobile robots. Proc. TAROS 2004 (2004) 
+
+14-31. Owens, B.D., Stringfellow Herring, M., Dulac, N., Leveson, N.G.: Application of a Safety-Driven Design Methodology to an Outer Planet Exploration Mission, IEEEAC paper #1279, Version 8, Updated December 14 (2007) 
+
+14-32. Pumfrey, D.: The principled design of computer system safety analyses. PhD Thesis, University of York (1999) 
+
+14-33. Rouff, C.A., Hinchey, M., Rash, J., Truszkowski, W., Gordon-Spears, D. (eds.): Agent Technology from a Formal Perspective. Springer (2006) 
+
+14-34. Sobhani, M.M.: Fault Detection ad Recovery in HRI in Rescue Robotics. MSc Dissertation, Bristol Robotics Lab- oratory (2012) 
+
+14-35. UK MoD: HAZOP Studies on Systems Containing Programmable Electronics. Defence Standard 00-58 Issue 2, UK Ministry of Defence (2000) 
+
+14-36. UK National Archives 1974, UK Health and Safety atWork Act 1974, available freely over the internet at http://www.legislation.gov.uk/. Accessed 30 Sept 2013 (1974) 
+
+14-37. UK National Archives 1987, UK Consumer Protection Act 1987, available freely over the internet at http://www.legislation.gov.uk/. Accessed 30 Sept 2013 (1987) 1986
+
+14-38. Woodman, R., Winfield, A.F.T., Harper, C., Fraser, M.: Building safer robots: Safety driven control. Int. J. Robot. Res. 31(13), 1603–1626 (2012) 
+
+14-39. Wozniak, J., Baggiolini, V., Garcia, D.Q., Wenninger, J.: Software interlocks system. Proceedings of ICALEPCS07,pp. 403–405 (2007)
 
 [15] Gorski, J., Jarzebowicz, A., 2005. Development and validation of a HAZOP- based inspection of UML models,. In: 3rd World Congress for Software Quality, Munich, Germany.
 https://www.researchgate.net/publication/241608330_Development_and_validation_of_a_HAZOP-based_inspection_of_UML_models
@@ -642,12 +734,432 @@ https://www.researchgate.net/publication/241608330_Development_and_validation_of
 review, Foundations of Computing and Decision Sciences, vol. 30 (2005) no. 1.
 
 [16]Guiochet, J., Do Hoang, Q. A., Kaaniche, M., Powell, D., 2013. Model- based safety analysis of human-robot interactions: The MIRAS walking assistance robot. In: Rehabilitation Robotics (ICORR), 2013 IEEE Inter- national Conference on. pp. 1–7.
+https://hal.archives-ouvertes.fr/hal-00839296/document
+
+16-[1] D. Martin-Guillerez, J. Guiochet, D. Powell, and C. Zanon, “UML- based method for risk analysis of human-robot interaction,” in Int. Work- shop on Software Engineering for Resilient Systems (SERENE2010), 2010.
+
+16-[2] Q. A. Do Hoang, J. Guiochet, M. Kaaniche, and D. Powell, “Human- robot interactions: model-based risk analysis and safety case construc- tion,” in Embedded Real Time Software and Systems (ERTS2012), 2012.
+
+16-[3] J. Guiochet, Q. A. Do Hoang, M. Kaaniche, and D. Powell, “Apply- ing existing standards to a medical rehabilitation robot: Limits and challenges,” in Workshop FW5: Safety in Human-Robot Coexistence & Interaction: How can Standardization and Research benefit from each other?, IEEE/RSJ Int. Conf. on Intelligent Robots and Systems (IROS2012), 2012.
+
+16-[4] MIRAS, “Multimodal Interactive Robot for Assistance in Strolling,” Project supported by the French ANR (National Research Agency) under the TecSan (Healthcare Technologies) Program (ANR-08-TECS- 009-04), http://www.miraswalker.com/index.php/en.
+
+16-[5] ISO/IEC-Guide51, “Safety aspects - Guidelines for their inclusion in standards,” International Organization for Standardization, 1999.
+
+16-[6] P. Bishop and R. Bloomfield, “A methodology for safety case develop- ment,” in Safety-Critical Systems Symp., 1998.
+
+16-[7] DefStan00-56, “Defence standard 00-56 issue 4: Safety management requirements for defence systems,” Ministry of Defence, UK, 2007.
+
+16-[8] IEC61882, “Hazard and operability studies (HAZOP studies) – Appli- cation guide,” International Electrotechnical Commission, 2001.
+
+16-[9] OMG-UML2, “OMG Unified Modeling Language (OMG UML), Su- perstructure, V2.1.2,” Object Management Group, formal/2007-11-02, 2007.
+
+16-[10] K. M. Hansen, L. Wells, and T. Maier, “HAZOP analysis of UML-based software architecture descriptions of safety-critical systems,” in Nordic Workshop on UML and Software Modeling (NWUML04), 2004.
+
+16-[11] J. Gorski and A. Jarzebowicz, “Development and validation of a HAZOP-based inspection of UML models,,” in 3rd World Congress for Software Quality, 2005.
+
+16-[12] A. Jarzebowicz and J. Go ́rski, “Empirical evaluation of reading tech- niques for UML models inspection.” ITSSA, vol. 1, no. 2, pp. 103–110, 2006.
+
+16-[13] P. Johannessen, C. Grante, A. Alminger, U. Eklund, and J. Torin, “Hazard analysis in object oriented design of dependable systems,” in 2001 Int. Conf. on Dependable Systems and Networks, Go ̈teborg, Sweden, 2001, pp. 507–512.
+
+16-[14] K. Allenby and T. Kelly, “Deriving safety requirements using scenar- ios,” in Requirements Engineering, 2001. Proceedings. Fifth IEEE Int. Symp. on, 2001, pp. 228–235.
+
+16-[15] A. Arlow, C. Duffy, and J. McDermid, “Safety specification of the active traffic management control system for english motorways,” in The First Institution of Engineering and Technology Int. Conf. on System Safety, 2006.
+
+16-[16] F. Iwu, A. Galloway, J. Mcdermid, and T. Ian, “Integrating safety and formal analyses using UML and PFS,” Reliability Engineering and System Safety, vol. 92, no. 2, pp. 156–170, 2007.
+
+16-[17] T. Srivatanakul, “Security analysis with deviational techniques,” Ph.D. dissertation, University of York, 2005.
+
+16-[18] T. P. Kelly, “Arguing safety – a systematic approach to managing safety cases,” Ph.D. dissertation, University of York, 1998.
+
+16-[19] P. Bishop and R. Bloomfield, “The SHIP safety case approach,” in
+The Int. Conf. on Computer Safety, Reliability and Security (SAFE- COMP95), vol. 1. Sptringer, 1995, pp. 437–451.
+
+16-[20] DefStan00-58, “HAZOP studies on systems containing programmable electronics,” Defence Standard, Ministry of Defence, UK, 2000.
+
+16-[21] N. Stanton, P. Salmon, G. Walker, C. Baber, and D. P. Jenkins, Human Factors Methods: A Practical Guide for Engineering And Design. Ashgate Publishing, 2006.
+
+16-[22] ISO/FDIS14971:2006, “Medical devices - Application of risk manage- ment to medical devices,” International Standard Organisation, 2006.
+
+16-[23] IEC61508, “Functional safety of electrical/electronic/programmable electronic safety-related systems,” International Electrotechnical Com- mission, Ed. 2, April 2010.
+
+16-[24] T. Kelly and J. McDermid, “Safety case construction and reuse using patterns,” in 16th Int. Conf. on Computer Safety, Reliability and Security (SAFECOMP97), 1997.
 
 [17]Guiochet, J., Martin-Guillerez, D., Powell, D., 2010. Experience with model- based user-centered risk assessment for service robots. In: IEEE Interna- tional Symposium on High-Assurance Systems Engineering (HASE2010). IEEE Computer Society, San Jose, CA, USA, pp. 104–113.
+https://www.researchgate.net/publication/211503723_Experience_with_Model-Based_User-Centered_Risk_Assessment_for_Service_Robots
+
+17-[1] L. Gunderson and J. Gunderson, “Chapter 10 - Deliberative
+System,” in Robots, Reasoning, and Reification. Springer,
+2009, pp. 121–137.
+
+17-[2] ISO/IEC-31010, “Risk management - risk assessment techniques,”
+International Standard Organisation, 2009.
+
+17-[3] OMG-UML2, “OMG Unified Modeling Language (OMG
+UML), Superstructure, V2.1.2,” Object Management Group,
+formal/2007-11-02, 2007.
+
+17-[4] IEC61882, “Hazard and operability studies (HAZOP studies)
+– Application guide,” International Electrotechnical Commission,
+2001.
+
+17-[5] MIRAS, “Multimodal Interactive Robot for Assistance
+in Strolling,” Project supported by the French ANR
+(National Research Agency) under the TecSan (Healthcare
+Technologies) Program (ANR-08-TECS-009-04),
+http://www.miraswalker.com/index.php/en.
+
+17-[6] ISO/FDIS14971:2006, “Medical devices - Application of risk
+management to medical devices,” International Standard Organisation,
+2006.
+
+17-[7] ISO/IEC-Guide51, “Safety aspects - Guidelines for their
+inclusion in standards,” International Organization for Standardization,
+1999.
+
+17-[8] ISO/IEC-Guide73, “Risk management - Vocabulary - Guidelines
+for use in standards,” International Organization for
+Standardization, 2002.
+
+17-[9] N. Stanton, P. Salmon, G. Walker, C. Baber, and D. P. Jenkins,
+Human Factors Methods: A Practical Guide for Engineering
+And Design. Ashgate Publishing, 2006.
+
+17-[10] M. Rausand and A. Hyland, System Reliability Theory: Models,
+Statistical Methods and Applications, 2nd Edition. Wiley,
+2004.
+
+17-[11] D. Martin-Guillerez, J. Guiochet, D. Powell, and C. Zanon,
+“A UML-based method for risk analysis of human-robot
+interactions,” in 2nd International Workshop on Software
+Engineering for Resilient Systems. ACM, Apr. 2010.
+
+17-[12] D. Martin-Guillerez, J. Guiochet, and D. Powell, “Experience
+with a model-based safety analysis process for an autonomous
+service robot,” in IARP Workshop on Technical Challenges for
+Dependable Robots in Human Environments (DRHE 2010),
+Toulouse, France, 2010, pp. 1–8.
+
+17-[13] K. Hole and L.-H. Netland, “Toward risk assessment of largeimpact
+and rare events,” IEEE Security and Privacy, vol. 8,
+pp. 21–27, 2010.
+
+17-[14] IEC61508, “Functional safety of electrical/
+electronic/programmable electronic safety-related
+systems,” International Electrotechnical Commission, Ed. 2,
+April 2010.
+
+17-[15] AIS98, “The abbreviated injury scale,” Association for the
+Advancement of Automotive Medicine, Des Plaines, IL, USA,
+Tech. Rep., 1998.
+
+17-[16] ISO14121-1, “Safety of machinery - risk assessment - part1
+principles,” International Standard Organisation, 2007.
+
+17-[17] ISO11199-2:2005, “Walking aids manipulated by both arms
+– requirements and test methods – part 2: Rollators,” International
+Standard Organisation, 2005.
+
+17-[18] DefStan00-58, “HAZOP studies on systems containing programmable
+electronics,” Defence Standard, Ministry of Defence,
+UK, 2000.
+
+17-[19] M. Nokata and N. Tejima, “A safety strategy for rehabilitation
+robots,” in Advances in Rehabilitation Robotics, Z. B.
+Stefanov and D., Eds. Springer-Verlag Berlin Heidelberg,
+2004, pp. 177–185.
+
+17-[20] CORAS, “A platform for risk analysis of security critical systems,”
+http://coras.sourceforge.net, http://www2.nr.no/coras/,
+2010.
+
+17-[21] R. F. Bjørn Axel Gran and A. P.-J. Thunem, “An approach
+for model-based risk assessment,” in 23rd International Conference,
+SAFECOMP 2004, Potsdam, Germany. Springer
+Berlin / Heidelberg, 2004, pp. 311–324.
+
+17-[22] R. Winther, O.-a. Johnsen, and B. A. Gran, “Security assessments
+for safety critical systems using hazops,” in In:
+Proceedings of SAFECOMP 2001. Springer, 2001, p. 1424.
+
+17-[23] K. Lano, D. Clark, and K. Androutsopoulos, “Safety and
+security analysis of object-oriented models,” in SAFECOMP
+’02: Proceedings of the 21st International Conference on
+Computer Safety, Reliability and Security. London, UK:
+Springer-Verlag, 2002, pp. 82–93.
+
+17-[24] K. M. Hansen, L. Wells, and T. Maier, “Hazop analysis of
+uml-based software architecture descriptions of safety-critical
+systems,” in Proceedings of NWUML, 2004.
+
+17-[25] J. Gorski and A. Jarzebowicz, “Development and validation
+of a hazop-based inspection of uml models,,” in 3rd World
+Congress for Software Quality, Munich, Germany, 2005.
+
+17-[26] A. Jarzebowicz and J. G´orski, “Empirical evaluation of reading
+techniques for uml models inspection.” ITSSA, vol. 1,
+no. 2, pp. 103–110, 2006.
+
+17-[27] P. Johannessen, C. Grante, A. Alminger, U. Eklund, and
+J. Torin, “Hazard analysis in object oriented design of
+dependable systems,” in 2001 International Conference on
+Dependable Systems and Networks, G¨oteborg, Sweden, 2001,
+pp. 507–512.
+
+17-[28] K. Allenby and T. Kelly, “Deriving safety requirements using
+scenarios,” in Requirements Engineering, 2001. Proceedings.
+Fifth IEEE International Symposium on, 2001, pp. 228–235.
+
+17-[29] A. Arlow, C. Duffy, and J. McDermid, “Safety specification
+of the active traffic management control system for english
+motorways,” in The First Institution of Engineering and
+Technology International Conference on System Safety, 2006.
+
+17-[30] I. Frantz, G. Andy, M. John, and I. Toyn, “Integrating
+safety and formal analyses using uml and pfs,” Reliability
+Engineering and System Safety, vol. 92, no. 2, pp. 156–170,
+2007.
+
+17-[31] T. Srivatanakul, “Security analysis with deviational techniques,”
+Ph.D. dissertation, University of York, 2005.
+
+17-[32] J. Guiochet, G. Motet, C. Baron, and G. Boy, “Toward a
+human-centered UML for risk analysis - application to a
+medical robot,” in Proc. of the 18th IFIP World Computer
+Congress (WCC), Human Error, Safety and Systems Development
+(HESSD04), C. Johnson and P. Palanque, Eds. Kluwer
+Academic Publisher, 2004, pp. 177–191.
 
 [18]Guiochet, J., Motet, G., Baron, C., Boy, G., 2004. Toward a human-centered UML for risk analysis - application to a medical robot. In: Johnson, C., Palanque, P. (Eds.), Proc. of the 18th IFIP World Computer Congress (WCC), Human Error, Safety and Systems Development (HESSD04). Kluwer Academic Publisher, pp. 177–191.
+https://www.researchgate.net/publication/221325040_Toward_a_Human-Centered_UML_for_Risk_Analysis
+
+18-[1] G. Motet and J.C. Geffroy. Dependable computing: an overview. Theoretical Computer
+Sciences, 290(2):1115-1126, 2003.
+
+18-[2] N.G. Leveson. Safeware - System safety and computers. Addison-Wesley, 1995.
+
+18-[3] ISO/IEC Guide 51. Safety aspects - Guidelines for their inclusion in standards. International
+Organization for Standardization, 1999.
+
+18-[4] ISO/IEC Guide 73. Risk management - vocabulary - guidelines for use in standards.
+International Organization for Standardization, 2002.
+
+18-[5] ISO 14971. Medical devices - Application of risk management to medical devices.
+International Organization for Standardization, 2000.
+
+18-[6] J. Guiochet. Safety management of service robot systems - UML approach based on system
+risk analysis (in french). PhD thesis, Institut National des Sciences Appliquées de Toulouse,
+France, 2003.
+
+18-[7] J. Guiochet and A. Vilchis. Safety analysis of a medical robot for tele-echography. In Proc. of
+the 2nd IARP IEEE/RAS joint workshop on Technical Challenge for Dependable Robots in
+Human Environments, Toulouse, France, pages 217-227, October 2002.
+
+18-[8] Food and Drug Administration. Medical device use-safety: incorporating human factors
+engineering into risk management. Technical report, U.S. Departement of Health and Human
+Service, 2000.
+
+18-[9] HSE. Proposed framework for addressing human factors in IEC 61508. Technical Report
+373/2001, Health and Safety Executive, UK, 2001. http://www.hse.gov.uk.
+
+18-[10] MIL-STD-1629A. Procedures for performing a Failure Mode, Effects and Criticality
+Analysis. Military Standard, 1980.
+
+18-[11] A. Vilchis, P. Cinquin, J. Troccaz, A. Guerraz, B. Hennion, F. Pellissier, P. Thorel,
+F. Courreges, A. Gourdon, G. Poisson, P. Vieyres, P. Caron, O. Mérigeaux, L. Urbain,
+C. Daimo, S. Lavallée, P. Arbeille, M. Althuser, J-M. Ayoubi, B. Tondu, and S. Ippolito.
+TER: a system for Robotic Tele-Echography. In 4th Int. Conf. on Medical Image Computing
+and Computer-Assisted Intervention (MICCAI'01), volume 2280 of Lecture Notes in
+Computer Science, pages 326-334. Springer, 2001.
+
+18-[12] J-C. Laprie, J. Arlat, J-P. Blanquart, A. Costes, Y. Crouzet, Y. Deswarte, J-C. Fabre,
+H. Guillermain, M. Kaâniche, K. Kanoun, C. Mazet, D. Powell, C. Rabéjac, and P. Thévenod.
+Dependability handbook (in french). Cépaduès - Éditions, Toulouse, France, 1995.
+TOWARD A HUMAN-CENTERED UML FOR RISK ANALYSIS 13
+
+18-[13] D. Beevis, R. Bost, B. Döring, E. Nordø, F. Oberman, J-P. Papin, H. Schuffel, and
+D. Streets. Analysis techniques for man-machine systems design. Technical Report
+AC/243(Panel 8)TR/7, NATO, Canada, 1994.
+
+18-[14] M. Mersiol, C. Mazet, H. Guillerman, and H. Waeselynck. Human dependability in complex
+system: an issue of task consistency and task allocation. International Conference on
+Probabilistic Safety Assessment and Management (PSAM'4), 4:2693-2698, September 1998.
+
+18-[15] F. Paternó. Model based design and evaluation of interactive applications. Springer Verlag,
+2000.
+
+18-[16] N.J. Nunes. Object Modeling for User-Centered Development and User Interface Design:
+The Wisdom Approach. PhD thesis, Universidade Da Madeira, Madeira, Portugal, April 2001.
+
+18-[17] CHI97. Conference on Human Factors in Computing Systems, Atlanta, USA. ACM, 1997.
+http://www.acm.org/sigchi/chi97.
+
+18-[18] A. Seffah and C. Hayne. Integrating human factors into use cases and object-oriented
+methods. In Proc. Workshop on Integrating Human Factors into Use Cases and OO Methods
+(WISDOM'99) in the 13th European Conference for Object-Oriented Programming
+(ECOOP'99), volume 1743 of Lecture Notes in Computer Science, pages 240-254. Springer-
+Verlag, 1999.
+
+18-[19] TUPIS2000. Towards a UML Profile for Interactive Systems Development Workshop in the
+<<UML2000>> International Conference, York, UK. Online, 2000.
+
+18-[20] A. Cockburn. Structuring uses cases with goals. Journal of Object Oriented Programming,
+8(6/7), 2000.
+
+18-[21] I. Jacobson. Object-oriented software engineering: a use case driven approach. Addison-
+Wesley, 1992.
+
+18-[22] P. Forbrig and A. Dittmar. Relations between uses cases and task analysis. In Proc. of
+Workshop on Integrating Human Factors into Use Cases and OO Methods in ECOOP'99,
+1999.
+
+18-[23] C. Hayne, A. Seffah, and D. Engelberg. Comparing uses cases and task analysis: a concrete
+example. In Proc. of Workshop on Integrating Human Factors into Use Cases and OO
+Methods in ECOOP'99, 1999.
+
+18-[24] M. Lee and H.A. Abdullah. Applying UML to task analysis of the user interface for
+rehabilitation robotic system. In Proc. of 8th International Conference on Rehabilitation
+Robotics, Daelon, Korea, 2003.
+
+18-[25] J. Guiochet, B. Tondu, and C. Baron. Integration of UML in human factors analysis for
+safety of a medical robot for tele-echography. In Proc. of the IEEE/RSJ International
+Conference on Intelligent Robots and Systems (IROS03), pages 3212-3218. IEEE Publisher,
+October 2003.
+
+18-[26] H.E. Eriksson and M. Penker. Business modeling with UML: business patterns at work. John
+Wiley and Sons, Inc., 2000.
+
+18-[27] Y. Barnard and I. Blok. Gathering user needs for knowledge management applications for
+engineers in advanced manufacturing industries. In S. Bagnara, editor, Proc. of the 8th
+International Conference on Human Aspects of Advanced Manufacturing: Agility & Hybrid
+Automation, pages 339-346, 2003.
+
+18-[28] S. Wang. Object-oriented task analysis. Information and Management, 29:331-341, 1995.
+
+18-[29] P. Markopoulos. Modelling user tasks with the Unified Modelling Language. In Proc. of
+Workshop TUPIS2000 in <<UML2000>> International Conference, York, UK, 2000.
+
+18-[30] M. Abed D. Tabary. A software environment task object-oriented design (etood). The
+Journal of Systems and Software, 60:129-140, 2002.
+
+18-[31] F. Paternó. Commentary on 'scenarios and task analysis' by Dan Diaper. Interacting with
+computers, Elsevier, 14:407-409, 2002.
+14 Jérémie Guiochet, Gilles Motet, Claude Baron and Guy Boy
+
+18-[32] G. Booch, J. Rumbaugh, and I. Jacobson. Unified Modeling Language Users Guide.
+Addison Wesley Longman, 1999.
+
+18-[33] I. Sommervile and P. Sawyer. Requirements engineering : a good practice guide. John
+Wiley and Sons, Inc., 1997.
+
+18-[34] G. Hannaman and A. Spurgin. Systematic human action reliability procedure (SHARP).
+Project 2170-3, Interim report EPRI NP-3583, NUS Corporation, San Diego, CA, US, 1984.
+
+18-[35] A. Swain and H. Guttmann. Handbook on human reliability analysis with emphasis on
+nuclear power plant application. NUREG/CR-1278 SAND 80-0200 RX, Nuclear Regulatory
+Commission, Washington, US, 1983.
+
+18-[36] C. Kelly, P. Enterkin, and P. Goillau. Human factors integration in future ATM systems -
+methods and tools. Technical Report HRS/HSP-003-REP-03, Eurocontrol, European
+Organisation for the Safety of Air Navigation, 2000.
+
+18-[37] J. Reason. Human Error. Cambridge University Press, 1990.
+
+18-[38] P. Wright, B. Fields, and M. Harrison. Deriving human-error tolerance requirements from
+tasks. IEEE International Conference on Requirements Engineering (ICRE'94), 1:462-467,
+1994.
+
+18-[39] P.C. Cacciabue. Human error risk management for engineering systems: a methodology for
+design, safety assessment, accident investigation and training. Reliability Engineering and
+System Safety, 83(2):229-240, 2004.
+
+18-[40] S. Yacoub, H. Ammar, and T. Robinson. A methodology for architectural-level risk analysis.
+In 11th International Symposium on Software Reliability Engineering (ISSRE'2000), San Jose,
+CA, pages 210-221, October 2000.
+
+18-[41] F. Bitsch. Requirements on methods and techniques in perspective to approval process for
+railway systems. In Second International Workshop on Integration of Specification
+Techniques for Applications in Engineering (INT 2002), Grenoble, France, April 2002.
+
+18-[42] P. Johannessen, C. Grante, A. Alminger, U. Eklund, and J. Torin. Hazard analysis in object
+oriented design of dependable systems. In 2001 International Conference on Dependable
+Systems and Networks, Göteborg, Sweden, pages 507-512, July 2001.
+
+18-[43] J. Guiochet and C. Baron. UML based FMECA in risk analysis. In Proc. of the European
+Simulation and Modelling Conference ESMc2003, Naples, Italy, October 2003.
+
+18-[44] OMG. Unified Modeling Language Specification v1.4. Technical report, Object
+Management Group, September 2001.
+
+18-[45] OMG. Unified Modeling Language Specification v1.5. Technical Report formal/03-03-01,
+Object Management Group, March 2003.
+
+18-[46] OMG. 2nd revised submission to OMG RFP ad/00-09-02 - Unified Modeling Language :
+Superstructure - version
 
 [19]Guiochet, J., Vilchis, A., 2002. Safety analysis of a medical robot for tele- echography. In: Proc. of the 2nd IARP IEEE/RAS joint workshop on Tech- nical Challenge for Dependable Robots in Human Environments, Toulouse, France. pp. 217–227.
+https://hal.archives-ouvertes.fr/hal-01276607/document
+
+19-[1] D. Beevis, R. Bost, B. Döring, E. Nordø, F. Ober- man, J-P. Papin, H. Schuffel, and D. Streets. Analy- sis techniques for man-machine system design. Tech- nical Report AC/243(Panel 8)TR/7, NATO, Canada, 1994.
+
+19-[2] G. Booch, J. Rumbaugh, and I. Jacobson. Unified Modeling Language Users Guide. Addison Wesley Longman, 1999.
+
+19-[3] M. Carey. Proposed framework for addressing human factors in IEC 61508. Technical Report 373/2001, Health and Safety Executive, UK, 2001. http://www.hsebooks.co.uk.
+
+19-[4] L. Caroll, B. Tondu, C. Baron, and J.C. Geffroy. Comparison of two significant development methods applied to the design of real-time robot controllers. IEEE International Conference on Systems, Man and Cybernetics (SMC’98), pages 3394–3399, October 1998.
+Occurrence Severity Risk
+
+19-[5] B.S. Dhillon. Robot Reliability and Safety. Springer- Verlag, 1991.
+
+19-[6] B.S. Dhillon and A.R.M. Fashandi. Safety and reli- ability assessment techniques in robotics. Robotica, 15:701–708, 1997.
+
+19-[7] B.P. Douglass. Doing Hard time : developping real- time systems with UML, objects, framewoks and pat- terns. Object technology. Addison-Wesley, 1999.
+
+19-[8] EN 1441. Medical devices - risk analysis. CEN, Eu- ropean Committee for standardization, 1997.
+
+19-[9] H.E. Eriksson and M. Penker. Business Modeling with UML: business patterns at work. John Wiley and Sons, Inc., 2000.
+
+19-[10] Food and Drug Administration. Medical device use-safety: incorporating human factors engineer- ing into risk management. Technical report, U.S. Departement of Health and Human Service, 2000. http://www.fda.gov/cdrh/humfac/1497.pdf.
+
+19-[11] IEC 60300-3-9. Dependability management - part 3: application guide - section 9: risk analysis of techno- logical systems. International Electrotechnical Com- mission, 1995.
+
+19-[12] ISO 14971. Medical devices - Application of risk management to medical devices. International Orga- nization for Standardization, 2000.
+
+19-[13] ISO/IEC Guide 51. Safety aspects - Guidelines for their inclusion in standards. International Organiza- tion for Standardization, 1999.
+
+19-[14] I. Jacobson, G. Booch, and J. Rumbaugh. The Uni- fied Software Development Process. Addison Wesley Longman, 1999.
+
+19-[15] W. Johnson. MORT safety assurance systems. Deker, Marcel Incorporated, New York, 1980.
+
+19-[16] K.Khodabandehloo.Analysesofrobotsystemsusing fault and event trees: case studies. Reliability Engi- neering and System Safety, 53:247–264, 1996.
+
+19-[17] B. Kirwan. Human error identification in human re- liability assessment. Part I: Overview of approaches. Applied Ergonomics, 23(5):299–318, 1997.
+
+19-[18] H. Kumamoto, Y. Soto, and K. Inoue. Hazard identifi- cation and safety assessment of human-robot systems. Engineering Risk and Hazard Assessment, 1:61–80, 1986.
+
+19-[19] U. Laible, T. Bürger, and G. Pritschow. A fail- safe dual channel robot control for surgery appli- cations. Proceedings of SAFECOMP01, Springer- Verlag Berlin Heidelberg, pages 75–85, 2001.
+
+19-[20] J-C. Laprie, J. Arlat, J-P. Blanquart, A. Costes, Y. Crouzet, Y. Deswarte, J-C. Fabre, H. Guiller- main, M. Kaâniche, K. Kanoun, C. Mazet, D. Powell, C. Rabéjac, and P. Thévenod. Dependability hand- book (in French). Cépaduès - Éditions, Toulouse, France, 1995.
+
+19-[21] N.G. Leveson. Safeware - System safety and comput- ers. Addison-Wesley, Univesity of Washington, 1995.
+
+19-[22] M. Mersiol, C. Mazet, H. Guillerman, and H. Waese- lynck. Human dependability in complex system: an issue of task consistency and task allocation. Interna- tional Conference on Probabilistic Safety Assessment and Management (PSAM’4), 4:2693–2698, Septem- ber 1998.
+
+19-[23] S. Pocock, B. Fields, M. Harrison, and P. Wright. THEA - A reference guide. Technical Report 336, University of York Computer Science, 2001. http://www.cs.york.ac.uk/ftpdir/reports/.
+
+19-[24] J. Reason. Human Error. Cambridge University Press, Cambridge, 1990.
+
+19-[25] J. Rushby. Modeling the human in human factors. SAFECOMP01, pages 86–91, 2001.
+
+19-[26] I.SommervileandP.Sawyer.Requirementsengineer- ing : a good practice guide. John Wiley and Sons, Inc., 1997.
+
+19-[27] B. Tondu and P. Lopez. Modeling and control of McKibben artificial muscle robot actuators. IEEE Control Systems, 20(2):15–38, 2000.
+
+19-[28] A. Vilchis, P. Cinquin, J. Troccaz, A. Guerraz, B. Hennion, F. Pellissier, P. Thorel, F. Courreges, A. Gourdon, G. Poisson, P. Vieyres, P. Caron, O. Mérigeaux, L. Urbain, C. Daimo, S. Lavallée, P. Arbeille, M. Althuser, J-M. Ayoubi, B. Tondu, and S. Ippolito. TER: a system for Robotic Tele- Echography. Lectures Notes in Computer Science, Medical Image Computing and Computer-Assisted Intervention (MICCAI’01), pages 326–334, 2001.
+
+19-[29] I. Walker and J. Cavallero. Failure mode analysis for a hazardous waste clean-up manipulator. Reliability Engineering and System Safety, 53:277–290, 1996.
+
+19-[30] P. Wright, B. Fields, and M. Harrison. Deriving human-error tolerance requirements from tasks. IEEE International Conference on Requirements Engineer- ing (ICRE’94), 1:462–467, 1994.
 
 [20]Haddadin, S., 2014. Towards Safe Robots, Approaching Asimovs 1st Law. Vol. Springer Tracts in Advanced Robotics, Vol. 90. Springer.
 
@@ -724,14 +1236,14 @@ summary
 |9|17|R|	
 |10||R|	
 |11|26|	
-12	
-13	
-14	
-15	
-16	
-17	
-18	
-19	
+|12||	
+|13|7|	
+|14|39|	
+|15|12|	
+|16|24|	
+|17|32|	
+|18|46|	
+|19|30|	
 20	
 21	
 22	
@@ -761,7 +1273,7 @@ summary
 46	
 47	
 48
-|sum|235||
+|sum|425||
 
 
 # ref
