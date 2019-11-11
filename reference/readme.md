@@ -614,11 +614,17 @@ part 1 ftp://ftp.iks-jena.de/pub/mitarb/lutz/standards/dstan/00/058/01000200.pdf
 part2 http://158.132.155.107/posh97/private/accident-prevention/minstry-of-defence.pdf
 
 13-1-1 Def Stan 00-25 Human Factors for Designers of Equipment
+
 13-1-2 Def Stan 00-56 Safety Management Requirements for Defence Systems
+
 13-2-1 CCPS Guide, Guidelines for Hazard Evaluation Procedures (ISBN 0 8169 0491 X)
+
 13-2-2 CIA Guide, A Guide to Hazard and Operability Studies HAZOP and HAZAN, Kletz, T.A. (ISBN 1 56032 276 4)
+
 13-2-3 IEC Publication 812,  Analysis Techniques for System Reliability - Procedure for Failure Modes and Effects Analysis (FMEA)
+
 13-2-4-[1] Hatley D and Pirbhai I. Strategies for real-time system specification. Dorset House, 1988. ISBN 0-932633-11-0
+
 13-2-4-[2] Shlaer S and Mellor S. Object lifecycles: Modelling the world in states. Yourdon Press, 1992. ISBN 0-13-629940-7
 
 [14] Dogramadzi, S., Giannaccini, M., Harper, C., Sobhani, M., Woodman, R., Choung, J., 2014. Environmental hazard analysis - a variant of preliminary hazard analysis for autonomous mobile robots. Journal of Intelligent & Robotic Systems 76 (1), 73–117.
@@ -2174,29 +2180,577 @@ http://sunnyday.mit.edu/safer-world.pdf
 [36] Lipaczewski, M., Ortmeier, F., Prosvirnova, T., Rauzy, A., Struck, S., 2015. Comparison of modeling formalisms for safety analyses: SAML and Al- taRica. Reliability Engineering & System Safety (0), –.
 
 [37]Machin, M., Dufoss, F., Blanquart, J.-P., Guiochet, J., Powell, D., Waese- lynck, H., 2014. Specifying safety monitors for autonomous systems using model-checking. In: Bondavalli, A., Di Giandomenico, F. (Eds.), Computer Safety, Reliability, and Security. Vol. 8666 of Lecture Notes in Computer Science. Springer International Publishing, pp. 262–277.
+https://hal.archives-ouvertes.fr/hal-01207152/document
 
 [38]Martin-Guillerez, D., Guiochet, J., Powell, D., Zanon, C., 2010. UML-based method for risk analysis of human-robot interaction. In: International Workshop on Software Engineering for Resilient Systems (SERENE2010), London, UK.
+https://hal.archives-ouvertes.fr/hal-01285195/document
+
+38-[1] AIS98. The abbreviated injury scale. Technical report, Association for the Advancement of Automotive Medicine, Des Plaines, IL, USA, 1998.
+
+38-[2] K. Allenby and T. Kelly. Deriving safety requirements using scenarios. In Requirements Engineering, 2001. Proceedings. Fifth IEEE International Symposium on, pages 228–235, 2001.
+
+38-[3] A. Arlow, C. Duffy, and J. McDermid. Safety specification of the active traffic management control system for english motorways. In The First Institution of Engineering and Technology International Conference on System Safety, 2006.
+
+38-[4] A. Avizienis, J.-C. Laprie, B. Randell, and
+C. Landwehr. Basic Concepts and Taxonomy of Dependable and Secure Computing. IEEE Transactions on Dependable and Secure Computing, 1(1):11–33, Jan. 2004.
+
+38-[5] DefStan00-58. HAZOP studies on systems containing programmable electronics. Defence Standard, Ministry of Defence, UK, 2000.
+
+38-[6] I. Frantz, G. Andy, M. John, and I. Toyn. Integrating safety and formal analyses using UML and PFS. Reliability Engineering and System Safety, 92(2):156–170, 2007.
+
+38-[7] J. Gorski and A. Jarzebowicz. Development and validation of a HAZOP-based inspection of UML models,. In 3rd World Congress for Software Quality, Munich, Germany, 2005.
+
+38-[8] J. Guiochet, G. Motet, C. Baron, and G. Boy. Toward a human-centered UML for risk analysis - application to a medical robot. In C. Johnson and P. Palanque, editors, Proc. of the 18th IFIP World Computer
+Congress (WCC), Human Error, Safety and Systems Development (HESSD04), pages 177–191. Kluwer Academic Publisher, 2004.
+
+38-[9] J. Guiochet and A. Vilchis. Safety analysis of a medical robot for tele-echography. In Proc. of the 2nd IARP IEEE/RAS joint workshop on Technical Challenge for Dependable Robots in Human Environments, Toulouse, France, pages 217–227, 2002.
+
+38-[10] K. M. Hansen, L. Wells, and T. Maier. HAZOP analysis of UML-based software architecture descriptions of safety-critical systems. In Proceedings of NWUML, 2004.
+
+38-[11] IEC61508. Functional safety of electrical/electronic/programmable electronic safety-related systems. International Electrotechnical Commission, 2000.
+
+38-[12] IEC61882. Hazard and operability studies (HAZOP studies) – Application guide. International Electrotechnical Commission, 2001.
+
+38-[13] ISO/IEC-Guide51. Safety aspects - Guidelines for their inclusion in standards. International Organization for Standardization, 1999.
+
+38-[14] A. Jarzebowicz and J. Go ́rski. Empirical evaluation of reading techniques for UML models inspection. ITSSA, 1(2):103–110, 2006.
+
+38-[15] P. Johannessen, C. Grante, A. Alminger, U. Eklund, and J. Torin. Hazard analysis in object oriented design of dependable systems. In 2001 International Conference on Dependable Systems and Networks, Go ̈teborg, Sweden, pages 507–512, 2001.
+
+38-[16] K. Lano, D. Clark, and K. Androutsopoulos. Safety and security analysis of object-oriented models. In SAFECOMP ’02: Proceedings of the 21st International Conference on Computer Safety, Reliability and Security, pages 82–93, London, UK, 2002. Springer-Verlag.
+
+38-[17] MIRAS. Multimodal Interactive Robot for Assistance in Strolling. Project supported by the French ANR (National Research Agency) under the TecSan (Healthcare Technologies) Program (ANR-08-TECS-009-04), http://www.miraswalker.com/index.php/en.
+
+38-[18] OMG-UML2. OMG unified modeling language (OMG UML), superstructure, v2.1.2. Object Management Group, formal/2007-11-02, 2007.
+
+38-[19] PHRIENDS. Physical Human-Robot Interaction: Dependability and Safety. Project supported by the European Commission under the 6th Framework Programme (STReP IST-045359), http://www.phriends.eu/.
+
+38-[20] M. Rausand and A. Høyland. System Reliability Theory: Models, Statistical Methods and Applications, 2nd Edition. Wiley, 2004.
+
+38-[21] T. Srivatanakul. Security Analysis with Deviational Techniques. PhD thesis, University of York, 2005. [22] N. Stanton, P. Salmon, G. Walker, C. Baber, and D. P. Jenkins. Human Factors Methods: A Practical Guide for Engineering And Design. Ashgate Publishing, 2006.
 
 [39]MIRAS, 2009-2013. Multimodal Interactive Robot for Assistance in Strolling. Project supported by the French ANR (National Research Agency) under the TecSan (Healthcare Technologies) Program (ANR-08-TECS-009-04), www.miraswalker.com/index.php/en, accessed 2015-05-17.
 
 [40]Mitka, E., Gasteratos, A., Kyriakoulis, N., Mouroutsos, S. G., 2012. Safety certification requirements for domestic robots. Safety Science 50 (9), 1888 – 1897.
+https://www.academia.edu/2624441/Safety_Certification_Requirements_for_Domestic_Robots
+
+ 
+References
+Bonney, M.C., Yong, D., 1985. Robot Safety. International ManufacturingTechnology. IFS Publications Ltd., UK.
+
+Corrales, J.A., Candelas, F.A., Torres, F., 2011. Safe human–robot interaction based ondynamic sphere-swept line bounding volumes. Robotics and Computer-Integrated Manufacturing 27, 177–185.
+
+Crowley, J., 1989. Planning and execution of tasks for a domestic robot. Robotics andAutonomous Systems 5 (3), 257–272.
+
+Denning, T., Matuszec, C., Koscher, K., Smith, J.R., Kohno, T., 2009. A spotlight onsecurity and privacy risks with future household robots: attacks and lessons. In:Proceedings of the 11th International Conference on Ubiquitous, Computing,pp. 105–114.
+
+Etherton, J., Sneckenberger, J.E., 1990. A robot safety experiment varying robotspeed and contrast with human decision cost. Applied Ergonomics 21 (3), 231–236.European Community, 2000. Guide to the implementation of directives based onthe new approach and the global approach.Fei, B., Ng, W.S., Chauhan, S., Kwoh, C.K., 2001. The safety issues of medical robotics.Reliability Engineering and System Safety, 183–192.Friendly Robotics Acquisition Ltd., 2009. Robomow operating and safety manual.<http://www.robomow.com/pdf/2010/rl_manual_en.pdf >.Harper, C., Dogramadzi, S., Tokhi, O., 2009. Developments in vocabularystandardisation for robots and robotic devices. In: Proceedings of the TwelfthInternational Conference on Climbing and Walking Robots and the SupportTechnologies for Mobile Machines, Istanbul, Turkey.IEC 60204-1, 2005. 10.7.1 Devices for emergency stop shall be readily accessible.ISO 10218-1, 2011. Robots for industrial environments – safety requirements – PartI: robot.ISO 10218-2, 2011. Robots and robotic devices. Safety requirements for industrialrobots. Part 2: robot systems and integration.ISO 12100, 2010. Safety of machinery—general principles for design, riskassessment and risk reduction.ISO 12100-1, -2, 2003. Safety of machinery – basic concepts, general principles fordesign.ISO 13857, 2008. Safety of machinery—safety distances to prevent danger zonesbeing reached by the upper limbs.ISO 14120, 2002. Safety of machinery—guards—general requirements for the designand construction of ﬁxed and movable guards.ISO 14121. 1999. Safety of machinery – principles of risk assessment.ISO 14971, 2000. Medical devices – application of risk management to medicaldevices.ISO Standard, ISO 8373, 2007(E). Manipulating industrial robots – vocabulary.ISO/FDIS 8373, 2012. Robots and robotic devices – vocabulary.<http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=55890>.ISO/IEC Guide 50, 1999. Safety aspects – guidelines for their inclusion in standards. Jenkins, F., 1993. Practical requirements for a domestic vacuum-cleaning robot.Technical Report. Jiang, B., Cheng, O., 1990. A procedure analysis for robot system safety. International Journal of Industrial Ergonomics, 95–117 (Industrial Engineering Department,Auburn University, AL 36849, USA)
 
 [41]OMG-UML2, 2007. Unified Modeling Language (UML), Superstructure, V2.1.2, formal/2007-11-02. Object Management Group.
 
 [42]OMG-UML2, 2011. Unified Modeling Language (UML), Superstructure, V2.4.1, formal/2011-08-06. Object Management Group.
 
-[43]PHRIENDS, 2006-2009. Physical Human-Robot Interaction: Dependability and Safety. Project supported by the European Commission under the 6th Framework Programme (STReP IST-045359),www.phriends.eu, accessed: 2015-04-30.
+[43]PHRIENDS, 2006-2009. Physical Human-Robot Interaction: Dependability and Safety. Project supported by the European Commission under the 6th Framework Programme (STReP IST-045359),http://www.phriends.eu, accessed: 2015-04-30.
+https://www.researchgate.net/publication/4333079_Physical_human-robot_interaction_Dependability_safety_and_performance
 
-[44]Royakkers, L., van Est, R., 2015. A literature review on new robotics: Au- tomation from love to war. International Journal of 
+43-[1] A. Avizienis, J. Laprie, B. Randell and C. Landwehr, Basic Concepts
+and Taxonomy of Dependable and Secure Computing, IEEE Transactions
+on Dependable and Secure Computing, vol. 1, No. 1, pp. 11-33,
+January/March 2004.
+
+43-[2] K.T. Ulrich, T.T. Tuttle, J. P. Donoghue, W.T. Townsend, Intrinsically
+Safer Robots, Final Report NASA Contract NAS10-12178, Barrett
+Technology Inc., 1995.
+
+43-[3] A. Bicchi and G. Tonietti, Fast and Soft Arm Tactics: Dealing with the
+Safety–Performance Tradeoff in Robot Arms Design and Control, IEEE
+Robotics and Automation Magazine, Special Issue on “Safety Among
+Us”, Vol.11, No.2, June, 2004.
+
+43-[4] A. Bicchi and S. Lodi Rizzini and G. Tonietti, Compliant Design for
+Intrinsic Safety: General Issues and Preliminary Design, Proc. Int. Conf.
+on Rob. Sys., IROS 2001, Maui, Hawaii.
+
+43-[5] A. Bicchi, E. Colgate, M. Peshkin, Physical Human-Robot Interaction,
+to appear in the “Handbook of Robotics”, O. Khatib, B. Siciliano (eds.),
+Springer Verlag, 2006.
+
+43-[6] R. Filippini, S. Sen, G. Tonietti and A. Bicchi, A Comparative Dependability
+Analysis of Antagonistic Actuation Arrangements for Enhanced
+Robotic Safety, International Conference on Robotics and Automation
+ICRA 2007, Rome, pp.
+
+43-[7] G. Giralt and P. Corke, Eds., Technical Challenge for Dependable Robots
+in Human Environments, Seoul, Korea: IARP/IEEE Workshop, 2001.
+
+43-[8] Sami Haddadin, Alin Albu-Schffer and Gerd Hirzinger, Safety Evaluation
+of Physical Human-Robot Interaction via Crash-Testing, Robotics:
+Science and Systems Conference (RSS2007), Atlanta, USA, 2007.
+
+43-[9] Y. Hirata, A. Hara and K. Kosuge, Motion Control of Passive Intelligent
+Walker Using Servo Brakes IEEE Trans. on Robotics, pp. 981-990, Vol.
+23-5, Oct. 2007
+
+43-[10] D.L. Hamilton, I.D. Walker, J.K Bennett Fault tolerance versus performance
+metrics for robot systems, in Proc. IEEE Conf. on Robotics and
+Automation, pp. 3073-3080, 1996.
+
+43-[11] J. Heinzmann and A. Zelinsky, The safe control of human friendly robots,
+in Proc. IEEE/RSJ Int. Conf. on Intelligent Robots and Systems, 1999,
+pp.1020-1025.
+
+43-[12] N. Hogan, Adaptive control of mechanical impedance by coactivation of
+antagonist muscles, IEEE Trans. on Automatic Control, 29(8), pp. 681
+- 690, 1984
+
+43-[13] A. Hoyland and M. Rausand, System Reliability Theory: Models and
+Statistical methods, 2nd edition, Wiley, New York, 2005.
+
+43-[14] K. W. Hollander and T.G. Sugar, Design of Lightweight Lead Screw
+Actuators for Wearable Robotic Applications, ASME Journal of Mechanical
+Design, 128(5), pp. 644-648, 2006.
+
+43-[15] K. Ikuta, H. Ishii, and M. Nokata, Safety evaluation method of design
+and control for human-care robots, The International Journal of Robotics
+Research,vol. 22, no. 5, pp. 281-297, May 2003.
+
+43-[16] ISO2018-1, Robots for industrial environments - Safety requirements.
+Part 1: Robot International Organization for Standardization, Geneva,
+2006.
+
+43-[17] J. Laprie, Dependability: Its Attributes, Impairments and Means, Predictably
+Dependable Computing Systems, B. Randell et al. eds., pp.
+3-24, 1995.
+
+43-[18] J. McDermid, Issues in the Development of Safety Critical Systems, in
+F. Redmill and T. Anderson, editors, Safety-Critical Systems: Current
+Issues, Techniques and Standards, pp. 16-42, Chapman & Hall, 1990.
+
+43-[19] OSHA Technical Manual, Industrial Robots and Robot System
+Safety, Section IV, Chapter 4, Occupational Safety and
+Health Administration, U.S. Department of Labor, available at
+http://www.osha.gov/dts/osta/otm/otm-iv/otm-iv-4.html.
+
+43-[20] M. Peshkin et al., T15.1 Draft Standard for Trial Use for Intelligent
+Assist Devices - Personnel Safety Requirements, Robotic Industries
+Association, 2002
+
+43-[21] G. Pratt and M. Williamson, “Series elastics actuators,” in Proc.
+IEEE/RSJ Int. Conf. on Intelligent Robots and Systems, 1995, pp. 399–
+406.
+
+43-[22] A. Albu-Schaffer, A. Bicchi, G. Boccadamo, R. Chatila, A. D. Luca,
+A. D. Santis, G. Giralt, G. Hirzinger, V. Lippiello, R. Mattone, R.
+Schiavi, B. Siciliano, G. Tonietti, and L. Villani, Physical humanrobot
+interaction in anthropic domains: Safety and dependability, 4th
+IARP/IEEE-EURONWorkshop on Technical Challenges for Dependable
+Robots in Human Environments, 2005.
+
+43-[23] G. Tonietti, R. Schiavi, and A. Bicchi, Design and Control of a
+Variable Stiffness Actuator for Safe and Fast Physical Human/Robot
+Interaction,In Proc. Int. Conf. on Rob. and Auto., 2005, pp.528-533.
+
+43-[24] R. Schiavi, G. Grioli, S. Sen, and A. Bicchi, VSA-II: A Novel Prototype
+of Variable Stiffness Actuator for Safe and Performing Robots Interacting
+with Humans, IEEE Int. Conf. on Robotics and Automation, 2008 (to
+appear).
+
+43-[25] Versace, J., A Re.view of the Severity Index, SAE 710881, Fifteenth
+Stapp Car Crash Conference, 1971.
+
+43-[26] M. L. Visinsky, J. R Cavallaro and I.D. Walker, A Dynamic Fault
+Tolerance Framework for Remote Robots, IEEE Transaction on Robotics
+and Automations, Vol. 11, no. 4, August 1995, pp. 477-490.
+
+[44]Royakkers, L., van Est, R., 2015. A literature review on new robotics: Automation from love to war. International Journal of 
 Social Robotics, 1–22.
 
 [45]SAPHARI, 2011-2015. Safe and Autonomous Physical Human-Aware Robot Interaction. Project supported by the European Commission under the 7th Framework Programme, www.saphari.eu, accessed 2015-05-17.
 
 [46]Srivatanakul, T., 2005. Security analysis with deviational techniques. Ph.D. thesis, University of York.
+https://pdfs.semanticscholar.org/c1b5/0c6687e6feae1ca07187dea358eb9a42bdbf.pdf?_ga=2.241588482.1290594660.1573452389-204723679.1573452389
+
+46-1[Abrial 1996] J. R. Abrial. The B-Book: Assigning Programs to Meanings. Cambridge University Press, 1996.
+
+46-2[Alberts and Dorofee 2001] C. Alberts and A. Dorofee. Octave Criteria, Version 2.0. Technical Report CMU/SEI-2001-TR-016, Software Engineering Institute, Carnegie Mellon University, 2001.
+
+46-3[Allenby and Kelly 2001] K. Allenby and T. Kelly. Deriving Safety Requirements Using Scenarios. In Proceedings of the Fifth IEEE International Symposium on Requirements Engineering (RE '01), pages 228-235. IEEE Computer Society, 2001.
+
+46-4[Amoroso 1994] E. G. Amoroso. Fundamentals of Computer Security Technology. Prentice-Hall, 1994.
+
+46-5[Anderson 1993] R. Anderson. Why Cryptosystems Fail. In Proceedings of the 1st Conference on Computer and Communication Security, VA, USA, pages 215-227. ACM Press, 1993.
+
+46-6[Anderson 2001] R. Anderson. Security Engineering: A Guide to Building Dependable Distributed Systems. John Wiley & Sons, 2001.
+
+46-7[AOT 2004] AOT, Bangkok International Airport Resource Pages. Available from: http://www.airportthai.co.th/airportnew/bia/html/index.html, 2004.
+
+46-8[Baskerville 1993] R. Baskerville. Information Systems Security Design Methods: Implications for Information Systems Development. ACM Computing Surveys, 25(4): 375-414, December 1993.
+
+46-9[Baybutt 2003] P. Baybutt. Sneak Path Analysis Applied to Industrial Cyber Security. Primatech Inc. Available from: http://www.primatech.com/info/paper_sneak_path _security_analysis_spsa_for_industrial_cyber_security.pdf, 2003.
+
+46-10[Baybutt 2004] P. Baybutt. Sneak Path Analysis: Security application finds cyber threats, then works to protect a system. Industrial Computing, 1 September 2004.
+
+46-11[Bell and LaPadula 1973] D. E. Bell and L. J. LaPadula. Secure Computer Systems: A Mathematical Model. Mitre Corporation, Bedford, Mass, 1973.
+
+46-12[Bell and LaPadula 1974] D. E. Bell and L. J. LaPadula. Secure Computer Systems: Mathematical Foundations and Model. Technical Report M74-244, The MITRE Corporation, 1974.
+
+46-13[Biba 1977] K. J. Biba. Integrity Considerations for Secure Computer Systems. Technical Report ESD-TR76-372, USAF Electronic Systems Division, Bedford, Massachussetts, 1977.
+
+46-14[Black et al 2000] P. E. Black, V. Okun, and Y. Yesha. Mutation of Model Checker Specifications for Test Generation and Evaluation. In Proceedings of Mutation 2000, San Jose, California, USA, pages 14-20. Kluwer Academic Publishers, 2000.
+
+46-15[Boehm 1986] B. Boehm. A Spiral Model of Software Development and Enhancement. ACM SIGSOFT Software Engineering Notes, 11(4): 14-24, August 1986.
+
+46-16[Brewer 1993] D. F. C. Brewer, Applying Security Techniques to Achieving Safety, in Directions in Safety-Critical Systems, F. Redmill and T. Anderson, Editors, Springer-Verlag. p. 246-256, 1993.
+
+46-17[Brewer and Nash 1989] D. F. C. Brewer and M. J. Nash. The Chinese Wall Security Policy. In Proceedings of IEEE Symposium on Security and Privacy, pages 206- 214. IEEE Computer Society, 1989.
+
+46-18[Budd and Gopal 1985] T. A. Budd and A. S. Gopal. Program Testing by Specification Mutation. Computer Languages, 10(1): 63-73, 1985.
+
+46-19[Burns et al 1992] A. Burns, J. McDermid, and J. Dobson. On the Meaning of Safety and Security. The Computer Journal, 35(1): 3-15, 1992.
+
+46-20[C&A 2004] C&A, Introduction to Security Risk Analysis and Security Risk Assessment. Available from: http://www.security-risk-analysis.com, 2004.
+
+46-21[CAA 2003] CAA. Guidance on Aerodrome Development Procedures. CAP 729, Civil Aviation Authority. Available from: http://www.caa.co.uk/docs/33/CAP729.pdf, 2003.
+
+46-22[CAA 2004] CAA, Civil Aviation Authority Home Page. Available from: http://www.caa.co.uk/index.asp, 2004.
+
+46-23[Carroll 1996] J. M. Carroll. Computer Security, 3rd Edition. Butterworth-Heinemann, 1996.
+
+46-24[CCIB 1999] CCIB. Common Criteria for IT Security Evaluation. Common Criteria Implementation Board. Available from: http://www.commoncriteria.org/cc/cc.html, 1999.
+
+46-25[CCTA 1991] CCTA. CRAMM User's Guide (Version 2.0). The UK Central Computer and Telecommunications Agency, 1991.
+
+46-26[CEC 1991] CEC. Information Technology Security Evaluation Criteria (ITSEC): Harmonised Criteria of France, Germany, the Netherlands, the United Kingdom. Commission of the European Communities. Available from: http://www.cesg.gov.uk/site/iacs/ and HMSO, 1991.
+
+46-27[Chivers 2004] H. Chivers. Security and Systems Engineering. Technical Report YCS- 2004-378, Department of Computer Science, University of York, York, UK, 2004.
+
+46-28[Chung 1993] L. Chung. Dealing with Security Requirements During the Development of Information Systems. In Proceedings of Advanced Information Systems Engineering (CAiSE '93), pages 234-251. Springer-Verlag, 1993.
+
+46-29[Clark and Wilson 1987] D. D. Clark and D. R. Wilson. A Comparison of Commercial and Military Computer Security Policies. In Proceedings of IEEE Symposium on Security and Privacy, Oakland, CA, USA, pages 184-194. IEEE Computer Society Press, 1987.
+
+46-30[Clark et al 2004] J. A. Clark, S. Stepney, and H. Chivers. Breaking the Model: finalisation and a taxonomy of security attacks. Technical Report YCS-2004-371, University of York, York, UK, 2004.
+
+46-31[Comp.Sec.Group 2005] Comp.Sec.Group, Computer Security Group, Computer Laboratory, University of Cambridge Resource Page. Available from: http://www.cl.cam.ac.uk/ Research/Security/, 2005.
+
+46-32[Damianou et al 2001] N. Damianou, N. Dulay, E. Lupu, and M. Sloman. The Ponder Policy Specification Language. In Proceedings of the International Workshop on Policies for Distributed Systems and Networks, pages 18-38. Springer-Verlag, 2001.
+
+46-33[DeMillo et al 1978] R. A. DeMillo, R. J. Lipton, and F. G. Sayward. Hints on Test Data Selection: Help for the Practicing Programmer. IEEE Computer, 11: 34-41, 1978.
+
+46-34[Devanbu and Stubblebine 2000] P. T. Devanbu and S. Stubblebine. Software Engineering for Security: a roadmap. In Proceedings of the Conference on The Future ofb Software Engineering (ICSE'00), Limerick, Ireland, pages 227-239. ACM Press, 2000.
+
+46-35[DOD 1980] DOD. Military Standard, Procedures for Performing a Failure Mode, Effects and Criticality Analysis. MIL-STD-1629A, U.S. Department of Defense, USA, 1980.
+
+46-36[DOD 1985] DOD. Trusted Computer System Evaluation Criteria (Orange Book). DoD 5200.28-STD, US Department of Defense. Available from: http://www.radium.ncsc.mil/tpep/library/rainbow/5200.28-STD.pdf, 1985.
+
+46-37[DOD 1993] DOD. Military Standard: System Safety Program Requirements. MIL-STD- 882c, US Department of Defense, USA, 1993.
+
+46-38[Douglass 2000] B. P. Douglass. Real-Time UML (2nd ed.): Developing efficient objects for embedded systems. Addison Wesley Longman, 2000.
+
+46-39[Ellison et al 1999] R. Ellison, R. Linger, T. Longstaff, and N. Mead. Survivable Network System Analysis: A Case Study. IEEE Software, 16(4): 70-77, 1999.
+
+46-40[Fisch and White 2000] E. A. Fisch and G. B. White. Secure Computers and Networks; Analysis, Design, and Implementation. CRC Press, 2000.
+
+46-41[Foley 2003] S. N. Foley. A Non-Functional Approach to System Integrity. Selected Areas in Communications, IEEE Journal, 21(1): 36-43, January 2003.
+
+46-42[FormalSystems 2000] FormalSystems. Failure-Divergence Refinement - FDR2 User Manual. Formal Systems, Ltd., 2000.
+
+46-43[Foster 2002] N. L. Foster. The Application of Software and Safety Engineering Techniques to Security Protocol Development. Ph.D. Thesis, Department of Computer Science, University of York, 2002.
+
+46-44[Freier et al 1996] A. O. Freier, P. Karlton, and P. C. Kocher, The SSL Protocol Version 3.0. Available from: http://home.netscape.com/eng/ssl3/, 1996.
+
+46-45[FSF 1994] FSF, Flight Safety Foundation Controlled Flight Into Terrain (CFIT) Checklist. Available from: http://www.flightsafety.org/pdf/cfit_check.pdf, 1994.
+
+46-46[Goguen and Meseguer 1982] J. A. Goguen and J. Meseguer. Security Policies and Security Models. In Proceedings of the IEEE Symposium on Research in Security and Privacy, Oakland, CA, USA, pages 11-20. IEEE Computer Society Press, 1982.
+
+46-47[Gollmann 1999] D. Gollmann. Computer Security. John Wiley & Sons, 1999. 
+
+46-48[Harrison et al 1976] M. A. Harrison, W. L. Ruzzo, and J. D. Ullman. Protection in Operating Systems. Communications of the ACM, 19(8): 461-471, 1976.
+
+46-49[Hoare 1985] C. A. R. Hoare. Communicating Sequential Processes. Prentice Hall, 1985.
+
+46-50[Hoyt 1973] D. B. Hoyt. Computer Security Handbook. Macmillan, New York, 1973.
+
+46-51[ICAO-Annex17 2002] ICAO-Annex17. Safeguarding International Civil Aviation Against Acts of Unlawful Interference. Security Manual, ICAO, 2002.
+
+46-52[ICAO-Doc8973 2002] ICAO-Doc8973. Security Manual for Safeguarding Civil Aviation Against Acts of Unlawful Interference. Doc 8973, ICAO, 2002.
+
+46-53[ICAO 2004] ICAO, International Civil Aviation Organization Home Page. Available from: http://www.icao.int/, 2004.
+
+46-54[Isaksen et al 1996] U. Isaksen, J. P. Bowen, and N. Nissanke. System and Software Safety in Critical Systems. Technical Report RUCS/97/TR/062/A, Department of Computer Science, The University of Reading, UK, 1996.
+
+46-55[ISO/17799 2000] ISO/17799. ISO Standard 17799. Based on BS7799 British Standards Institute Standard for Information Security Management, last published in 1999, International Organisation for Standards (ISO), 2000.
+
+46-56[Isograph 2004] Isograph, FaultTree+ V10.1 Technical Specification. Available from: www.isograph-software.com, 2004.
+
+46-57[Jackson 2001] M. Jackson. Problem Frames: Analyzing and Structuring Software Development Problems. Addison-Wesley, 2001.
+
+46-58[Jacob 1992] J. Jacob. Basic Theorems about Security. Journal of Computer Security, 1(3- 4): 385-412, 1992.
+
+46-59[Jacobson 1992] I. Jacobson. Object Oriented Software Engineering: A Use Case Driven Approach. Addison Wesley, 1992.
+
+46-60[Jones 1986] G. Jones. Programming in Occam. Prentice Hall, 1986.
+
+46-61[Jürjens 2002] J. Jürjens. Using UMLsec and Goal Trees for Secure Systems Development. In Proceedings of the ACM Symposium on Applied Computing (SAC'02), Madrid, Spain, pages 1026 -1030. ACM Press, 2002.
+
+46-62[Karvonen et al 1990] I. Karvonen, P. Heino, and J. Suokas. Knowledge-based Approach to Support HAZOP Studies. Espoo: Technical Research Centre of Finland, 1990.
+
+46-63[Kelly 1999] T. P. Kelly. Arguing Safety - A Systematic Approach to Managing Safety Cases. DPhil Thesis, Department of Computer Science, University of York, 1999.
+
+46-64[Kelly 2005] T. P. Kelly, Kelly's Publication Web Page. Available from: http://www- users.cs.york.ac.uk/~tpk/pubs.html, 2005.
+
+46-65[Kemmerer 1983] R. A. Kemmerer. Shared Resource Matrix Methodology: an approach to identifying storage and timing channels. ACM Transaction of Computer Systems, 1(3): 256-277, 1983.
+
+46-66[Kienzle 1998] D. M. Kienzle. Practical Computer Security Analysis. PhD Thesis, University of Virginia, 1998.
+
+46-67[Kienzle and Wulf 1997] D. M. Kienzle and W. A. Wulf. A practical approach to security assessment. In Proceedings of the 1997 Workshop on New Security Paradigms, Cumbria, United Kingdom, pages 5-16, 1997.
+
+46-68[Kletz 1992] T. Kletz. Hazop and Hazan: Identifying and Assessing Process Industry Hazards, 3rd edition. Institution of Chemical Engineers, 1992.
+
+46-69[Kocher et al 1999] P. Kocher, J. Jaffe, and B. Jun. Differential Power Analysis. In
+Proceedings of the 19th Annual International Cryptology Conference on Advances in Cryptology (CRYPTO '99), pages 388-397. Springer-Verlag, 1999.
+
+46-70[Kruchten 2000] P. Kruchten. The Rational Unified Process: An Introduction (2nd Edition). Addison-Wesley, 2000.
+
+46-71[Leveson 1995] N. G. Leveson. Safeware: System Safety and Computers. Addison-Wesley, 1995.
+
+46-72[Leveson and Harvey 1983] N. G. Leveson and P. R. Harvey. Software Fault Tree Analysis. The Journal of Systems and Software, 3(2): 173-181, 1983.
+
+46-73[Lin et al 2003] L. Lin, B. Nuseibeh, D. Ince, M. Jackson, and J. Moffett. Introducing Abuse Frames for Analysing Security Requirements. In Proceedings of the 11th IEEE International Conference on Requirements Engineering (RE '03), pages 371- 372. IEEE Computer Society, 2003.
+
+46-74[Longley and Shain 1987] D. Longley and M. Shain. Data and Computer Security, Dictionary of Standards, Concepts and Terms. MacMillan Publishers Ltd., 1987.
+
+46-75[Lynch 2001] J. Lynch. Applying Safety Critical Systems Engineering Techniques to Secure Systems. MSc Dissertation, Department of Computer Science, University of York, 2001.
+
+46-76[Maiden 1998] N. A. M. Maiden. CREWS-SAVRE: Scenarios for Acquiring and Validating Requirements. Automated Software Engineering, 5(4): 419-446, 1998.
+
+46-77[Mathur 1991] A. P. Mathur. Performance, Effectiveness, and Reliability Issues in Software Testing. In Proceedings of the 15th Annual International Computer Software and Applications Conference, Tokyo, Japan, pages 604-605, 1991.
+
+46-78[McCullough 1987] D. McCullough. Specifications for Multi-Level Security and a Hook- up Property. In Proceedings of the IEEE Symposium on Security and Privacy, pages 161-166. IEEE Computer Society Press, 1987.
+
+46-79[McDermid et al 1995] J. A. McDermid, M. Nicholson, D. J. Pumfrey, and P. Fenelon. Experience with the application of HAZOP to Computer-Based Systems. In Proceedings of the Tenth Annual Conference on Computer Assurance (COMPASS'95), Gaithersburg, MD, pages 37-48. IEEE, 1995.
+
+46-80[McDermid and Pumfrey 1994] J. A. McDermid and D. J. Pumfrey. A Development of Hazard Analysis to aid Software Design. In Proceedings of the Ninth Annual Conference on Computer Assurance (COMPASS '94), Gaithersburg, MD, pages 17- 25. IEEE, 1994.
+
+46-81[McDermid and Rook 1991] J. A. McDermid and P. Rook, Software Development Process Models, in Software Engineer's Reference Book, J. A. McDermid, Editor, Butterworth-Heinemann: Oxford, 1991.
+
+46-82[McDermott 2000] J. McDermott. Attack Net Penetration Testing. In Proceedings of the 2000 New Security Paradigms Workshop, Ballycotton, County Cork, Ireland, pages 15-22. ACM SIGSAC, ACM Press, 2000.
+
+46-83[McDermott and Fox 1999] J. McDermott and C. Fox. Using Abuse Case Models for Security Requirements Analysis. In Proceedings of the 15th Annual Computer Security Applications Conference, Phoenix, Arizona, pages 55-66, 1999.
+
+46-84[McLean 1994] J. McLean. A General Theory of Composition for Trace Sets Closed under Selective Interleaving Functions. In Proceedings of the IEEE Symposium on Research in Security and Privacy, pages 79-93, 1994.
+
+46-85[McLean 1990] J. McLean. Security Models and Information Flow. In Proceedings of the IEEE Symposium on Security and Privacy, Oakland, CA, pages 180 -187, 1990.
+
+46-86[Mead et al 2000] N. R. Mead, R. J. Ellison, R. C. Linger, T. Longstaff, and J. McHugh. Survivable Network Analysis Method. Technical Report CMU/SEI-2000-TR-013, SEI, Carnegie Mellon University, 2000.
+
+46-87[Microsoft-Research 2005] Microsoft-Research, Microsoft Research Resource Page. Available from: http://research.microsoft.com/research/, 2005.
+
+46-88[MOD-00-56/1 1996] MOD-00-56/1. Defence Standard 00-56 Issue 1: Safety Management Requirements for Defence Systems. UK Ministry of Defence, 1996.
+
+46-89[MOD-00-56/2 1996] MOD-00-56/2. Defence Standard 00-56 Issue 2: Safety Management Requirements for Defence Systems. UK Ministry of Defence, 1996.
+
+46-90[MOD-00-58 1996] MOD-00-58. Defence Standard 00-58: HAZOP Studies on Systems Containing Programmable Electronics. UK Ministry of Defence, 1996.
+
+46-91[Moffett 2001] J. D. Moffett. Security of Computer System (SCS) Lecture notes. MSc in Software Engineering Course Notes, Department of Computer Science, University of York, UK, 2001.
+
+46-92[Moffett and Clark 1994] J. D. Moffett and J. A. Clark. An Introduction to Security in Distributed Systems. High Integrity Systems, 1(1): 83-92, 1994.
+
+46-93[Moffett and Nuseibeh 2003] J. D. Moffett and B. A. Nuseibeh. A Framework for Security Requirements engineering. Technical Report YCS-2003-368, University of York, York, UK, 2003.
+
+46-94[Moore 2000] A. Moore. Mapping Enterprise Security Assurance with Visual NRM. NRL Prepared Presentation, Naval Research Laboratory, Washington, D.C. Available from: http://chacs.nrl.navy.mil/Projects/VisualNRM/, 2000.
+
+46-95[Moore et al 2001] A. Moore, R. Ellison, and R. Linger. Attack Modeling for Information Security and Survivability. Technical Note CMU/SEI-2001-TN-001, SEI, Carnegie Mellon University, 2001.
+
+46-96[Moore and Strohmayer 2000] A. Moore and B. Strohmayer. Visual NRM User's Manual: Tools for Applying the Network Rating Methodology. Formal Report NRL/FR/5540-00-9950, Naval Research Laboratory, 2000.
+
+46-97[Ng and Butler 2002] M. Y. Ng and M. Butler. Tool Support for Visualizing CSP in UML. In Proceedings of the International Conference on Formal Engineering Methods(ICFEM), Shanghai, China, pages 287-298. LNCS 2495, Springer, 2002.
+
+46-98[Nielsen 1971] D. S. Nielsen. The Cause-Consequence Diagram Method as a Basis for Quantitative Accident Analysis. Report RISO, M. 1374, Danish Atomic Energy Commission, Denmark, 1971.
+
+46-99[Nuseibeh et al 2003] B. Nuseibeh, J. Kramer, and A. Finkelstein. ViewPoints: Meaningful Relationships are Difficult! In Proceedings of the 25th International Conference on Software Engineering (ICSE '03), Portland, Oregon, USA. IEEE Computer Society, 2003.
+
+46-100[O'Halloran 1990] C. M. O'Halloran. A Calculus of Information Flow. In Proceedings of the European Symposium on Research in Computer Security, pages 147-159, 1990.
+
+46-101[Online-Dictionary 2004] Online-Dictionary, Online Dictionary, Encyclopedia and Thesaurus Resource Page. Available from: http://encyclopedia.thefreedictionary .com/Aviation, 2004.
+
+46-102[Oxford-Dictionary 1995] Oxford-Dictionary. Oxford Advanced Learner's Dictionary, 5th Edition, Oxford University Press, 1995.
+
+46-103[Page 1998] I. Page. Design of Future Systems. In Proceedings of Design, Automation and Test in Europe (DATE '98), Le Palais des Congrés de Paris, France, pages 343-347. IEEE Computer Society, 1998.
+
+46-104[Pfleeger 2002] C. P. Pfleeger. Security in Computing, 3rd Edition. Prentice-Hall, 2002. [Pitchard 1978] J. A. T. Pitchard. Computer Security: Risk Management in Action. NCC
+Publications, 1978.
+
+46-105[Porras and Kemmerer 1991] P. A. Porras and R. A. Kemmerer. Covert Flow Trees: A Technique for Identifying and Analyzing Covert Storage Channels. In Proceedings of the 1991 IEEE Symposium on Security and Privacy, Oakland, California, USA, pages 36-51. IEEE Computer Society Press, 1991.
+
+46-106[Pumfrey 1999] D. J. Pumfrey. The Principled Design of Computer System Safety Analyses. DPhil Thesis, Department of Computer Science, University or York, 1999.
+
+46-107[RailTrack 2000] RailTrack. Engineering Safety Management Issue 3 (the Yellow Book), volume 1 and 2. RailTrack PLC. Available from: http://www.yellowbook- rail.org.uk/, 2000.
+
+46-108[Rankin 1973] J. P. Rankin. Sneak Circuit Analysis. Nuclear Safety, 14(5), 1973.
+
+46-109[Rasmussen 1975] N. C. Rasmussen. Reactor Safety Study: An assessment of accident risks in US Commercial Nuclear Power Plants. Nuclear Regulatory commission, 1975.
+
+46-110[Redmill et al 1999] F. Redmill, M. Chudleigh, and J. Catmur. System Safety: HAZOP and Software HAZOP. John Wiley & Sons, 1999.
+
+46-111[Reifer 1979] D. J. Reifer. Software Failure Modes and Effects Analysis. IEEE Transactions. On Reliability, 28(3): 247-249, August 1979.
+
+46-112[Relex 2004] Relex, Relex Reliability Software Resource Page. Available from: http://www.relexsoftware.com, 2004.
+
+46-113[Roberts et al 1981] N. H. Roberts, W. E. Vesely, D. F. Haasl, and F. F. Goldberg. Fault Tree Handbook, Washington, DC. Systems and Reliability Research Office of U.S. Nuclear Regulatory Commission, 1981.
+
+46-114[Roscoe 1994] A. W. Roscoe, Model-checking CSP, in A Classical Mind: essays in honour of C. A. R. Hoare, Prentice Hall. p. 353-378, 1994.
+
+46-115[Royce 1970] W. W. Royce. Managing the Development of Large Software Systems: Concepts and Techniques. WESCON Technical Papers v. 14, pages A/1-1-A/1-9, Los Angeles, 1970.
+
+46-116[RTCA 1992] RTCA. DO-178B: Software Considerations in Airborne Systems and Equipment Certification. DO-178B/ED-12B, Radio Technical Commission for Aeronautics, 1992.
+
+46-117[Rumbaugh et al 1999] J. Rumbaugh, I. Jacobson, and G. Booch. The Unified Modelling Language Reference Manual. Addison-Wesley, 1999.
+
+46-118[Rushby 1994] J. Rushby. Critical System Properties: Survey and Taxonomy. Reliability Engineering and System Safety, 43(2): 189-219, 1994.
+
+46-119[Russell and Gangemi 1991] D. Russell and G. T. Gangemi. Computer Security Basics. O'Reilly & Associates, 1991.
+
+46-120[SAE 1996] SAE. ARP 4761: Guidelines and Methods for Conducting the Safety Assessment Process on Civil Airborne Systems and Equipment. Society of Automotive Engineers, Inc., Warrendale, PA, USA, 1996.
+
+46-121[Schneider 1997] S. Schneider. Verifying authentication protocols with CSP. In Proceedings of the 10th IEEE Computer Security Foundations Workshop, pages 3- 17. IEEE Computer Society, 1997.
+
+46-122[Schneier 2000] B. Schneier. Secrets and Lies. John Wiley & Sons, 2000.
+
+46-123[Schumacher and Roedig 2001] M. Schumacher and U. Roedig. Security Engineering with Patterns. In Proceedings of the 8th Conference on Pattern Languages of Programs (PLoP 2001), Illinois, USA, 2001.
+
+46-124[Sindre and Opdahl 2000] G. Sindre and A. L. Opdahl. Eliciting Security Requirements by Misuse Cases. In Proceedings of TOOLS Pacific 2000, pages 120-131, 2000.
+
+46-125[Singh 1999] S. Singh. The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography. Fourth Estate, 1999.
+
+46-126[Spivey 1989] J. M. Spivey. The Z notation: a reference manual. Prentice Hall, 1989. [Srivatanakul 2001] T. Srivatanakul. Mutation Testing for Concurrency. MSc Project,
+Department of Computer Science, University of York, 2001.
+
+46-127[Srivatanakul et al 2004] T. Srivatanakul, J. A. Clark, and F. Polack. Effective Security Requirements Analysis: HAZOP and Use Cases. In Proceedings of the Information Security, 7th International Conference (ISC'04), Palo Alto, CA, USA, pages 416- 427. Springer, 2004.
+
+46-128[Srivatanakul et al 2004b] T. Srivatanakul, J. A. Clark, and F. Polack. Security Zonal Analysis. Technical Report YCS-2004-374, Department of Computer Science, University of York, York, 2004.
+
+46-129[Srivatanakul et al 2003] T. Srivatanakul, J. A. Clark, S. Stepney, and F. Polack. Challenging Formal Specifications by Mutation: a CSP security example. In Proceedings of the Tenth Asia-Pacific Software Engineering Conference Software Engineering Conference (APSEC'03), ChiangMai, Thailand, pages 340-350. IEEE Computer Society, 2003.
+
+46-130[Srivatanakul 2005] T. Srivatanakul. The Baggage Handling System Case Study: Confidential Report, 2005.
+
+46-131[Stepney et al 2000] S. Stepney, D. Cooper, and J. Woodcock. An Electronic Purse: Specification, Refinement and Proof. Technical Report PRG-126, Oxford University Computing Laboratory. Available from: http://www.cs.ukc.ac.uk/pubs/2000/1527, 2000.
+
+46-132[Stone et al 2001] G. Stone, B. Lundy, and G. Xie. Network Policy Languages: A survey and a new approach. IEEE Network, 15(1), 2001.
+
+46-133[Sutherland 1986] D. Sutherland. A Model of Information. In Proceedings of the 9th National Computer Security Conference, Gaithersburg, MD, 1986.
+
+46-134[TSA 2004] TSA, Transportation Security Administration Home Page. Available from: http://www.tsa.gov/public/, 2004.
+
+46-135[UofYork 2005] UofYork, The University Card Resource Page. Available from: http://www.yec.york.ac.uk/unicard/unicard.php, 2005.
+
+46-136[Villemeur 1992] A. Villemeur. Reliability Availability Maintainability and Safety Assessment. John Wiley & Sons, 1992.
+
+46-137[Voas 1996] J. Voas. Testing Software for Characteristics other than Correctness: Safety, failure tolerance, and security. In Proceedings of the International Conference on Testing Computer Software, 1996.
+
+46-138[Voas and McGraw 1998] J. M. Voas and G. McGraw. Software Fault Injection: inoculating programs against errors. John Wiley & Sons, 1998.
+
+46-139[Watson 1961] H. A. Watson. Launch Control Safety Study. Technical Report, Bell Telephone Laboratories, Murray Hill, New Jersey, 1961.
+
+46-140[Weiss 1991] J. A. Weiss. System Security Engineering Process. In Proceedings of the 14th National Computer Security Conference, National Institute of Standards and Technology/National Computer Security Centre, 1991.
+
+46-141[Weissman 1994] C. Weissman, Penetration Testing, in Information Security Essays, M. D. Abrams, S. Jajodia and H. Podell, Editors, IEEE Computer Society Press. Available from: http://www.acsac.org/secshelf/book001/11.pdf, 1994.
+
+46-142[Weissman 1973] C. Weissman. System Security Analysis/Certification Methodology and Results. SP-3728, System Development Corporation, Santa Monica, CA, 1973.
+
+46-143[Wilson et al 1995] S. P. Wilson, T. P. Kelly, and J. A. McDermid. Safety Case Development: Current Practice, Future Prospects. In Proceedings of the 1st ENCRESS/12th CSR Workshop. Springer-Verlag, 1995.
+
+46-144[Wimmel and Jürjens 2002] G. Wimmel and J. Jürjens. Specification-based Test Generation for Security-Critical Systems Using Mutations. In Proceedings of the 4th International Conference on Formal Engineering Methods, pages 471-482. Springer-Verlag, 2002.
+
+46-145[Winther et al 2001] R. Winther, O-A. Johnsen, and B. A. Gran. Security Assessments for Safety Critical Systems Using HAZOPs. In Proceedings of the 20th International Conference on Computer Safety, Reliability and Security (SAFECOMP'01), Budapest, Hungary, pages 14-24, 2001.
+
+46-146[Wiseman 1997] S. R. Wiseman. Purple Penelope: Extending the security of Windows NT. Technical Report RSRE-97224, Defence Research Agency, England, 1997.
+
+46-147[Zhan and Clark 2004] Y. Zhan and J. A. Clark. Search Based Automatic Test-Data Generation at an Architectural Level. In Proceedings of Genetic and Evolutionary Computation (GECCO'04), Seattle, WA, USA, pages 1413-1424, 2004.
+
+46-148[Zimmermann 1980] H. Zimmermann. OSI Reference Model - The ISO Model of Architecture for Open Systems Interconnection. IEEE Transactions on Communication, 28(4): 425-432, April, 1980.
 
 [47]Sulaman, S. M., Abbas, T., Wnuk, K., Ho ̈ st, M., 2014. Hazard analysis of collision avoidance system using stpa. In: 11th International Conference on Information Systems for Crisis Response and Management (ISCRAM).
+https://portal.research.lu.se/portal/files/6198923/4332036.pdf
+
+47-1. Aljazzar, H., Fischer, M., Grunske, L., Kuntz, M., Leitner-Fischer, F. and Leue, S. (2009) Safety analysis of an airbag system using probabilistic FMEA and probabilistic counterexamples, 6:th International Conference on the Quantitative Evaluation of Systems (QEST), Hungary, pp. 299 – 308.
+
+47-2. Bañuls, Vctor A. and Turoff, Murray (2011) Scenario construction via Delphi and cross-impact analysis, Technological Forecasting and Social Change, v 78, no 9, pp. 1579-1602.
+
+47-3. Bond et al. (2003) Collision mitigation by braking system, US Patent 6607255B2.
+
+47-4. Coelingh, E., Eidehall, A. and Bengtsson, M. (2010) Collision warning with full auto brake and pedestrian
+detection - a practical example of automatic emergency braking, in proc. of the 13:th International
+Conference on Intelligent Transportation Systems (ITSC), pp. 155–160.
+
+47-5. Ericson, C. A. (1999) Fault Tree Analysis–A History, in proc. of the 17:th Int. System Safety Conference.
+
+47-6. Gleirscher, M. (2013) Hazard analysis for technical systems, Software Quality: Increasing Value in Software
+and Systems Development, 5:th International Conference, SWQD, v 133, p 104-124, Austria.
+
+47-7. Ishimatsu, T., Leveson, N. G., Thomas, J., Katahira, M., Miyamoto, Y. and Nakao, H. (2010) Modeling and
+hazard analysis using STPA, in Proc. of the 4th IAASS Conference Making Safety Matter, p.10.
+
+47-8. Johannessen, P., Torner, F. and Torin, J. (2004) Actuator based hazard analysis for safety critical systems, in
+Computer Safety, Reliability, and Security, v 3219, pp. 130–141.
+
+47-9. Leveson, N. G. (2012) Engineering a Safer World: Systems Thinking Applied to Safety, The MIT Press.
+
+47-10. Leveson, N. G., Fleming, C. H., Spencer, M., Thomas, J. and Wilkinson, C. (2012) Safety assessment of
+complex, software-intensive systems, SAE International Journal of Aerospace, v 5, pp. 233-244.
+
+47-11. McDermid, J., Nicholson, M., Pumfrey, D. J. and Fenelon, P. (1995) Experience with the application of
+HAZOP to computer-based systems, in proc. of the 10:th Annual Conference on System Integrity, Software
+Safety and Process Security, COMPASS, pp. 37–48.
+
+47-12. McDermott, R., Mikulak, R. and Beauregard, M. (1996) The Basics of FMEA, 2nd Ed. Taylor & Francis.
+
+47-13. Nakao, H., Katahira, M., Miyamoto, Y. and Leveson, N. (2011) Safety guided design of crew return vehicle
+in concept design phase using STAMP/STPA, in Proc. of the 5:th IAASS Conference, pp. 497-501.
+
+47-14. Pereira, S. J., Lee, G. and Howard, J. (2006) A System-Theoretic Hazard Analysis Methodology for a Non- advocate Safety Assessment of the Ballistic Missile Defense System, in Proc. of the AIAA Missile Sciences
+Conference, Monterey, California.
+
+47-15. Sulaman, S. M., Weyns, K. and Höst, M. (2013) A review of research on risk analysis methods for IT
+systems, in Proc. of the 17:th International Conference on Evaluation and Assessment in Software
+Engineering, Porto de Galinhas, Brazil, ACM, pp. 86–96.
+
+47-16. Thomas, J. and Leveson, N. G. (2011) Performing Hazard Analysis on Complex, Software- and Human-
+Intensive Systems, in Proc. of the 29:th ISSC Conference about System Safety.
+
+47-17. Tobioka, T. and Bertucio, R.C. (1981) Use of event tree analysis in development of a LOCA test program,
+Transactions of the American Nuclear Society, v 39, pp. 590-591.
+
 
 [48]Thomas, J., Leveson, N. G., 2011. Performing hazard analysis on complex, software and human-intensive systems. In: 29th ISSC Conference about System Safety.
+https://pdfs.semanticscholar.org/56f6/72a3959fa2111d624c8b35a95bcf5148c7fd.pdf
+
+48-1. Leveson, Nancy. Safeware: System Safety and Computers. Reading, MA: Addison-Wesley Publishing Company, 1995.
+
+48-2. Rasmussen, Jens. “Risk management in a dynamic society: A modeling problem,” Safety Science 27, No. 2/3 1997: 183-213.
+
+48-3. Leveson, Nancy. Engineering a Safer World: Systems Thinking Applied to Safety. MIT Press, 2011.
+
+48-4. Tyler, Brian, Crawley, Frank, and Preston, Malcom. HAZOP: Guide to Best Practice, 2nd Edition, IChemE,
+2008.
+
+48-5. Dekker, Sydney. The field guide to understanding human error Ashgate Publishing, Ltd., 2006.
+
+48-6. Dekker, Sidney. Ten Questions About Human Error: A New View of Human Factors and System Safety, Mahwah, NJ: Lawrence Erlbaum Associate Inc., 2005.
+
+48-7. Vesely, W., Roberts, N. H. Fault Tree Handbook, Government Printing Office, 1987.
+
+48-8. Woods, D., Branlat, M. Basic Patterns in How Adaptive Systems Fail, in Resilience Engineering in Practice: A
+Guidebook, Ashgate Publishing, Ltd., 2011
+
+48-9. Stringfellow, M., Thomas, J., Leveson, N. Considering Humans in Hazard Analysis. International System Safety Conference, 2009
+  
+48-10. Bainbridge, Lisanne. Ironies of automation. In Jens Rasmussen, Keith Duncan, and Jacques Leplat, editors, New Technology and Human Error, John Wiley and Sons, New York, 1987
+
+48-11. Sarter, Nadine, Woods, David. How in the world did we ever get into that mode? Mode Error and Awareness in Supervisory Control. Journal of the Human Factors and Ergonomics Society, Volume 37, Number 1, March 1995
+
+48-12. Pereira, Steve, Lee, Grady, Howard, Jeffrey. A System-Theoretic Hazard Analysis Methodology for a Non- advocate Safety Assessment of the Ballistic Missile Defense System. Proceedings of the 2006 AIAA Missile Sciences Conference, Monterey, CA, November 2006
+
+48-13. Ishimatsu, Takuto, Leveson, Nancy, Thomas, John, Katahira, Masa, Miyamoto, Yuko, Nakao, Haruka. Modeling and Hazard Analysis using STPA. Proceedings of the International Association for the Advancement of Space Safety Conference, Huntsville, Alabama, May 2010
 
 summary
 
@@ -2229,29 +2783,29 @@ summary
 |24|14|	
 |25|4|	
 |26||	
-27	
-28	
+|27||	
+|28||	
 |29|1|	
-30	
+|30||	
 |31|26|	
 32	
 |33|32|	
-34	
+|34||R|	
 |35|217|	
-36	
-37	
-38	
-39	
-40	
-41	
-42	
-43	
-44	
-45	
-46	
-47	
-48
-|sum|1082||
+|36||R|	
+|37||	
+|38|21|	
+|39||		
+|40|53|		
+|41||		
+|42||		
+|43|26|		
+|44||R|		
+|45||	
+|46|148|	
+|47|17|	
+|48|13|
+|sum|1360||
 
 
 # ref
