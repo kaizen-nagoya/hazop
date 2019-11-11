@@ -1796,8 +1796,97 @@ vehicle design. SAE J885 APR80, 1980.
 20-[309] L. Zollo, B. Siciliano, A. De Luca, E. Guglielmelli, and P. Dario. Com- pliance control for an anthropomorphic robot with elastic joints: Theory and experiments. ASME Journal of Dynamic Systems, Measurements and Control, (127):321–328, 2005.
 
 [21]Hansen, K. M., Wells, L., Maier, T., 2004. HAZOP analysis of UML-based software architecture descriptions of safety-critical systems. In: Nordic Workshop on UML and Software Modeling (NWUML04).
+https://www.researchgate.net/publication/249883238_HAZOP_Analysis_of_UML-Based_Software_Architecture_Descriptions_of_Safety-Critical_Systems
+
+21-[1] L. Bass, P. Clements, and R. Kazman. Software Architecture in Practice. Addison-Wesley, 2 edition, 2003.
+
+21-[2] C++ in Safety Critical Systems, http://hissa.ncsl.nist.gov/sw_develop/ir5769/ir5769.l.html.
+
+21-[3] P. Clements, F. Bachmann, L. Bass, D. Garlan, J. Ivers, and R. Little. Documenting Software Architectures: Views and Beyond. Addison-Wesley, 1st edition, 2002.
+
+21-[4] P. Clements, R. Kazman, and M. Klein, editors. Evaluating Software Architectures: Methods and Case Studies. Addison-Wesley, 2002.
+
+21-[5] A. Cockburn, editor. Writing Effective Use Cases. Addison-Wesley, 2001.
+
+21-[6] G. Dahll. Safety evaluation of a train leader telephone system. In SAFECOMP’ 99, volume 1698 of LNCS. Springer, 1999.
+
+21-[7] A. Hussey. HAZOP analysis of formal models of safety-critical interactive
+systems. In F. Koornneef and M. van der Meulen, editors, SAFECOMP 2000, volume 1943 of LNCS. Springer, 2000.
+
+21-[8] International Electrotechnical Commission. Functional Safety of Electrical/
+Electronic/ Programmable Electronic Safety-Related Systems, 1st edition, 1998-2000. International Standard IEC 61508, Parts 1-7.
+
+21-[9] P. Johannessen, C. Grante, A. Alminger, U. Eklund, and J. Torin. Hazard
+analysis in object oriented design of dependable systems. In Proceedings of
+the International Conference on Dependable Systems and Networks. IEEE, 2001.
+
+21-[10] J. Jürjens. Developing safety-critical systems with UML. In P. Stevens et al.,
+editors, Proceedings of UML 2003, volume 2863 of LNCS. Springer Verlag, 2003. http://www.isis.alexandra.dk/software
+
+21-[11] P. Kruchten. The 4+1 view model of architecture. IEEE Software, 12(6),
+1995.
+
+21-[12] K. Lano, D. Clark, and K. Androutsopoulos. Safety and security analysis
+of object-oriented models. In S. Anderson et al., editors, Computer Safety,
+Reliability and Security: SAFECOMP, volume 2434 of Lecture Notes in
+Computer Science (LNCS). Springer-Verlag, 2002.
+
+21-[13] N. Leveson. Safeware: System Safety and Computers. Addison-Wesley,
+1995.
+
+21-[14] N. G. Leveson, M. P. E. Heimdahl, and J. D. Reese. Designing specification
+languages for process control systems: Lessons learned and steps to the
+future. In ESEC / SIGSOFT FSE, 1999.
+
+21-[15] Ministry of Defence. HAZOP studies on systems containing programmable
+electronics. Defence Standard 00-58, Parts 1 and 2, Issue 2, May 2000.
+
+21-[16] J. McDermid, M. Nicholson, D. Pumfrey, and P. Fenelon. Experience with
+the application of HAZOP to computer-based systems. In Computer Assurance.
+COMPASS ’95. IEEE, 1995.
+
+21-[17] Object Oriented Technology in Aviation, http://shemesh.larc.nasa.gov/foot/.
+
+21-[18] OMG. UnifiedModeling Language Diagram Interchange 2.0. Final Adopted
+Specification. Technical Report ptc/03-09-01, Object Management Group,
+2003.
+
+21-[19] OMG. Unified Modeling Language specification 1.5. Technical Report
+formal/2003-03-01, Object Management Group, 2003.
+
+21-[20] D. Reifer. Software Failure Modes and Effects Analysis. IEEE Transactions
+on Reliability, R-38(3), 1979.
+
+21-[21] Software Engineering Standards Committee. IEEE recommended practice
+for architectural description of software-intensive systems. Technical Report
+IEEE Std 1471-2000, IEEE Computer Society, 2000.
 
 [22]Harel, D., 1987. Statecharts: A visual formalism for complex systems. Sci. Comput. Program. 8 (3), 231–274.
+http://www.inf.ed.ac.uk/teaching/courses/seoc/2005_2006/resources/statecharts.pdf
+https://pdfs.semanticscholar.org/1849/3175642909909196e99b90a6af0bf3ef803b.pdf
+
+22-[1]	The languages of STATEMATE1, Internal Report, Ad Cad, Inc.. Cambridge, MA, 1987.
+
+22-[2]	A. Bar-Tur, D. Drusinsky and D. Harel, Using statecharts for describing the communication between complex systems, 
+Department of Applied Mathematics, The Weizmann Institute of Science, Rehovot, Israel, 1986.
+
+22-[3] G. Berry and I. Cosserat, The ESTEREL synchronous programming language and its mathematical semantics, in: S. Brookes and 
+G. Winskel, Eds., Seminar an Concurrency. Lecture Notes in Computer Science 197 (Springer. Berlin, 1985)
+
+22-[4] CCITT (International Telecommunication Union), Functional specification and description language (SDL), 
+Recommendations Z.101-Z.104, Vol. VI, Fasc. VI.7, Geneva, 1981.
+
+22-[5} E.M. Clarke, E.A. Emerson and A.P. Sistla, Automatic verification of finite state concurrent systems 
+using temporal logic specifications, ACM Tram. Prog. Lang. Syst. 8 (1986) 244-263.
+
+22-[6] D. Drusinsky and D. Harel. Using statecharts for hardware description, CS85-06, Department or 
+Applied Mathematics, The Weizmann Institute of Science, Rehovot, Israel, 1985.
+
+22-[7] M.D. Edwards and D. Aspinall. The synthesis of digital systems using ASM design techniques, in: T. Uehara and 
+M. Barbacci, Eds., Computer Hardware Description Languages and their Applications; (North-Holland, Amsterdam, 1983) $3-64.
+
+22-[8] A.B. Ferrentino and H.D. Mills, State machines and their semantics in software engineering, Proc. 
+IEEE COMPSAC '77 Conference (1977) 242 251
 
 [23]IEC61508-5, 2010. Functional safety of electrical/electronic/programmable electronic safety-related systems: Part 5: Examples of methods for the de- termination of safety integrity level. International Electrotechnical Com- mission.
 
@@ -1877,9 +1966,9 @@ summary
 |18|46|	
 |19|30|	
 |20|309|	
-21	
-22	
-23	
+|21|21	
+|22|33|	
+|23||	
 24	
 25	
 26	
@@ -1905,7 +1994,7 @@ summary
 46	
 47	
 48
-|sum|734||
+|sum|788||
 
 
 # ref
