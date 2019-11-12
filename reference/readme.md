@@ -2882,8 +2882,367 @@ Stapp Car Crash Conference, 1971.
 Tolerance Framework for Remote Robots, IEEE Transaction on Robotics
 and Automations, Vol. 11, no. 4, August 1995, pp. 477-490.
 
-[44]Royakkers, L., van Est, R., 2015. A literature review on new robotics: Automation from love to war. International Journal of 
-Social Robotics, 1–22.
+[44]Royakkers, L., van Est, R., 2015. A literature review on new robotics: Automation from love to war. International Journal of Social Robotics, 1–22.
+https://www.semanticscholar.org/paper/A-UML-based-method-for-risk-analysis-of-human-robot-Martin-Guillerez-Guiochet/5305c5860eaf880dc3932b6b601160c0598d80f5
+
+44-1 Killer military robots pose latest threat to humanity
+N Sharkey
+Keynote-presention at the Royal United Services Insti- tute, Whitehall. Accessed2008
+
+44- In the hands of machines? The future of aged care
+Robert Sparrow, Linda Sparrow
+Minds and Machines2006
+
+44- Alone Together: Why We Expect More from Technology and Less from Each Other
+Sherry Turkle
+2011
+
+44- Wired for War: The Robotics Revolution and Conflict in the 21st Century
+Peter Warren Singer
+2009
+
+44- A robot in every home.
+Bill Gates
+Scientific American2007
+
+44- The NSA’s secret role in the U.S. assassination program
+J Scahill, G Greenwald
+The Intercept. (https://firstlook.org/ theintercept/2014/02/10/the-nsas-secret-role/). Accessed2014
+
+44- Designing Robots for Care: Care Centered Value-Sensitive Design
+Aimee van Wynsberghe
+Science and Engineering Ethics2013
+
+44- Drones and Targeted Killing: Angels or Assassins?
+David Whetham
+2013
+
+44- Drones and targeting killing : angels or assassins ?
+BJ Strawser, J McMaham
+Kiling by remote control : the ethics of an unmanned military2013
+
+44- States take the wheel on driverless cars. The Pew Charitable Trusts
+M Clark
+(http://www.pewtrusts.org/en/research- and-analysis/blogs/stateline/2013/07/29/states-take-the-wheel- on-driverless-cars). Accessed 2013
+
+44- The drone debate. Sudden bullet or slow boomerang (discussion paper nr. 14/13).Centre for Strategic Stud- ies, Wellington
+R Alley
+2013
+
+44- Carebots and Caregivers: Sustaining the Ethical Ideal of Care in the Twenty-First Century
+Shannon Vallor
+2011
+
+44- Comprehensive Experimental Analyses of Automotive Attack Surfaces
+Stephen Checkoway, Damon McCoy, +7 authors Tadayoshi Kohno
+USENIX Security Symposium 2011
+
+44- Digitale ring scant alle auto’s
+H Logtenberg
+Het Parool. (http://www.parool.nl/parool/nl/4/AMSTERDAM/article/detail/ 2894179/2011/09/07/Digitale-ring-scant-alle-auto-s.dhtml). Accessed2011
+
+44- The US’ policy of targeted killings by drones in Pakistan
+AN Khan
+IPRI J2011
+
+44- Beyond speculative robot ethics: a vision assessment study on the future of the robotic caretaker.
+Arjanna van der Plas, Martijntje Smits, Caroline Wehrmann
+Accountability in research 2010
+
+44- CCTV in the sky: police plan to use military: style spy drones
+P Lewis
+The Guardian?(January). (http://www.theguardian2010
+
+44- Democracy and the common wealth: breaking the stranglehold of the special interests
+M Arth
+2010
+
+44- Future police: meet the UK’s armed robot drones
+D Hambling
+Wired. (http://www.wired.co.uk/news/archive/ 2010-02/10/future-police-meet-the-uk’s-armed-robot-drones# comments). Accessed2010
+
+
+44- Health Care, Capabilities, and AI Assistive Technologies
+Mark Coeckelbergh
+2010
+
+44- How safe are service robots in urban environments? Bullying a robot
+Pericle Salvini, Gaetano Ciaravella, +6 authors Paolo Dario
+19th International Symposium in Robot and Human Interactive Communication2010
+
+44- International Governance of Autonomous Military Robots
+Gary E. Marchant, Braden R. Allenby, +8 authors Jared Silberman
+2010
+
+44- Loving Machines: Theorizing Human and Sociable-Technology Interaction
+Glenda Shaw-Garlock
+HRPR2010
+
+44- Moral Predators: The Duty to Employ Uninhabited Aerial Vehicles
+Bradley Jay Strawser
+2010
+
+44- Researchers develop a robot that folds tow
+C Ness
+els. NewsCenter. (http://newscenter.berkeley.edu/2010/04/02/ robot/). Accessed 2010
+
+44- RoboWarfare: can robots be more ethical than humans on the battlefield?
+John P. Sullins
+Ethics and Information Technology 2010
+
+44- Robot caregivers: harbingers of expanded freedom for all?
+Jason Borenstein, Yvette Pearson
+Ethics and Information Technology 2010
+
+44- Saying ‘No!’ to Lethal Autonomous Targeting
+Noel E. Sharkey
+2010
+
+44- The cubicle warrior: the marionette of digitalized warfare
+Lambèr Royakkers, Rinie van Est
+Ethics and Information Technology 2010
+ 
+44- Towards a Sociological Understanding of Robots as Companions
+Ellen Van Oost, Darren Reed
+HRPR 2010
+
+44- Unmanned robotics and new war- fare: a pilot/professor’s perspective
+ML Cummings
+Harv Natl Secur J. http://harvardnsj.org/2010/03/unmanned-robotics-new-warfare- a-pilotprofessors-perspective/2010
+
+44- Wanting the impossible: The dilemma at the heart of intimate human-robot relationships
+Dylan Evans
+2010
+
+44- What we’re driving at
+S Thrun
+Google Offi- cial Blog. (http://googleblog.blogspot.nl/2010/10/what-were- driving-at.html). Accessed 2010
+
+44- Curious about robot police used to greet Wytheville post office hostage suspect
+M Gangloff
+The Roanoke Times. http://ww2.roanoke.com/news/roanoke/wb/230806. Accessed 2009
+
+44- Influence of social presence on acceptance of an assistive social robot and screen agent by elderly
+M Heerink, BJA Wielinga Kröse, BJ Wielinga, V Evers
+2009
+
+44- Influence of social presence on acceptance of an assistive social robot and screen agent by elderly users
+AN Khan
+Adv Robot 2009
+
+44- Insurgents hack U.S. drones
+S Gorman, Y Dreazen, A Cole
+Wall Str J. (http://online.wsj.com/article/ SB126102247889095011.html). Accessed 2009
+
+44- Killer robots. Ashgate Publishing Limited, Farnham, Legality and ethicality of autonomous weapons
+A Krishnan
+2009
+
+44- Legal challenges for networking robots deployment in European urban areas: the privacy issue
+Alberto Sanfeliu Cortés, Alberto Punsola, Yuji Yoshimura, Maria Rosa Llácer, Maria Dolors Gramunt
+2009
+
+44- Military robots and the laws of war
+PW Singer
+New Atl2009
+
+44- More training on UAV’s than bombers, fighters
+T Vanden Brook
+USA Today. http://www.airforcetimes.com/news/2009/ 06/gnsairforceuav061609w/. Accessed2009
+
+44- Robotic Pets in Human Lives: Implications for the Human-Animal Bond and for Human Relationships with Personified Technologies
+Gail F. Melson, Peter H. Kahn, Alan M. Beck, Batya Friedman
+2009
+
+44- The CIA’s silent war in Pak- istan
+B Ghosh, M Thompson
+Time. http://www.time.com/time/magazine/article/0,9171, 1900248,00.html. Accessed2009
+
+44- The Ethical Treatment of Artificially Conscious Robots
+David Levy
+I. J. Social Robotics2009
+
+44- The use of robots in early education: A scenario based on ethical consideration
+Fumihide Tanaka, Takeshi Kimura
+RO-MAN 2009 - The 18th IEEE International Symposium on Robot and Human Interactive Communication2009
+
+44- 2084: big robot is watching you. Report on the future for policing, surveillance and security. (http://www.dcs
+N Sharkey
+2008
+
+44- Diagnosis at a distance: the invisible work of patients and healthcare professionals in cardiac telemonitoring technology.
+Nelly Oudshoorn
+Sociology of health & illness2008
+
+44- Grounds for discrimination: autonomous robot weapons
+N Sharkey
+RUSI Def Syst2008
+
+
+44- Housewives or technophiles?: Understanding domestic robot owners
+Ja-Young Sung, Rebecca E. Grinter, Henrik I. Christensen, Lan Guo
+2008 3rd ACM/IEEE International Conference on Human-Robot Interaction (HRI)2008
+
+44- Intelligent Vehicles
+Alberto Broggi, Alexander Zelinsky, Michel Parent, Charles E. Thorpe
+Springer Handbook of Robotics2008
+
+44- Moral disengagement in ethical decision making: a study of antecedents and outcomes.
+James R. Detert, Linda Klebe Treviño, Vicki L. Sweitzer
+The Journal of applied psychology2008
+
+44- Roboethics: Social and Ethical Implications of Robotics
+Gianmarco Veruggio, Fiorella Operto
+Springer Handbook of Robotics2008
+
+44- Robotics for healthcare: final report
+Maurits Butter, A. Rensma, +11 authors Ilkka Korhonen
+2008
+
+44- Social Robots that Interact with People
+Cynthia Breazeal, Atsuo Takanishi, Tetsunori Kobayashi
+Springer Handbook of Robotics2008
+
+44- Caregiving robots and ethical reflection: the perspective of interdisciplinary technology assessment
+Michael Decker
+AI & SOCIETY 2007
+
+44- Cooperative vehicle-infrastructure systems: an intelligent way forward?
+Bart van Arem
+2007
+
+44- Ethical regulations on robotics in Europe
+Michael Nagenborg, Rafael Capurro, Jutta Weber, Christoph Pingel
+AI & SOCIETY2007
+
+44- How Just Could a Robot War Be
+Peter Asaro
+2007
+
+44- Impacts of a Congestion Assistant on Driving Behaviour and Acceptance Using a Driving Simulator
+C.J.G. van Driel, Marika Hoedemaeker, Bart van Arem
+2007
+
+44- Just war theory. The internet encyclo- pedia of philosophy
+J Fieser, B Dowden
+2007
+
+44- Killer robots
+R Sparrow, L Sparrow
+J Appl Philos2007
+
+44- Love + sex with robots. HarperCollins Publishers, New York, The evolution of human-robot relationships
+D Levy
+2007
+
+44- MyRoomba is Rambo”: intimate home appliances
+Sung J-Y, GuoL, GrinterRE, ChristensenHI
+Krumm J et al (eds) UbiComp2007
+
+44- Robot Prostitutes as Alternatives to Human Sex Workers
+Hugh Loebner
+2007
+
+44- Socialization between toddlers and robots at an early childhood education center.
+Fumihide Tanaka, Aaron V. Cicourel, Javier R. Movellan
+Proceedings of the National Academy of Sciences of the United States of America2007
+
+44- Speed Support Through the Intelligent Vehicle: Perspective, Estimated Effects and Implementation Aspects
+Peter L.J. Morsink, Charles Goldenbeld, +3 authors Karel Brookhuis
+2007
+
+44- The impact of lowered speed limits in urban areas
+Jon Archer, Nicola Fotheringham, Mark Symmons, Bruce F. Corben
+2007
+
+44- A nascent robotics culture: New complicities for companionship
+S Turkle
+AAAI Technical Report Series. http://mit.edu/ sturkle/www/nascentroboticsculture.pdf)2006
+
+44- Fundamental Issues in Social Robotics
+Brian R. Duffy
+2006
+
+44- Intelligent vehicle systems applications and new trends
+Oleg Yu. Gusikhin, Dimitar Filev, Nestor Rychtyckyj
+ICINCO-ICSO2006
+
+44- Behavioural effects of advanced cruise control use . A meta - analytic approach
+E Donner, BrookhuisKA DragutinovicN, MarchauVAWJ HagenziekerMP
+Human factors in traffic safety2005
+
+44- Europe’s mediation junction: technology and consumer society in the 20th century
+Ruth Oldenziel, Adri A. Albert de la Bruheze, Onno de Wit
+2005
+
+44- A survey of socially interactive robots
+Terrence Fong, Illah R. Nourbakhsh, Kerstin Dautenhahn
+Robotics and Autonomous Systems2003
+
+44- Anthropomorphism and the social robot
+BR Duffy
+Robot Auton Syst2003
+
+44- Driving the dream. The history and motiva- tions behind 60 years of automated highway systems in America
+JM Wetmore
+Automative History Review2003
+
+44- Smarthomes: past, present and future. In: Harper R (ed) Inside the smart home
+FK Aldrich
+2003
+
+44- Toward sociable robots
+Cynthia Breazeal
+Robotics and Autonomous Systems2003
+
+44- Human factors in traffic safety
+Robert E. Dewar, Paul L. Olson
+2002
+
+
+44- The March of the robot dogs
+Robert Sparrow
+Ethics and Information Technology 2002
+
+44- War over Kosovo : politics and strategy in a global age
+Andrew J. Bacevich, Eliot A. Cohen
+2002
+
+44- Roboguard, A Teleoperated Mobile Security Robot
+Andreas Birk, Holger Kenn
+2001
+
+44- Why the Future Doesn't Need Us
+Bill Joy
+2001
+
+44- The Technology of Orgasm: "Hysteria," the Vibrator, and Women's Sexual Satisfaction
+Rachel Pearl Maines
+1999
+
+44- The De-scription of Technical Objects
+Madeleine Akrich
+1992
+
+44- The McDonaldization of society.
+George Ritzer
+1992
+
+44- The description of technical objects
+W Bijker, J Law
+Shaping technology / building society : studies in sociotechnical change1992
+
+44- The future of intelligent vehicle-highway systems: a Delphi forecast of markets and sociotechnological determinants
+SE Underwood, RD Ervin, K Chen
+University of Michigan,1989
+
+44- A robot in the house
+MW Thring
+1964
+
+44- A robot in the house. In: Calder N (ed) The world
+MW Thring
+Penguin Books,1964
 
 [45]SAPHARI, 2011-2015. Safe and Autonomous Physical Human-Aware Robot Interaction. Project supported by the European Commission under the 7th Framework Programme, http://www.saphari.eu, accessed 2015-05-17.
 
@@ -3384,13 +3743,13 @@ summary
 |41|3|		
 |42|7|		
 |43|26|		
-|44||R|		
+|44|91|R|		
 |45|29|	
 |46|148|	
 |47|17|	
 |48|13|
 |sum|1574||
-
++91 -xx
 
 # ref
 https://qiita.com/kaizen_nagoya/items/8edaf4ca410ef2ccdbc7
