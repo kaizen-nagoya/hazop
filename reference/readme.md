@@ -1,6 +1,4 @@
-[0] Hazard analysis of human-robot interactions with HAZOP-UML
-Abstract, J ́er ́emie Guiochet, University of Toulouse, LAAS-CNRS, Toulouse, France
-https://arxiv.org/pdf/1602.03139.pdf
+[0] Hazard analysis of human-robot interactions with HAZOP-UML, J ́er ́emie Guiochet, University of Toulouse, LAAS-CNRS, Toulouse, France https://arxiv.org/abs/1602.03139 https://arxiv.org/pdf/1602.03139.pdf
 
 Reference
 
