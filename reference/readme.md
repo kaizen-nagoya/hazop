@@ -2084,67 +2084,125 @@ https://www.iso.org/obp/ui/#iso:std:iso:13482:ed-1:v1:en
 
 27-1- IEC 62471, Photobiological safety of lamps and lamp systems
 
-Bibliography
+27-2- Bibliography
 
-[1]	ISO 1996 (all parts), Acoustics — Description, measurement and assessment of environmental noise
-[2]	ISO 2919, Radiological protection — Sealed radioactive sources — General requirements and classification
-[3]	ISO 3740, Acoustics — Determination of sound power levels of noise sources — Guidelines for the use of basic standards
-[4]	ISO 3925, Unsealed radioactive substances — Identification and documentation
-[5]	ISO 4126 (all parts), Safety devices for protection against excessive pressure
-[6]	ISO 6385, Ergonomic principles in the design of work systems
-[7]	ISO 7176 (all parts), Wheelchairs
-[8]	ISO 7212, Enclosures for protection against ionizing radiation — Lead shielding units for 50 mm and 100 mm thick walls
-[9]	ISO 7243, Hot environments — Estimation of the heat stress on working man, based on the WBGT-index (wet bulb globe temperature)
-[10]	ISO 7250 (all parts), Basic human body measurements for technological design
-[11]	ISO 9000:2005, Quality management systems — Fundamentals and vocabulary
-[12]	ISO/TR 9241-100, Ergonomics of human-system interaction — Part 100: Introduction to standards related to software ergonomics
-[13]	ISO 9241-210, Ergonomics of human-system interaction — Part 210: Human-centred design for interactive systems
-[14]	ISO 9241-400, Ergonomics of human — system interaction — Part 400: Principles and requirements for physical input devices
-[15]	ISO 9241-920, Ergonomics of human-system interaction — Part 920: Guidance on tactile and haptic interactions
-[16]	ISO 10218-1:2011, Robots and robotic devices — Safety requirements for industrial robots — Part 1: Robots
-[17]	ISO 10218-2:2011, Robots and robotic devices — Safety requirements for industrial robots — Part 2: Robot systems and integration
-[18]	ISO 11200, Acoustics — Noise emitted by machinery and equipment — Guidelines for the use of basic standards for the determination of emission sound pressure levels at a work station and at other specified positions
-[19]	ISO 11228-1, Ergonomics — Manual handling — Part 1: Lifting and carrying
-[20]	ISO/TR 11688 (all parts), Acoustics — Recommended practice for the design of low-noise machinery and equipment
-[21]	ISO 13732 (all parts), Ergonomics of the thermal environment — Methods for the assessment of human responses to contact with surfaces
-[22]	ISO 13823, General principles on the design of structures for durability
-[23]	ISO 13849-2, Safety of machinery — Safety-related parts of control systems — Part 2: Validation
-[24]	ISO 14123 (all parts), Safety of machinery — Reduction of risks to health from hazardous substances emitted by machinery
-[25]	ISO 14152, Neutron radiation protection shielding — Design principles and considerations for the choice of appropriate materials
-[26]	ISO 14738, Safety of machinery — Anthropometric requirements for the design of workstations at machinery
-[27]	ISO/TS 15066, Robots and robotic devices — Safety requirements for industrial robots — Collaborative operation3
-[28]	ISO/TS 15666, Acoustics — Assessment of noise annoyance by means of social and socio-acoustic surveys
-[29]	ISO 15667, Acoustics — Guidelines for noise control by enclosures and cabins
-[30]	ISO 15686-1, Buildings and constructed assets — Service life planning — Part 1: General principles and framework
-[31]	ISO 15686-2, Buildings and constructed assets — Service life planning — Part 2: Service life prediction procedures
-[32]	IEC/TS 61000-1-2, Electromagnetic compatibility (EMC) — Part 1-2: General — Methodology for the achievement of functional safety of electrical and electronic systems including equipment with regard to electromagnetic phenomena
-[33]	IEC 61000-4-2, Electromagnetic compatibility (EMC) — Part 4-2: Testing and measurement techniques — Electrostatic discharge immunity tests
-[34]	IEC 61000-6-1, Electromagnetic compatibility (EMC) — Part 6-1: Generic standards — Immunity for residential, commercial and light-industrial environments
-[35]	IEC 61000-6-2, Electromagnetic compatibility (EMC) — Part 6-2: Generic standards — Immunity for industrial environments
-[36]	IEC 61000-6-3, Electromagnetic compatibility (EMC) — Part 6-3: Generic standards — Emission standard for residential, commercial and light-industrial environments
-[37]	IEC 61000-6-4, Electromagnetic compatibility (EMC) — Part 6-4: Generic standards — Emission standard for industrial environments
-[38]	IEC 61160, Design review
-[39]	IEC 61508-7, Functional safety of electrical/electronic/programmable electronic safety-related systems — Part 7: Overview of techniques and measures
-[40]	IEC 61800-5-2, Adjustable speed electrical power drive systems — Part 5-2: Safety requirements — Functional
-[41]	IEC 61851 (all parts), Electric vehicle conductive charging system
-[42]	IEC/TS 62046, Safety of machinery — Application of protective equipment to detect the presence of persons
-[43]	IEC 62079, Preparation of instructions — Structuring, content and presentation
-[44]	EN 50272 (all parts), Safety requirements for secondary batteries and battery installations
-[45]	ANSI/RIA R15.06-1999, Industrial robots and robot systems — Safety requirements
-[46]	T. Fujikawa, M. Kubota, Y. Yamada, H. Ikeda Evaluation of Injury Level and Probability for Risk Assessment of Mobile Robots, Proceedings of SIAS2012, 2012
-[47]	S. Haddadin, A. Albu-Schäffer, G. Hirzinger Safety evaluation of physical human-robot interaction via crash-testing, Robotics: Science and Systems Conference (RSS2007), Atlanta, USA, pp. 217–224, 2007
-[48]	S. Haddadin, A. Albu-Schäffer, M. Frommberger, J. Rossmann, G. Hirzinger The DLR Crash Report: Towards a Standard Crash-Testing Protocol, for Robot Safety - Part I: Results, 2009 IEEE Int Conf on Robotics and Automation (ICRA’2009), Kobe Int Conf Center, Kobe, Japan, May 12-17, pp 272-279, 2009
-[49]	S. Haddadin, A. Albu-Schäffer, G. Hirzinger Requirements for safe robots: Measurements, analysis and new insights. Int. J. Robot. Res. 2009, 28 (11-12) pp. 1507–1527
-[50]	S. Haddadin, A. Albu-Schäffer, G. Hirzinger Soft-tissue injury in robotics. ICRA, 2010
-[51]	S. Haddadin, A. Albu-Schäffer Fahed Haddadin, Jürgen Roßmann, and Gerd Hirzinger: Experimental Safety Study on Soft-tissue Injury in Robotics. IEEE Robot. Autom. Mag. 2011 Dec., 18 (4) pp. 20–34
-[52]	S. Haddadin, A. Haddadin, S. Khoury, T. Rokahr, S. Parusel, R. Burgkart On making robots understand safety: Embedding injury knowledge into control. Int. J. Robot. Res. 2012
-[53]	S. Haddadin Human Injury in Robotics: Technical Report. DLR, Germany, 2012
-[54]	O. Khatib Inertial properties in robotic manipulation: an object-level framework. Int. J. Robot. Res. 1995, 14 (1) pp. 19–36
-[55]	National Highway Traffic Safety Administration FMVSS 208 Occupant crash protection and National Highway Traffic Safety Administration, Proposed Amendment to FMVSS No 213 Frontal Test Procedure. U.S. Department of Transportation, 2002
-[56]	K. Ono, A. Kikuchi, M. Nakamura, H. Kobayashi, N. Nakamura Human head tolerance to sagittal impact – Reliable estimation deduced from experimental head injury using subhuman primates and human cadaver skulls, Proceedings SAE Technical Paper 801303, doi:, 1980 [no rendering defined for element: pub-id ] 10.4271/801303
-[57]	Y. Yamada, K. Suita, K. Imai, H. Ikeda, N. Sugimoto A failure-to-safety robot system for human-robot coexistence. Robot. Auton. Syst. 1996, 18 (1-2) pp. 283–291
-[58]	Y. Yamada, Y. Hirasawa, S.Y. Huang, Y. Umetani, K. Suita Human-Robot Contact in the Safeguarding Space, IEEE/ASME Trans. on Mechatronics, Vol.2, No.4, pp.230-236, 1997
-[59]	T.P. Ruedi, R.E. Buckley, C.G. Morgan AO Principles of Fracture Management, Thieme, Ed., 2007.Information on the design of workplaces with collaborative robots, U 001/2009e (October 2009 edition, revised February 2011), Available from <http://www.dguv.de/ifa/en/pra/kollaborierende_roboter>
+27-2-[1]	ISO 1996 (all parts), Acoustics — Description, measurement and assessment of environmental noise
+
+27-2-[2]	ISO 2919, Radiological protection — Sealed radioactive sources — General requirements and classification
+
+27-2-[3]	ISO 3740, Acoustics — Determination of sound power levels of noise sources — Guidelines for the use of basic standards
+
+27-2-[4]	ISO 3925, Unsealed radioactive substances — Identification and documentation
+
+27-2-[5]	ISO 4126 (all parts), Safety devices for protection against excessive pressure
+
+27-2-[6]	ISO 6385, Ergonomic principles in the design of work systems
+
+27-2-[7]	ISO 7176 (all parts), Wheelchairs
+
+27-2-[8]	ISO 7212, Enclosures for protection against ionizing radiation — Lead shielding units for 50 mm and 100 mm thick walls
+
+27-2-[9]	ISO 7243, Hot environments — Estimation of the heat stress on working man, based on the WBGT-index (wet bulb globe temperature)
+
+27-2-[10]	ISO 7250 (all parts), Basic human body measurements for technological design
+
+27-2-[11]	ISO 9000:2005, Quality management systems — Fundamentals and vocabulary
+
+27-2-[12]	ISO/TR 9241-100, Ergonomics of human-system interaction — Part 100: Introduction to standards related to software ergonomics
+
+27-2-[13]	ISO 9241-210, Ergonomics of human-system interaction — Part 210: Human-centred design for interactive systems
+
+27-2-[14]	ISO 9241-400, Ergonomics of human — system interaction — Part 400: Principles and requirements for physical input devices
+
+27-2-[15]	ISO 9241-920, Ergonomics of human-system interaction — Part 920: Guidance on tactile and haptic interactions
+
+27-2-[16]	ISO 10218-1:2011, Robots and robotic devices — Safety requirements for industrial robots — Part 1: Robots
+
+27-2-[17]	ISO 10218-2:2011, Robots and robotic devices — Safety requirements for industrial robots — Part 2: Robot systems and integration
+
+27-2-[18]	ISO 11200, Acoustics — Noise emitted by machinery and equipment — Guidelines for the use of basic standards for the determination of emission sound pressure levels at a work station and at other specified positions
+
+27-2-[19]	ISO 11228-1, Ergonomics — Manual handling — Part 1: Lifting and carrying
+
+27-2-[20]	ISO/TR 11688 (all parts), Acoustics — Recommended practice for the design of low-noise machinery and equipment
+
+27-2-[21]	ISO 13732 (all parts), Ergonomics of the thermal environment — Methods for the assessment of human responses to contact with surfaces
+
+27-2-[22]	ISO 13823, General principles on the design of structures for durability
+
+27-2-[23]	ISO 13849-2, Safety of machinery — Safety-related parts of control systems — Part 2: Validation
+
+27-2-[24]	ISO 14123 (all parts), Safety of machinery — Reduction of risks to health from hazardous substances emitted by machinery
+
+27-2-[25]	ISO 14152, Neutron radiation protection shielding — Design principles and considerations for the choice of appropriate materials
+
+27-2-[26]	ISO 14738, Safety of machinery — Anthropometric requirements for the design of workstations at machinery
+
+27-2-[27]	ISO/TS 15066, Robots and robotic devices — Safety requirements for industrial robots — Collaborative operation3
+
+27-2-[28]	ISO/TS 15666, Acoustics — Assessment of noise annoyance by means of social and socio-acoustic surveys
+
+27-2-[29]	ISO 15667, Acoustics — Guidelines for noise control by enclosures and cabins
+
+27-2-[30]	ISO 15686-1, Buildings and constructed assets — Service life planning — Part 1: General principles and framework
+
+27-2-[31]	ISO 15686-2, Buildings and constructed assets — Service life planning — Part 2: Service life prediction procedures
+
+27-2-[32]	IEC/TS 61000-1-2, Electromagnetic compatibility (EMC) — Part 1-2: General — Methodology for the achievement of functional safety of electrical and electronic systems including equipment with regard to electromagnetic phenomena
+
+27-2-[33]	IEC 61000-4-2, Electromagnetic compatibility (EMC) — Part 4-2: Testing and measurement techniques — Electrostatic discharge immunity tests
+
+27-2-[34]	IEC 61000-6-1, Electromagnetic compatibility (EMC) — Part 6-1: Generic standards — Immunity for residential, commercial and light-industrial environments
+
+27-2-[35]	IEC 61000-6-2, Electromagnetic compatibility (EMC) — Part 6-2: Generic standards — Immunity for industrial environments
+
+27-2-[36]	IEC 61000-6-3, Electromagnetic compatibility (EMC) — Part 6-3: Generic standards — Emission standard for residential, commercial and light-industrial environments
+
+27-2-[37]	IEC 61000-6-4, Electromagnetic compatibility (EMC) — Part 6-4: Generic standards — Emission standard for industrial environments
+
+27-2-[38]	IEC 61160, Design review
+
+27-2-[39]	IEC 61508-7, Functional safety of electrical/electronic/programmable electronic safety-related systems — Part 7: Overview of techniques and measures
+
+27-2-[40]	IEC 61800-5-2, Adjustable speed electrical power drive systems — Part 5-2: Safety requirements — Functional
+
+27-2-[41]	IEC 61851 (all parts), Electric vehicle conductive charging system
+
+27-2-[42]	IEC/TS 62046, Safety of machinery — Application of protective equipment to detect the presence of persons
+
+27-2-[43]	IEC 62079, Preparation of instructions — Structuring, content and presentation
+
+27-2-[44]	EN 50272 (all parts), Safety requirements for secondary batteries and battery installations
+
+27-2-[45]	ANSI/RIA R15.06-1999, Industrial robots and robot systems — Safety requirements
+
+27-2-[46]	T. Fujikawa, M. Kubota, Y. Yamada, H. Ikeda Evaluation of Injury Level and Probability for Risk Assessment of Mobile Robots, Proceedings of SIAS2012, 2012
+
+27-2-[47]	S. Haddadin, A. Albu-Schäffer, G. Hirzinger Safety evaluation of physical human-robot interaction via crash-testing, Robotics: Science and Systems Conference (RSS2007), Atlanta, USA, pp. 217–224, 2007
+
+27-2-[48]	S. Haddadin, A. Albu-Schäffer, M. Frommberger, J. Rossmann, G. Hirzinger The DLR Crash Report: Towards a Standard Crash-Testing Protocol, for Robot Safety - Part I: Results, 2009 IEEE Int Conf on Robotics and Automation (ICRA’2009), Kobe Int Conf Center, Kobe, Japan, May 12-17, pp 272-279, 2009
+
+27-2-[49]	S. Haddadin, A. Albu-Schäffer, G. Hirzinger Requirements for safe robots: Measurements, analysis and new insights. Int. J. Robot. Res. 2009, 28 (11-12) pp. 1507–1527
+
+27-2-[50]	S. Haddadin, A. Albu-Schäffer, G. Hirzinger Soft-tissue injury in robotics. ICRA, 2010
+
+27-2-[51]	S. Haddadin, A. Albu-Schäffer Fahed Haddadin, Jürgen Roßmann, and Gerd Hirzinger: Experimental Safety Study on Soft-tissue Injury in Robotics. IEEE Robot. Autom. Mag. 2011 Dec., 18 (4) pp. 20–34
+
+27-2-[52]	S. Haddadin, A. Haddadin, S. Khoury, T. Rokahr, S. Parusel, R. Burgkart On making robots understand safety: Embedding injury knowledge into control. Int. J. Robot. Res. 2012
+
+27-2-[53]	S. Haddadin Human Injury in Robotics: Technical Report. DLR, Germany, 2012
+
+27-2-[54]	O. Khatib Inertial properties in robotic manipulation: an object-level framework. Int. J. Robot. Res. 1995, 14 (1) pp. 19–36
+
+27-2-[55]	National Highway Traffic Safety Administration FMVSS 208 Occupant crash protection and National Highway Traffic Safety Administration, Proposed Amendment to FMVSS No 213 Frontal Test Procedure. U.S. Department of Transportation, 2002
+
+27-2-[56]	K. Ono, A. Kikuchi, M. Nakamura, H. Kobayashi, N. Nakamura Human head tolerance to sagittal impact – Reliable estimation deduced from experimental head injury using subhuman primates and human cadaver skulls, Proceedings SAE Technical Paper 801303, doi:, 1980 [no rendering defined for element: pub-id ] 10.4271/801303
+
+27-2-[57]	Y. Yamada, K. Suita, K. Imai, H. Ikeda, N. Sugimoto A failure-to-safety robot system for human-robot coexistence. Robot. Auton. Syst. 1996, 18 (1-2) pp. 283–291
+
+27-2-[58]	Y. Yamada, Y. Hirasawa, S.Y. Huang, Y. Umetani, K. Suita Human-Robot Contact in the Safeguarding Space, IEEE/ASME Trans. on Mechatronics, Vol.2, No.4, pp.230-236, 1997
+
+27-2-[59]	T.P. Ruedi, R.E. Buckley, C.G. Morgan AO Principles of Fracture Management, Thieme, Ed., 2007.Information on the design of workplaces with collaborative robots, U 001/2009e (October 2009 edition, revised February 2011), Available from <http://www.dguv.de/ifa/en/pra/kollaborierende_roboter>
 
 
 [28]ISO13849-1, 2006. Safety of machinery – safety-related parts of control sys- tems – part 1: General principles for design. International Organization for Standardization.
@@ -2599,17 +2657,99 @@ Congress (WCC), Human Error, Safety and Systems Development (HESSD04), pages 177
 [40]Mitka, E., Gasteratos, A., Kyriakoulis, N., Mouroutsos, S. G., 2012. Safety certification requirements for domestic robots. Safety Science 50 (9), 1888 – 1897.
 https://www.academia.edu/2624441/Safety_Certification_Requirements_for_Domestic_Robots
 
- 
-References
-Bonney, M.C., Yong, D., 1985. Robot Safety. International ManufacturingTechnology. IFS Publications Ltd., UK.
+40-1 Bonney, M.C., Yong, D., 1985. Robot Safety. International ManufacturingTechnology. IFS Publications Ltd., UK.
 
-Corrales, J.A., Candelas, F.A., Torres, F., 2011. Safe human–robot interaction based ondynamic sphere-swept line bounding volumes. Robotics and Computer-Integrated Manufacturing 27, 177–185.
+40-2 Corrales, J.A., Candelas, F.A., Torres, F., 2011. Safe human–robot interaction based ondynamic sphere-swept line bounding volumes. Robotics and Computer-Integrated Manufacturing 27, 177–185.
 
-Crowley, J., 1989. Planning and execution of tasks for a domestic robot. Robotics andAutonomous Systems 5 (3), 257–272.
+40-3 Crowley, J., 1989. Planning and execution of tasks for a domestic robot. Robotics andAutonomous Systems 5 (3), 257–272.
 
-Denning, T., Matuszec, C., Koscher, K., Smith, J.R., Kohno, T., 2009. A spotlight onsecurity and privacy risks with future household robots: attacks and lessons. In:Proceedings of the 11th International Conference on Ubiquitous, Computing,pp. 105–114.
+40-4 Denning, T., Matuszec, C., Koscher, K., Smith, J.R., Kohno, T., 2009. A spotlight onsecurity and privacy risks with future household robots: attacks and lessons. In:Proceedings of the 11th International Conference on Ubiquitous, Computing,pp. 105–114.
 
-Etherton, J., Sneckenberger, J.E., 1990. A robot safety experiment varying robotspeed and contrast with human decision cost. Applied Ergonomics 21 (3), 231–236.European Community, 2000. Guide to the implementation of directives based onthe new approach and the global approach.Fei, B., Ng, W.S., Chauhan, S., Kwoh, C.K., 2001. The safety issues of medical robotics.Reliability Engineering and System Safety, 183–192.Friendly Robotics Acquisition Ltd., 2009. Robomow operating and safety manual.<http://www.robomow.com/pdf/2010/rl_manual_en.pdf >.Harper, C., Dogramadzi, S., Tokhi, O., 2009. Developments in vocabularystandardisation for robots and robotic devices. In: Proceedings of the TwelfthInternational Conference on Climbing and Walking Robots and the SupportTechnologies for Mobile Machines, Istanbul, Turkey.IEC 60204-1, 2005. 10.7.1 Devices for emergency stop shall be readily accessible.ISO 10218-1, 2011. Robots for industrial environments – safety requirements – PartI: robot.ISO 10218-2, 2011. Robots and robotic devices. Safety requirements for industrialrobots. Part 2: robot systems and integration.ISO 12100, 2010. Safety of machinery—general principles for design, riskassessment and risk reduction.ISO 12100-1, -2, 2003. Safety of machinery – basic concepts, general principles fordesign.ISO 13857, 2008. Safety of machinery—safety distances to prevent danger zonesbeing reached by the upper limbs.ISO 14120, 2002. Safety of machinery—guards—general requirements for the designand construction of ﬁxed and movable guards.ISO 14121. 1999. Safety of machinery – principles of risk assessment.ISO 14971, 2000. Medical devices – application of risk management to medicaldevices.ISO Standard, ISO 8373, 2007(E). Manipulating industrial robots – vocabulary.ISO/FDIS 8373, 2012. Robots and robotic devices – vocabulary.<http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=55890>.ISO/IEC Guide 50, 1999. Safety aspects – guidelines for their inclusion in standards. Jenkins, F., 1993. Practical requirements for a domestic vacuum-cleaning robot.Technical Report. Jiang, B., Cheng, O., 1990. A procedure analysis for robot system safety. International Journal of Industrial Ergonomics, 95–117 (Industrial Engineering Department,Auburn University, AL 36849, USA)
+40-5 Etherton, J., Sneckenberger, J.E., 1990. A robot safety experiment varying robotspeed and contrast with human decision cost. Applied Ergonomics 21 (3), 231–236.
+
+40-6 European Community, 2000. Guide to the implementation of directives based onthe new approach and the global approach.
+
+40-7 Fei, B., Ng, W.S., Chauhan, S., Kwoh, C.K., 2001. The safety issues of medical robotics.Reliability Engineering and System Safety, 183–192.
+
+40-8 Friendly Robotics Acquisition Ltd., 2009. Robomow operating and safety manual.<http://www.robomow.com/pdf/2010/rl_manual_en.pdf >.
+
+40-9 Harper, C., Dogramadzi, S., Tokhi, O., 2009. Developments in vocabularystandardisation for robots and robotic devices. In: Proceedings of the TwelfthInternational Conference on Climbing and Walking Robots and the SupportTechnologies for Mobile Machines, Istanbul, Turkey.
+
+40-10 IEC 60204-1, 2005. 10.7.1 Devices for emergency stop shall be readily accessible.
+
+40-11 ISO 10218-1, 2011. Robots for industrial environments – safety requirements – PartI: robot.
+
+40-12 ISO 10218-2, 2011. Robots and robotic devices. Safety requirements for industrialrobots. Part 2: robot systems and integration.
+
+40-13 ISO 12100, 2010. Safety of machinery—general principles for design, riskassessment and risk reduction.
+
+40-14 ISO 12100-1, -2, 2003. Safety of machinery – basic concepts, general principles fordesign.
+
+40-15 ISO 13857, 2008. Safety of machinery—safety distances to prevent danger zonesbeing reached by the upper limbs.
+
+40-16 ISO 14120, 2002. Safety of machinery—guards—general requirements for the designand construction of ﬁxed and movable guards.
+
+40-17 ISO 14121. 1999. Safety of machinery – principles of risk assessment.
+
+40-18 ISO 14971, 2000. Medical devices – application of risk management to medicaldevices.
+
+40-19 ISO Standard, ISO 8373, 2007(E). Manipulating industrial robots – vocabulary.
+
+40-20 ISO/FDIS 8373, 2012. Robots and robotic devices – vocabulary.<http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=55890>.
+
+40-21 ISO/IEC Guide 50, 1999. Safety aspects – guidelines for their inclusion in standards. 
+
+40-22 Jenkins, F., 1993. Practical requirements for a domestic vacuum-cleaning robot.Technical Report. 
+
+40-23 Jiang, B., Cheng, O., 1990. A procedure analysis for robot system safety. International Journal of Industrial Ergonomics, 95–117 (Industrial Engineering Department,Auburn University, AL 36849, USA)
+
+40-24 Japanese Standard, JIS B0134, 1998. Manipulating industrial robots – vocabulary. 
+
+40-25 Japanese Standard, JIS B0185, 2002. Intelligent robots – vocabulary. 
+
+40-26 Japanese Standard, JIS B0186, 2003. Mobile robots – vocabulary. 
+
+40-27 Japanese Standard, JIS B0187, 2005. Service robots – vocabulary.
+
+40-28 Kabe, T., Tanaka, K., Hiroyoso, I., Sugimoto, N., 2010. Consideration on safety foremerging technology – case studies of seven service robots. Safety Science 48,296–301.
+
+40-29 Kilmer, R., 1982. Safety sensor systems for industrial robots. In: Proceedings of theRobots VI Conference and Exposition. Society of Manufacturing Engineers(SME), MI, pp. 479-491.
+
+40-30 Korean Standard, KS B 6934, 2006. Performance measure methods for householdcleaning robots.
+
+40-31 Korean Standard, KS B 6935, 2006. Service robots – safety guidelines.
+
+40-32 Korean Standard, KS B 6936, 2006. Service robots – safety instructions.
+
+40-33 Korean Standard, KS B 6937, 2006. Service robots – vocabulary – Part 1.Classiﬁcation & general terms.
+
+40-34 Korean Standard, KS B 6938. Service robots – vocabulary – Part 2. Mobility andintelligence.
+
+40-35 Korean Standard, KS B 6960, 2007. Service robots – safety requirements – electricalaspects.
+
+40-36 Korean Standard, KS B 6961, 2007. Service robots – test methods for mechanicalstrength – Part 1. Load test.
+
+40-37 Korean Standard, KS B 6962, 2007. Service robots – test methods for mechanicalstrength – Part 2. Fall and distortion test.
+
+40-38 Korean Standard, KS B 6966, 2008. Service robots – safety requirements for shape.
+
+40-39 Kulic, D., Croft, E., 2006. Real-time safety for human–robot interaction. Robotics andAutonomous Systems 54, 1–12.
+
+40-40 Lee, S., Yu, S., Choi, J., Han, C., 2011. A methodology to quantitatively evaluate thesafety of a glazing robot. Applied Ergonomics 42, 445–454.
+
+40-41 Nagamachi, M., 1986. Human factors of industrial robots and robot safetymanagement in Japan. Applied Ergonomics 17 (1), 9–18.
+
+40-42 OSHA Technical Manual (OTM), 1999. Industrial robots and robot system safety,section IV (Chapter 4). <http://www.osha.gov/dts/osta/otm/otm_iv/otm_iv_4.html>.
+
+40-43 Rahimi, M., 1986. Systems safety for robots: an energy barrier analysis. Journal of Occupational Accidents, 127–138.
+
+40-44 Seungbin, M., Gurvinder, S.V., 2009. Survey on ISO standards for industrial andservice robots. In: Proceedings of the ICROS-SICE International Joint Conference, Japan.
+
+40-45 SONY Corporation, 2004. ERS-7M2 Entertainment Robot AIBO: user’s guide (basic).<http://www.aiai.ed.ac.uk/project/aibo/documents/ERS-7M2/AIBO-Basic-Manual.pdf >.
+
+40-46 Wassink, M., Stramigioli, S., 2007. Towards a novel safety norm for domesticrobotics. In: Proceedings of the IEEE/RSJ International Conference on IntelligentRobots and Systems, USA.
+
+40-47 Wyrobek, K., Berger, E., Van der Loos, M., Salisbury, K., 2008. Towards a personalrobotics development platform: rationale and design of an intrinsically safepersonal robot. In: IEEE International Conference on Robotics and AutomationPasadena, CA, USA.
 
 [41]OMG-UML2, 2007. Unified Modeling Language (UML), Superstructure, V2.1.2, formal/2007-11-02. Object Management Group.
 http://www.uml-sysml.org/documentation/uml-2.1.2-superstructure-5.8mo/at_download/OMG%20Unified%20Modeling%20Language%202.1.2_Superstructure_November2007.pdf
@@ -2750,37 +2890,65 @@ Social Robotics, 1–22.
 MAIN RESEARCH RESULTS & PUBLIC DELIVERABLES 
 Human safety. 
 45-1 Deliverable D1.1.1 - Human injuries in robotics 
+
 45-2 Deliverable D1.3.1 - Safety monitoring framework and safe control strategies
+
 45-3 Deliverable D1.4.1 - Existing standards and recommendations for future safety standards in robotics
+
 The mechatronic development of assistant robots
 45-4 Deliverable D2.1.1 - New actuators for the robot companion
+
 45-5 Deliverable D2.2.1 -­ Low-­cost modular VSA platform
+
 45-6 Deliverable D2.3.1 - Compliant robot body
+
 45-7 Deliverable D2.4.1 - Prototypes of safe and interactive tools and hardware safety concept of workspace 
+
 Perception and control.
 45-8 Deliverable D3.1.1 - Combined collision avoidance, detection, and reaction
+
 45-9 Deliverable D3.2.1 - Control and estimation algorithms for VIA robots
+
 45-10 Deliverable D3.2.2 - Experimental validation of control laws for multi-dof VIA manipulators
+
 45-11 Deliverable D3.3.1 - Safe dynamic control laws for redundant robots
+
 45-12 Deliverable D3.4.1 - Intentional human-interaction control of compliant robots
+
 45-13 Deliverable D4.1.1 - Collision detection methods by means of sensor fusion
+
 45-14 Deliverable D4.2.1 - Prediction based algorithms for wide range monitoring
+
 45-15 Deliverable D4.3.1 - Tracking of human motions and object interactions
+
 45-16 Deliverable D4.4.1 - Detection and isolation of sensors/actuators faults
+
 Learning and interpretation of human actvites by the robot. 
 45-17 Deliverable D5.1.1 - Gesture and grammar descriptors of human motion and statistical gesture parser
+
 45-18 Deliverable D5.2.1 - Intuitive motion learning and iterative motion refinement
+
 45-19 Deliverable D5.3.1 - Learning of force patterns and impedance behaviors 
+
 Task reasoning and situational reaction. 
 45-20 Deliverable D6.1.1 - Reactively adaptable motion plans for real-time collision avoidance
+
 45-21 Deliverable D6.2.1 - Multimodal reactive motion generation
+
 45-22 Deliverable D6.3.1 - Action generation patterns and search algorithms
+
 45-23 Deliverable D6.4.1 - Interface framework for multimodal safe interaction
+
 45-24 Deliverable D7.1.1 - Final models and algorithms for collaborative activities
+
 45-25 Deliverable D7.2.1 - An implemented human-aware navigation and placement planner
+
 45-26 Deliverable D7.3.1 - An implemented human-aware manipulation planner
+
 45-27 Deliverable D7.4.1 - Planning of smooth motion-force transition tasks
+
 45-28 Deliverable D7.5.1 - Specification of a human-aware robot controller
+
 45-29 Deliverable D7.5.2 - Prototype of the human-aware robot executive controller 
 
 [46]Srivatanakul, T., 2005. Security analysis with deviational techniques. Ph.D. thesis, University of York.
@@ -3212,7 +3380,7 @@ summary
 |37|0|	
 |38|21|	
 |39||R|		
-|40|53|		
+|40|47|		
 |41|3|		
 |42|7|		
 |43|26|		
