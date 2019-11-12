@@ -1,0 +1,2 @@
+GitHubだけでLatexをコンパイルしてPDFをリリースにアップロードする
+https://qiita.com/takuseno/items/2b4c4a129205d03526ad
