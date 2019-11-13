@@ -729,7 +729,7 @@ J Intell Robot Syst　Robot-to-1905 Human Object Handover, to appear in Proc IRO
 
 14-30. Nehmzow, U., Kyriacou, T., Iglesias, R., Billings, S.: Robotmodic: modelling, identification and characterisation of mobile robots. Proc. TAROS 2004 (2004) 
 
-14-31. Owens, B.D., Stringfellow Herring, M., Dulac, N., Leveson, N.G.: Application of a Safety-Driven Design Methodology to an Outer Planet Exploration Mission, IEEEAC paper #1279, Version 8, Updated December 14 (2007) 
+14-31. Owens, B.D., Stringfellow Herring, M., Dulac, N.,Levson, N.G.: Application of a Safety-Driven Design Methodology to an Outer Planet Exploration Mission, IEEEAC paper #1279, Version 8, Updated December 14 (2007) 
 
 14-32. Pumfrey, D.: The principled design of computer system safety analyses. PhD Thesis, University of York (1999) 
 
@@ -2613,6 +2613,203 @@ Medical Unit, May 14, 2009.
 
 35-46. Cutcher-Gershenfeld, Joel. Personal communication.
 
+35-47 Mirna Daouk and Nancy Leveson. An Approach to Human-Centered Design. International
+Workshop on Human Error, Safety, and System Design (HESSD ’01), Linchoping, Sweden,
+June 2001.
+
+35-48 Sidney Dekker. * Ten Questions about Human Error. CRC, 2004.
+
+35-49 Sidney Dekker. The Field Guide to Understanding Human Error. Ashgate Publishing, 2006.
+
+35-50 Sidney Dekker. Just Culture: Balancing Safety and Accountability. Ashgate, 2007.
+
+35-51 Sidney Dekker. Report on the Flight Crew Human Factors Investigation Conducted for the
+Dutch Safety Board into the Accident of TK1951, Boeing 737-800 near Amsterdam Schiphol
+Airport, February 25, 2009. Lund University, Sweden 2009.
+
+35-52 Department of Defense. MIL-STD-882D: Standard Practice for System Safety. U.S. Depart-
+ment of Defense, January 2000.
+
+35-53 Department of Employment. The Flizborough Disaster: Report of the Court of Inquiry. Her
+Majesty’s Stationery Office, London, 1975.
+
+35-[54] Ulli Diemer. Contamination: The Poisonous Legacy of Ontario’s Environment Cutbacks.
+Canada Dimension Magazine, July-August, 2000.
+
+35-[55] D. Dorner. On the difficulties people have in dealing with complexity. In Jens Rasmussen,
+
+35-56 Keith Duncan, and Jacques Leplat, editors, New Technology and Human Error, pages 97-109,
+John Wiley & Sons, New York, 1987.
+
+35-57 K. Dowling, R. Bennett, M. Blackwell, T. Graham, S. Gatrall, R. O’Toole, and H. Schempf.
+A Mobile Robot System for Ground Servicing Operations on the Space Shuttle. Cooperative
+Intelligent Robots in Space, SPIE, November, 1992.
+
+35-58 Nicolas Dulac. Empirical Evaluation of Design Principles for Increasing Reviewability of
+Formal Requirements Specifications through Visualization. MIT Master’s Thesis, August
+2003.
+
+35- Nicolas Dulac. Incorporating Safety Risk in Early System Architecture Trade Studies. AIAA
+Journal of Spacecraft and Rockets, Vol. 46, No. 2, Mar—Apr 2009.
+
+35- K.D. Duncan. Reflections on fault diagnostic expertise. In Jens Rasmussen, Keith Duncan,
+and Jacques Leplat, editors, New Technology and Human Error, pages 261-269, John Wiley
+& Sons, New York, 1987.
+
+35- Paul Eddy, Elaine Potter, and Bruce Page, Destination Disaster. Quadrangle/N.Y. Times
+Book Co., 1976
+
+35- M. Edwards. The design of an accident investigation procedure. Applied Ergonomics, 12:111-
+115, 1981.
+
+35- W. Edwards. Dynamic decision theory and probabilistic information processing. Human
+Factors, 4, pp. 59-73, 1962.
+
+35-[63] Clif Ericson. Software and System Safety. 5th Int. System Safety Conference, Denver, July
+1981.
+
+35-[64] E.E. Euler, S.D. Jolly, and H.H. Curtis. The Failures of the Mars Climate Orbiter and Mars
+Polar Lander: A Perspective from the People Involved. Guidance and Control, American
+Astronautical Society, paper AAS 01-074, 2001.
+
+35-[65] J.H. Fielder. The Vioxx Debacle revisited. Engineering in Medicine and Biology Magazine,
+IEEE, e 27(4):106-109, 2008.
+
+35-[66] Stan N. Finkelstein and Peter Temin. Reasonable Rx: Solving the Drug Price Crisis. FT
+Press, 2008.
+
+35-[67] B. Fischoff, P. Slovic, and S. Lichtenstein. Fault trees: Sensitivity of estimated failure prob-
+abilities to problem representation. Journal of Experimental Psychology: Human Perception
+and Performance, vol. 4, no. 2, 1978, pp. 330-344.
+
+35-[68] Al Ford. Director Emeritus, Submarine Safety and Quality Assurance, Naval Sea Systems
+Command. personal communication.
+
+35-[69] F.R. Frola and C.O. Miller. System Safety in Aircraft Acquisition. Logistics Management
+Institute, Washington D.C., January 1984.
+
+35-[70] Y. Fujita. What Shapes Operator Performance? JAERI Human Factors Meeting, Tokyo,
+November 1991.
+
+35-[71] J.G. Fuller. Death by robot. Omni, 6(6):45—46, 97-102, March 1984.
+
+35-[72] Government Accountability Office (GAO). Drug Safety: Improvement Needed in FDA’s
+Postmarket Decision-making and Oversight Process. United State Government Accountability
+Office, 2006.
+
+35-[73] Harold Gehman (Chair). Columbia Accident Investigation Report. August 2003.
+
+35-[74] Sallie E. Gordon and Richard T. Gill. Cognitive Task Analysis. in Caroline E. Zsambok and
+Gary Klein (eds.), Naturalistic Decision Making, Lawrence Erlbaum Associates, 1997, pp.
+131-140.
+
+35-[75] David J. Graham. Testimony of David J. Graham, M.D. Senate 9, November 18, 2004.
+
+35-[76] William Haddon, Jr. The Prevention of Accidents. in Clark and MacMahon (eds.), Textbook
+of Preventive Medicine, Boston: Little Brown and Company, 1967, pp. 591-621.
+
+35-[77] Charles Haddon-Cave. The Nimrod Review. HC 1025, London: The Stationery Office Limited, October 28, 2009.
+
+35-[78] Willie Hammer. Product Safety Management and Engineering. Prentice-Hall, 1980.
+
+35-[79] Gardiner Harris. U.S. Inaction lets Look-Alike Tubes Kill Patients. New York Times, August 20, 2010.
+
+35-[80] Helicopter Accident Analysis Team. Final Report. NASA 1998.
+
+35-[81] Anthony Hidden (Chairman). Investigation into the Capham Junction Railway Accident. Department of Transport, Her Majesty’s Stationary Office (HMSO), London, 1990.
+
+35-[82] Hill KP, Ross JS, Egilman DS, and Krumholz HM. The ADVANTAGE seeding trial: a review of internal documents. Annals of Internal Medicine, 149:251-258, 2009.
+
+35-[83] Andrew Hopkins. Managing Major Hazards: The Lessons of the Moira Mine Disaster. Allen & Unwin, Sidney, Australia, 1999.
+
+35-[84] Jeffrey Howard. Preserving System Safety across the Boundary between System Integrator and Software Contractor. Conference of the Society of Automotive Engineers, Paper 04AD-114, SAE, 2004. 114, SAE, 2004.114, SAE, 2004.
+
+35-[85] Jeffrey Howard and Grady Lee. SpecTRM-Tutorial. Safeware Engineering Corporation, 2005.
+
+35-[86] Ulf Ingerson. Personal Communication.
+
+35-(87] Takuto Ishimatsu, Nancy Leveson, John Thomas, Masa Katahira, Yuko Miyamoto, Haruka
+Nakao. Modeling and Hazard Analysis using STPA. Conference of the International Association for the Advancement of Space Safety, IAASS, Huntsville, May 2010.
+
+35-[88] Shuichiro Daniel Ito. Assuring Safety in High-Speed Magnetically Levitted (Maglev) Systems.
+Masters Thesis, MIT, May 2008.
+
+35-89 M.S. Jaffe. Completeness, Robustness, and Safety of Real-Time Requirements Specification.
+Ph.D. Dissertation, University of California, Irvine, 1988.
+
+35-90 Jaffe, M.S, Leveson, N.G., Heimdahl, M.P.E., and Melhart, B.E.. Software requirements
+analysis for real-time process-control systems. JEEE Transactions on Software Engineering,
+SE-17(3):241—258, March 1991.
+
+35-91 G. Johannsen, J.E. Rijndorp, and H. Tamura. Matching user needs and technologies of
+displays and graphics. In G. Mancini, G. Johannsen, and L. Martensson, editors, Analysis,
+Design, and Evaluation of Man-Machine Systems, pages 51-61, Pergamon Press, New York, 1986.
+
+35-92 William G. Johnson. MORT Safety Assurance System, New York: Marcel Dekker, 1980.
+
+35-93 Jeffrey Joyce. Personal Communication.
+
+35-94 JPL Special Review Board. Report on the Loss of the Mars Polar Lander and Deep Space 2
+Missions. Nasa Jet Propulsion Laboratory, 22 March 2000.
+
+35-95 J.S. Juechter. Guarding: The Keystone of System Safety. Proc. of the Fifth International
+Conference of the System Safety Society, pages VB-1 to VB-21, July, 1981.
+
+35-[96] D. Kahneman, P. Slovic, and A. Tversky. Judgement Under Uncertainty: Heuristics and Biases. New York: Cambridge University Press, 1982.
+
+35-[97] John G. Kemeny. Report of the President’s Commission on Three Mile Island (The Need for Change: The Legacy of TMI). U.S. Government Accounting Office, Washington,D.C., 1979.
+
+35-98 John G. Kemeny. Saving American Democracy: The Lessons of Three Mile Island. Technology
+Review, pp. 65-75, June-July 1980.
+
+35-99 Urban Kjellen. An evaluation of safety information systems at six medium-sized and large
+firms. Journal of Occupational Accidents, 3:273—288, 1982.
+
+35-100 Urban Kjellen. Deviations and the Feedback Control of Accidents. in Jens Rasmussen, Keith
+Duncan, and Jacques Leplat (Eds.), New Technology and Human Error, John Wiley & Sons,
+1987, pp. 143-156.
+
+35-101 Gary A. Klein, Judith Orasano, R. Calderwood, and Caroline E. Zsambok (Editors). Decision
+Making in Action: Models and Methods. Ablex Publishers, 1993.
+
+35-102 Trevor Kletz. Human problems with computer control. Plant/Operations Progress, 1(4),
+October 1982.
+
+35-103 Ross Koppel, Joshua Metlay, Abigail Cohen, Brian Abaluck, Russell Localio, Stephen Kim-
+mel, and Brian Strom. The Role of Computerized Physical Order Entry Systems in Facilitat-
+ing Medication Errors, , JAMA(Journal of the American Medical Association), 293(10):1197-
+1203, March 9, 2003.
+
+35-104 Christopher Kraft. Report of the Space Shuttle Management Independent Review. NASA,
+February 1995.
+
+35-105 John Ladd. Bhopal: An essay on moral responsibility and civic virtue. Department of
+Philosophy, Brown University, Rhode Island, January 1987.
+
+35-106 Todd R. La Porte and Paula Consolini. Working in practice but not in theory: Theoretical
+challenges of High-Reliability Organizations. Journal of Public Administration Research and
+Theory 1:19-47, 1991.
+
+35-107 Joseph R. Laracy. newblock A Systems-Theoretic Security Model for Large Scale, Complex
+Systems Applied to the U.S. Air Transportation System. newblock $.M. Thesis, Engineering
+Systems Division, MIT, 2007.
+
+35-108 Jerome Lederer. How far have we come? A look back at the leading edge of system safety
+eighteen years ago. Hazard Prevention, May/June 1986, pp. 8-10.
+
+35-109 Frank P. Lees. Loss Prevention in the Process Industries, Vol. 1 and 2. Butterworths, London,
+1980.
+
+35-110 Jacques Leplat. Accidents and incidents production: Methods of analysis. In Jens Rasmussen,
+Keith Duncan, and Jacques Leplat, editors, New Technology and Human Error, pp. 133-142,
+John Wiley & Sons, New York, 1987.
+
+35-111 Jacques Leplat. Occupational accident research and systems approach. In Jens Rasmussen,
+Keith Duncan, and Jacques Leplat, editors, New Technology and Human Error, pp. 181-191,
+John Wiley & Sons, New York, 1987.
+
+
+
 [36] Lipaczewski, M., Ortmeier, F., Prosvirnova, T., Rauzy, A., Struck, S., 2015. Comparison of modeling formalisms for safety analyses: SAML and Al- taRica. Reliability Engineering & System Safety (0), –.
 
 [37]Machin, M., Dufoss, F., Blanquart, J.-P., Guiochet, J., Powell, D., Waese- lynck, H., 2014. Specifying safety monitors for autonomous systems using model-checking. In: Bondavalli, A., Di Giandomenico, F. (Eds.), Computer Safety, Reliability, and Security. Vol. 8666 of Lecture Notes in Computer Science. Springer International Publishing, pp. 262–277.
@@ -3414,6 +3611,9 @@ summary
 
 
 # ref
+
+参考文献の書き方　Personal Communication.
+https://researchmap.jp/jo9eesmkx-45644/#_45644
 
 https://qiita.com/kaizen_nagoya/items/8edaf4ca410ef2ccdbc7
 
