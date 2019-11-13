@@ -112,3 +112,25 @@ not declease guide word:
 use actual goods, photo, movie or chart(use case, sequence chart, state chart or timing chart) 
 
 change: change procedure, people, target, or time.
+
+
+# Common misconceptions
+1. take time
+ decide the time of study. 
+ If the first experience, and 9 people are joined, a maximum of 2 hours should be recommended.
+ 
+2. It is difficult to understand because it is abstract.
+ In the first step or last step, the abstraction is important on this method.
+ If you want to custimize the guide words, it is possible.
+ But in the first step or the last step, you should check the result using 11 original guide words.
+ 
+3. don't know how far to go.
+ Depending on the purpose or goal of the study.
+ To find one thing unexpected, 9 people and 2 hours may be the best.
+ 
+4. It is not implemented because it is additional guide words that early and late, and before and after.
+
+
+ 
+ 
+
