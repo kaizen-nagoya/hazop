@@ -3920,8 +3920,10 @@ summary
 参考文献の書き方　Personal Communication.
 https://researchmap.jp/jo9eesmkx-45644/#_45644
 
+参考文献一覧作成 ファイルの存在とPDFからの変換
 https://qiita.com/kaizen_nagoya/items/8edaf4ca410ef2ccdbc7
 
+プログラムちょい替え（10）英語(14) 単語帳作成 dockerで（文字コード対応）量子計算機　arXiv掲載　西森 秀稔　論文(shell, awk)
 https://qiita.com/kaizen_nagoya/items/319672853519990cee42
 
 「量子アニーリングの基礎」参考文献の参考文献を調べるためにしていること
