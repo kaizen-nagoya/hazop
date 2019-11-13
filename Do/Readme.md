@@ -31,3 +31,57 @@ Combination of git and docker will be.
 
 7. wiki, issue
 
+# Paper
+
+program
+ new
+ derived
+ 
+product
+ safety
+ security
+ 
+people
+ small
+ large
+ 
+period
+ short
+ long
+
+phase
+ before design
+ after design
+
+process
+ user
+ maintainer
+
+promote
+ web
+ stand alone
+
+proposition
+ AI
+ non-AI
+
+# principle
+
+constraints: do 3 times with different people, if more than 9 people
+
+goal: each person go to 30 % goal
+
+method: do not explain without 3 times methods
+
+group: devide 3 group with their profile. 
+
+change: change procedure, people, target, or time.
+
+no delete: do not delete whatever you said or wrote.
+
+small start: speak first who wrote small items.
+
+not declease guide word: 
+1.
+2.
+3. 
