@@ -2807,8 +2807,313 @@ John Wiley & Sons, New York, 1987.
 35-111 Jacques Leplat. Occupational accident research and systems approach. In Jens Rasmussen,
 Keith Duncan, and Jacques Leplat, editors, New Technology and Human Error, pp. 181-191,
 John Wiley & Sons, New York, 1987.
-
 
+35-[112] Jacques Leplat. Some observations on error analysis. In Jens Rasmussen, Keith Duncan,
+and Jacques Leplat, editors, New Technology and Human Error, pp. 311-316, John Wiley &
+Sons, New York, 1987.
+
+35-[113] Nancy G. Leveson. High-Pressure Steam Engines and Computer Software. JEEE Computer,
+October 1994 (Keynote Address from IEEE/ACM International Conference on Software En-
+gineering, 1992, Melbourne, Australia).
+
+35-[114] Nancy G. Leveson. Safeware: System Safety and Computers. Addison Wesley, 1995.
+
+35-[115] Nancy G. Leveson. The Role of Software in Spacecraft Accidents. AIAA Journal of Spacecraft
+and Rockets, Vol. 41, No. 4, July 2004.
+
+35-[116] Nancy G. Leveson. Technical and Managerial Factors in the NASA Challenger and Columbia
+Losses: Looking Forward to the Future. In Handelsman and Fleishman (eds.), Controversies
+in Science and Technology, Vol. 2: From Chromosomes to the Cosmos, Mary Ann Liebert,
+Inc., 2007, pp. 237-261.
+
+35-[117] Nancy G. Leveson, Margaret Stringfellow, and John Thomas. A Systems Approach to Acci-
+dent Analysis. MIT Technical Report, 2009.
+
+35-[118] Nancy Leveson and Kathryn Weiss. Making Embedded Software Reuse Practical and Safe.
+Foundations of Software Engineering, Newport Beach, Nov. 2004.
+
+35-[119] Nancy G. Leveson Intent Specifications: An Approach to Building Human-Centered Specifi-
+cations. [EEE Transactions on Software Engineering, SE-26(1), January 2000, pp. 15-35.
+
+35-[120] Nancy Leveson and Jon _ Reese. TCAS Intent — Specification.
+http: //sunnyday.mit.edu/papers/tcas-intent.pdf.
+
+35-[121] Nancy Leveson, Maxime de Villepin, Mirna Daouk, John Bellingham, Jayakanth Srinivasan,
+Natasha Neogi, Ed Bacheldor, Nadine Pilon, and Geraldine Flynn. A Safety and Human-
+Centered Approach to Developing New Air Traffic Management Tools. 4th International
+Seminar or Air Traffic Management Research and Development, Santa Fe, New Mexico,
+December 2001.
+
+35-[122] N.G. Leveson, M. P.E. Heimdahl, H. Hildreth, and J.D. Reese. Requirements specification for process-control systems. Trans. on Software Engineering, SE-20(9), September 1994.
+
+35-[123] Nancy G. Leveson, Nicolas Dulac, Karen Marais, and John Carroll. Moving Beyond Normal Accidents and High Reliability Organizations: A Systems Approach to Safety in Complex Systems. Organization Studies, Vol. 30, pp. 227-249, February/March, 2009.
+
+35-[124] Nancy Leveson, Nicolas Dulac, Betty Barrett, John Carroll, Joel Cutcher-Gershenfield, Stephen Friedenthal. Risk Analysis of NASA Independent Technical Authority. , ESD Technical Report Series, Engineering Systems Division, MIT, 2005.
+
+35-[125] R.E. Levitt and H.W. Parker. Reducing Construction Accidents—Top Management’s Role. ASCE Journal of the Construction Division, 102(CO3):465—478, 1976.
+
+35-[126] David A. Lihou. Management Styles—The Effects of Loss Prevention. in C.B. Ching (Ed.),
+Safety and Loss Prevention in the Chemical and Oil Processing Industries, The Institution of Chemical Engineers, Rugby, United Kingdom, 1990, pp. 147-156.
+
+35-[127] E.S. London. Operational Safety. in A.E. Green (Ed.), High Risk Safety Technology, pages 111-127, New York: John Wiley & Sons, 1982.
+
+35-[128] D.A. Lucas. Mental models and new technology. In Jens Rasmussen, Keith Duncan, and
+Jacques Leplat, editors, New Technology and Human Error, pages 321-325. John Wiley & Sons, New York, 1987.
+
+35-[129] Robyn R. Lutz. Analyzing Software Requirements Errors in Safety-Critical, Embedded Sys-
+tems. Proceedings of the International Conference on Software Requirements, IEEE, January 1992, pp. 53-65.
+
+35-[130] Robert E. Machol. The Titanic coincidence. Interfaces, 5(5):53-54, May 1975.
+
+35-[131] Dale A. Mackall. Development and Flight Test Experiences with a Flight-Critical Digital Con-
+trol System. NASA Technical Paper 2857, National Aeronautics and Space Administration,
+Dryden Flight Research Facility, November 1988.
+
+35-[132] Main Commission Aircraft Accident Investigation Warsaw. Report on the Accident to Airbus
+A320-211 Aircraft in Warsaw, September 1993.
+
+35-[133] John S. Martin. Report of the Honorable John S. Martin to the Special Committee of the Board
+of Directors of Merck & Company, Inc, Concerning the Conduct of Senior Management in
+
+35-[134] Mike W. Martin and Roland Schinzinger. Ethics in Engineering. McGraw-Hill Book Com-
+pany, New York, 1989.
+
+35-[135] H. McCurdy. Inside NASA: High Technology and Organizational Change in the U.S. Space
+Program. Johns Hopkins University Press, 1994.
+
+35-[136] Ralph F. Miles Jr. Introduction. In Ralph F. Miles Jr., editor, Systems Concepts: Lectures
+on Contemporary Approaches to Systems, pp. 1-12, John F. Wiley & Sons, New York, 1973.
+
+35-[137] C.O. Miller. A comparison of military and civil approaches to aviation system safety. Hazard
+Prevention, pages 29-34, May/June 1985.
+
+35-[138] Gareth Morgan. Images of Organizations. Sage Publications, 1986.
+
+35-[139] Alexi Mostrous. Electronic Medical Records Not Seen as a Cure-All: As White House Pushes
+Expansion, Critics Cite Errors, Drop-off in Care. Washington Post, Sunday Oct. 25, 2009.
+
+35-[140] NASA Aviation Safety Reporting System Staff. Human factors associated with altitude alert
+systems. NASA ASRS Sixth Quarterly Report, NASA TM-78511, July 1978.
+
+35-[141] Paul S. Nelson. A STAMP Analysis of the LEX Comair 5191 Accident. Masters Thesis, Lund
+University, Sweden, June 2008.
+
+35-Donald A. Norman. The ‘problem’ with automation: Inappropriate feedback and interaction,
+not ‘over-automation’. In D.E. Broadbent, J. Reason, and A. Baddeley, editors, Human
+Factors in Hazardous Situations, pages 137-145, Clarendon Press, Oxford, 1990.
+
+35-Donald A. Norman. Categorization of action slips. Psychological Review, 88(1):1—15, January
+1981.
+
+35-Donald A. Norman. Design rules based on analyses of human error. Communications of the
+ACM, 26(4):254—-258, April 1983.
+
+35-D.A. Norman. Things that Make us Smart. Addison-Wesley Publishing Company, 1993.
+
+35-Dennis R. O’Connor. Report of the Walkerton Inquiry. Ontario Ministry of the Attorney
+General, 2002.
+
+35-Susan Okie. What Ails the FDA?. New England Journal of Medicine, 352(11):1063—1066,
+2005.
+
+35-J. Orisanu, J. Martin and J. Davison. Cognitive and Contextual Factors in Aviation Acci-
+dents: Decision Errors. in E. Salas and G. Klein (Eds.), Applications of Naturalistic Decision
+Making, Mahweh, N.J.: Lawrence Erlbaum Associates, 2007, pp. 209-225.
+
+35-149 Daniel Shuichiro Ota. Assuring Safety in High-Speed Magnetically Levitated (Maglev) Sys-
+tems: The Need for a System Safety Approach. MIT Master’s Thesis, May 2008.
+
+35-[150] Brandon Owens, Margaret Stringfellow, Nicolas Dulac, Nancy Leveson, Michel Ingham, and
+Kathryn Weiss. Application of a Safety-Driven Design Methodology to an Outer Planet
+Exploration Mission. 2008 IEEE Aerospace Conference, Big Sky, Montana, March 2008.
+
+35-[151] Elisabeth Pate-Cornell. Organizational aspects of engineering system safety: The case of
+offshore platforms. Science, 250:1210—-1217, 30 November 1990.
+
+35-[152] J.G. Pavlovich. Formal Report of the Investigation of the 30 April 1999 Titan IV B/Centaur
+TC-14/Milstar-3 (B32) Space Launch Mishap. U.S. Air Force, 1999.
+
+35-[153] Steven J. Pereira, Grady Lee, and Jeffrey Howard. A System-Theoretic Hazard Analysis
+Methodology for a Non-advocate Safety Assessment of the Ballistic Missile Defense System.
+AIAA Missile Sciences Conference, Monterey, CA, Nov. 2006.
+
+35-[154] Charles Perrow. Normal Accidents: Living with High-Risk Technology. Princeton University Press, 1999.
+
+35-[155] Charles Perrow. The habit of courting disaster. The Nation, pp. 346-356, October 1986.
+
+35-[156] Dan Petersen. Techniques of Safety Management. New York: McGraw-Hill Book Company, 1971.
+
+35-[157] William H. Pickering. Systems engineering at the Jet Propulsion Laboratory. In Ralph F. Miles Jr., editor, Systems Concepts: Lectures on Contemporary Approaches to Systems, pp.125-150, John F. Wiley & Sons, New York, 1973.
+
+35-158 Joan L. Piper. Chain of Events: The Government Cover-Up of the Black Hawk Incident and
+the Friendly Fire Death of Lt. Laura Piper. Brasseys Inc., 2001.
+
+35-159 Bruce Psaty and Richard A. Kronmal. Reporting mortality findings in trials of rofecoxib
+for Alzheimers or cognitive impairment: a case study based on documents from rofecoxib
+litigation. Journal of the American Medical Association, 299(15):1813, April 16 2008.
+
+35-160 Simon Ramo. The systems approach. In Ralph F. Miles Jr., editor, Systems Concepts:
+Lectures on Contemporary Approaches to Systems, pps. 13-32, John F. Wiley & Sons, New
+York, 1973.
+
+35-161 Jens Rasmussen. Approaches to the control of the effects of human error on chemical plant
+safety. In International Symposium on Preventing Major Chemical Accidents, American Inst.
+of Chemical Engineers, February 1987.
+
+35-162 J. Rasmussen. The Role of hierarchical knowledge representation in decision making and
+system management. [EEE Transactions on Systems, Man, and Cybernetics, vol. SMC-15,
+no. 2, March/April 1985, pp. 234-243.
+
+35-163 J. Rasmussen. Information Processing and Human-—Machine Interaction: An Approach to
+Cognitive Engineering. North Holland, 1986.
+
+35-164 J. Rasmussen. Mental models and the control of action in complex environments. In D. Ack-
+ermann and M.J. Tauber (eds.) Mental Models and Human-Computer Interaction, Elsevier
+(North-Holland), 1990, pp. 41-69.
+
+35-165 Jens Rasmussen. Human error and the problem of causality in analysis of accidents. In D.E.
+Broadbent, J. Reason, and A. Baddeley, editors, Human Factors in Hazardous Situations,
+pp. 1-12, Clarendon Press, Oxford, 1990.
+
+35-166 Jens Rasmussen. Risk Management in a Dynamic Society: A Modelling Problem. Safety
+Science, vol. 27, No. 2/3, Elsevier Science Ltd., 1997, pp. 183-213.
+
+35-167 Jens Rasmussen, Keith Duncan, and Jacques Leplat. New Technology and Human Error,
+John Wiley & Sons, New York, 1987.
+
+35-168 Jens Rasmussen, Annelise Mark Pejtersen, and L.P. Goodstein. Cognitive System Engineer-
+ing. John Wiley & Sons, 1994.
+
+35-169 Jens Rasmussen and Annelise Mark Pejtersen. Virtual ecology of work. In J. M. Flach,
+P. A. Hancock, K. Caird and K. J. Vicente, editors An Ecological Approach to Human
+Machine Systems I: A Global Perspective, Erlbaum, Hillsdale, New Jersey, 1995, pp. 121-156.
+
+35-170 Jens rasmussen and Inge Svedung. Proactive Risk Management in a Dynamic Society. Swedish
+Rescue Services Agency, 2000.
+
+35-171 James Reason. Human Error. Cambridge University Press, 1990.
+
+35-172 James Reason. Managing the Risks of Organizational Accidents. Hamphire, England: Ashgate
+Publishers, 1997.
+
+35-[173] Risk Management Pro Acceptable Risks. ABC Circle Films, shown on television, March 2,
+1986.
+
+35-[174] Karlene Roberts. Managing High Reliability Organizations. California Management Review,
+32(4):101-114, 1990.
+
+35-[175] Gene Rochlin, Todd LaPorte, and Karlene Roberts. The Self-Designing High Reliability
+Organization. Naval War College Review, Vol. 4094), Autumn, 1987, pp.76-—91.
+
+35-[176] Rodriguez, M., Katahira, M., de Villepin, M., and Leveson, N.G. Identifying Mode Confusion
+Potential in Software Design, Digital Aviation Systems Conference, Philadelphia, October 2000.
+
+35-[177] Rita Rubin. How did the Vioxx Debacle Happen’. USA Today, October 12, 2004.
+
+35-[178] Bertrand Russell. Authority and the Individual. Routledge, 1985, Second Edition.
+
+35-[179] Scott Sagan. The Limits of Safety. Princeton University Press, 1995.
+
+35-[180] Nadine Sarter and David Woods. How in the world did I ever get into that mode?: Mode error and awareness in supervisory control. Human Factors, Vol. 37, No. 1, November 1995, pp. 0-19.
+
+35-[181] Nadine N. Sarter and David Woods. Strong, silent, and out-of-the-loop. CSEL Report 95-
+TR-01, Ohio State University, February 1995.
+
+35-[182] Nadine Sarter, David D. Woods, and Charles E. Billings. Automation Surprises. in G.
+Salvendy (Ed.) Handbook of Human Factors and Ergonomics, 2nd Edition, Wiley, New York,
+1997, pp. 1926-1943.
+
+35-[183] Edgar Schein. Organizational Culture and Leadership. 2nd Edition, Sage Publications, 1986.
+
+35-[184] Peter M. Senge. The Fifth Discipline: The Art and Practice of Learning Organizations.
+Doubleday Currency, New York, 1990.
+
+35-[185] S. Shappell and D. Wiegmann. The Human Factors Analysis and Classification System—
+HFACS. Civil Aeromedical Medical Institute, Oklahoma City, OK, Office of Aviation
+Medicine Technical Report COT/FAA/AN-00/7, 2000.
+
+35-[186] Barry Sheen. Herald of Free Enterprise Report Marine Accident Investigation Branch, De-
+partment of Transport (originally Report of Court No 8074 Formal Investigation), HMSO,
+London, 1987.
+
+35-[187] Edgar Shein. Organizational Culture and Leadership. Jossey-Bass Publishers, 2004.
+
+35-[188] P. Shockley-Zabalek. Fundamentals of Organizational Communication. Boston: Allyn &
+Bacon, 2002.
+
+35-[189] Shiela Weiss Smith. Sidelining Safety—The FDA’s Inadequate Response to the IOM. New
+England Journal of Medicine, 357(10):960-963, 2007.
+
+35-[191] Spectrum Staff. Too Much, Too Soon. IEEE Spectrum, pages 51-55, June 1987.
+
+35-[192] Stephenson, A. Mars Climate Orbiter: Mishap Investigation Board Report. NASA, November 10, 1999.
+
+35-[193] John D. Sterman. Business Dynamics. McGraw-Hill, 2000.
+
+35-[194] Margaret Stringfellow. Human and Organizational Factors in Accidents , Ph.D. Dissertation,
+Aeronautics and Astronautics, MIT, 2010..
+
+35-[195] H.A.C. Swaanenburg, H.J. Swaga, and F. Duijnhouwer. The Evaluation of VDU-based Man-Machine Interfaces in Process Industry. in J. Ranta (Ed.), Analysis, Design, and Evaluation of Man-Machine Systems, pages 71-76, New York: Pergamon Press, 1989.
+
+35-[196] Donald H. Taylor. The role of human action in man—machine system errors. In Jens Rasmussen, Keith Duncan, and Jacques Leplat, editors, New Technology and Human Error, pp.287-292, John Wiley & Sons, New York, 1987.
+
+35-[197] J.R. Taylor. An Integrated Approach to the Treatment of Design and Specification Errors in
+Electronic Systems and Software. in E. Lauger and J. Moltoft (Eds.), Eurocon ’82, Reliability
+in Electrical and Electronic Components and Systems, Amsterdam: North Holland Publishing Co., 1982.
+
+35-[198] John Thomas and Nancy Leveson. Analyzing Human Behavior in Accidents. MIT Research Report, Engineering Systems Division, 2010.
+
+35-John Thomas and Nancy Leveson. Performing Hazard Analysis on Complex, Software- and
+Human-Intensive System. Annual Conference of the International System Safety Society, Las
+Vegas, August 2011.
+
+35-U.S. Government Accounting Office, Office of Special Investigations. Operation Provide
+Comfort: Review of Air Force Investigation of Black Hawk Fratricide Incident (GAO/T-OSI-
+98-13). U.S. Government Printing Office, Washington, D.C. 1997.
+
+35-Kim J. Vicente. A Field Study of Operator Cognitive Monitoring at Pickering Nuclear Gen-
+erating Station. Technical Report CEL 9504, Cognitive Engineering Laboratory, University
+of Toronto, 1995.
+
+35-Kim J. Vicente. Cognitive Work Analysis: Toward Safe, Productive, and Healthy Computer-
+Based Work. Erlbaum Associates, April 1999.
+
+35-K.J. Vicente and J. Rasmussen. Ecological interface design: Theoretical foundations. [KEE
+Trans. on Systems, Man, and Cybernetics, vol 22, No. 4, July/August 1992.
+
+35-Kenneth E.F. Watt. The Titanic Effect. Sinauer Associates, Inc., Stamford, Conn., 1974.
+
+35-205 Karl E. Weick. Organizational culture as a source of high reliability. California Management
+Review, 29(2):112-127, 1987.
+
+35-[206] Karl E. Weick, K. Sutcliffe, and D. Obstfeld. Organizing for high reliability. Research in
+Organizational Behavior, 21:81—-123, 1999.
+
+35-[207] Gerald Weinberg. An Introduction to General Systems Thinking. John Wiley & Sons, New York, 1975.
+
+35-[208] E.L. Weiner. Human Factors of Advanced Technology (“Glass Cockpit”) Transport Aircraft. NASA Contractor Report 177528, NASA Ames Research Center, June 1989.
+
+35-[209] Earl L. Weiner and Renwick E. Curry. Flight-deck automation: Promises and problems. Ergonomics, 23(10):995-1011, 1980.
+
+35-[210] Norbert Wiener. Cybernetics: or the Control and Communication in the Animal and the Machine. The MIT Press, 2nd Edition, 1965.
+
+35-[211] Kathryn A. Weiss. Building a Reusable Spacecraft Architecture using Component-Based System Engineering. MIT Master’s Thesis, August 2003.
+
+35-[212] Brian Wong. A STAMP Model of the Uberlingen Aircraft Collision Accident. S.M. Thesis, Aeronautics and Astronautics, MIT, 2004.
+
+35-[213] David D. Woods. Some results on operator performance in emergency events. in D. Whit-
+field (ed.), Ergonomic Problems in Process Operations, Institute of Chemical Engineering Symposium, Ser. 90, 1984.
+
+35-[214] David D. Woods. Lessons from beyond human error: Designing for resilience in the face of
+change and surprise. Design for Safety Workshop, NASA Ames Research Center, October 8-10, 2000.
+
+35-[215] Thomas Young (Chairman). Mars Program Independent Assessment Team Report. NASA, March 2000.
+
+35-[216] T. Cuyler Young. Man in Nature: Historical Perspectives on Man in His Environment. in
+Louis D. Levine (Ed.), Royal Ontario Museum, Toronto, 1975.
+
+35-[217] Caroline E. Zsambok and Gary Klein (Editors). Naturalistic Decision Making. Lawrence
+Erlbaum Associates, 1997.
 
 [36] Lipaczewski, M., Ortmeier, F., Prosvirnova, T., Rauzy, A., Struck, S., 2015. Comparison of modeling formalisms for safety analyses: SAML and Al- taRica. Reliability Engineering & System Safety (0), –.
 
