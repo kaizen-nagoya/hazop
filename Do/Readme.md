@@ -65,23 +65,50 @@ proposition
  AI
  non-AI
 
-# principle
+# principles
 
 constraints: do 3 times with different people, if more than 9 people
 
-goal: each person go to 30 % goal
+target: each person go to 30 % goal
+
+goal: clarify each goal. 
+1. Identify unexpected things.
+2. Assuming untested defects.
+3.
 
 method: do not explain without 3 times methods
 
 group: devide 3 group with their profile. 
 
-change: change procedure, people, target, or time.
+
+Rotation: 
+1. Each group consists of three people.
+2. After the first study, change back and forth respectively.
+3. After the second study, alos change back and forth respectively.
+
 
 no delete: do not delete whatever you said or wrote.
 
+classification: don't care about classification.
+ After the meeting, facilitator or recorder should reclassificate the result.
+ The reclassification should be recorded.
+
 small start: speak first who wrote small items.
+
+debriefing:　each group report most important issue, which other group has not reported.
+ If the most important issue is reported from other group, 2nd issue should report.
+
+Conclusion: facilitator conclude the meeting and gather the result.
+ If confidential matter are discussed, the treatment should be decided.
+ 
+
+Summurize:
 
 not declease guide word: 
 1.
 2.
 3. 
+
+use actual goods, photo, movie or chart(use case, sequence chart, state chart or timing chart) 
+
+change: change procedure, people, target, or time.
