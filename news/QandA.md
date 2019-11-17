@@ -1,3 +1,13 @@
+# basic
+
+What is HAZOP?
+https://www.quora.com/What-is-HAZOP
+
+What is HAZOP study?
+https://www.quora.com/What-is-HAZOP-study
+
+What is the full form of HAZOP?
+https://www.quora.com/What-is-HAZOP
 
 What are some ways to motivate people to attend HAZOP sessions?
 https://www.quora.com/What-are-some-ways-to-motivate-people-to-attend-HAZOP-sessions
@@ -5,11 +15,13 @@ https://www.quora.com/What-are-some-ways-to-motivate-people-to-attend-HAZOP-sess
 What is HAZOP and can you give some procedure for it?
 https://www.quora.com/What-is-HAZOP-and-can-you-give-some-procedure-for-it
 
-What is HAZOP?
-https://www.quora.com/What-is-HAZOP
 
-What is the full form of HAZOP?
-https://www.quora.com/What-is-HAZOP
+
+What free courses are available for HAZOP studies in the UK or online?
+https://www.quora.com/unanswered/What-free-courses-are-available-for-HAZOP-studies-in-the-UK-or-online
+
+# difference
+
 
 What is the difference of HAZOP and Risk Assessment?
 https://www.quora.com/What-is-the-difference-of-HAZOP-and-Risk-Assessment
@@ -22,14 +34,6 @@ https://www.quora.com/unanswered/What-is-the-difference-between-HAZOP-and-UMFMEA
 
 EPC: What are HSE and HAZOP goals and processes?
 https://www.quora.com/unanswered/EPC-What-are-HSE-and-HAZOP-goals-and-processes
-
-What is HAZOP study?
-https://www.quora.com/What-is-HAZOP-study
-
-What free courses are available for HAZOP studies in the UK or online?
-https://www.quora.com/unanswered/What-free-courses-are-available-for-HAZOP-studies-in-the-UK-or-online
-
-# difference
 
 What is the difference between HAZOP study and feasibility study?
 https://www.quora.com/unanswered/What-is-the-difference-between-HAZOP-study-and-feasibility-study
