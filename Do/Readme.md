@@ -130,7 +130,17 @@ change: change procedure, people, target, or time.
  
 4. It is not implemented because it is additional guide words that early and late, and before and after.
 
+# Question and Answer
 
+https://github.com/kaizen-nagoya/hazop/blob/master/news/QandA.md
+
+### basic
+
+### difference
+
+### how
+
+### domain
  
  
 
