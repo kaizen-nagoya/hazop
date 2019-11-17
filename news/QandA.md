@@ -46,6 +46,9 @@ https://www.quora.com/unanswered/What-is-the-difference-between-HAZID-and-HAZOP
 What is difference between HAZOP and JSA?
 https://www.quora.com/unanswered/What-is-difference-between-HAZOP-and-JSA
 
+Which training is good to do as an operation chemical engineer, HAZOP, PHA or OSHA? Which online sites are good for them?
+https://www.quora.com/Which-training-is-good-to-do-as-an-operation-chemical-engineer-HAZOP-PHA-or-OSHA-Which-online-sites-are-good-for-them
+
 
 # how
 
@@ -69,6 +72,9 @@ https://www.quora.com/unanswered/What-is-the-difference-between-process-safety-a
 
 Is there any scope for HAZOP study courses in India or online sources for the same?
 https://www.quora.com/unanswered/Is-there-any-scope-for-HAZOP-study-courses-in-India-or-online-sources-for-the-same
+
+Can the vessel test pressure be considered as a safeguard in the HAZOP for an over-pressure case?
+https://www.quora.com/unanswered/Can-the-vessel-test-pressure-be-considered-as-a-safeguard-in-the-HAZOP-for-an-over-pressure-case
 
 
 
