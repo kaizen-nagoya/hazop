@@ -1,5 +1,5 @@
 # Plan
-There are no plan or many plan.
+There are no plan or many plans before doing HAZOP.
 
 For Example
 http://aster.or.jp/workshops/insta2020/
