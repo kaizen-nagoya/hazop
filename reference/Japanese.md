@@ -70,7 +70,7 @@
 |  |  |  |
 | 2017 | 4 |  WEB予約システム(Javascript, PHP, WEBサーバ）, PYTHON教材on docker(PYTHON)PM |
 |  |  |  |
-| 2018 | 4 |  機械学習on docker(PYTHON, R)、工作機会制御盤(C,C++, C#)PG/PM |
+| 2018 | 4 |  機械学習on docker(PYTHON, R)、工作機械制御盤(C,C++, C#)PG/PM |
 |  |  |  |
 | 2019 | 4 |  量子アニーリング on docker(PYTHON) PG/PM |
 |  |  |  |
