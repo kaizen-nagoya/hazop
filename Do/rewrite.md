@@ -229,4 +229,16 @@ Techniques: teaching procedures that are employed with a particular method"
 方法：特定のやり方に基づいた設計。
 技法(techniques)：特定の方法で使用する手順。
 
+# Q8 motivation 
+What are some ways to motivate people to attend HAZOP sessions?
+https://www.quora.com/What-are-some-ways-to-motivate-people-to-attend-HAZOP-sessions
+
+# personal opinion
+
+1. Do something different from people.
+Feel own value.
+
+2. good for Three orthogonal directions such as 1st party, 2nd party and 3rd party.(Sampou Yhoshi).
+
+
 
