@@ -6,7 +6,7 @@ https://en.wikipedia.org/wiki/Hazard_and_operability_study
 of a complex planned or existing process or operation in order to identify and evaluate problems 
 that may represent risks to personnel or equipment."
 ハザードおよび操作性調査（HAZOP）は、人員または機器のリスクを表す可能性のある問題を特定および評価するための、
-複雑な計画済みまたは既存のプロセスまたは操作の体系的かつ体系的な検査です。
+複雑な計画済みまたは既存の処理（process)または操作の構造的かつ体系的な検査です。
 
 ## 2 iec 61882:2017
 "This standard describes the principles for and approach to guide word-driven risk identification. 
