@@ -95,8 +95,12 @@ For example, Hazop is very useful to information flow.
 
 So HAZOP is use for system include personnel, equipment and information.
 
-# Q6 defined system
+# Q6 planed and/or defined system
 Is Hazop limited to defined system?
+
+## planed and existing
+planed system is not existing system.
+
 
 ## 3 personal opinion
 Hazop is not limited to defined system.
