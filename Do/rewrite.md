@@ -22,6 +22,7 @@ This is a structured and systematic technique for examining a defined system, wi
 A Hazard and Operability study(HAZOP) is a structured and systematic risk identification method.
 Examination of a complex planned or existing operation and or system using 11 guide words, not limited a defined system.
 Before define a system, HAZOP guide words are useful.
+Hazop is not limited personel and equipment. It is useful all system including an abstruct system which consist of information only like a goal structured notation(GSN).
 
 # Q1 Case Study and the Case Method
 What is the difference between study and method.
