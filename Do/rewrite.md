@@ -78,7 +78,7 @@ Structure may have the relations of the elements in the object.
 
 Therefore system is typically dynamic and structure is typically satic.
 
-# Q4. process and operation
+# Q3. process and operation
 What is the difference between process and operation.
 
 ## ex.1 
@@ -93,8 +93,8 @@ Process: a sequence of operations (consisting of people, machines, materials, an
 過程：製品またはサービスの設計、製造、および配送のための一連の操作（人、機械、材料、および方法で構成）。
 
 
-# Q5 
-What is the difference between risk and problem.
+# Q4 risk and problem
+What is the difference between risk and problem?
 
 ## ex.1
 Risks or Problems – What’s the Difference?
@@ -115,7 +115,7 @@ A problem may have uncertain causes and/or uncertain effects.
 So problem analysis should be included risk analysis.
 If you want problem analysis, Hazop is very useful.
 
-# Q6 personnel or equipment.
+# Q5 personnel or equipment.
 Is Hazop limited to personnel or equipment?
 
 ##  personal opinion
@@ -124,7 +124,7 @@ For example, Hazop is very useful to information flow.
 
 So HAZOP is use for system include personnel, equipment and information.
 
-# Q7 planed and/or defined system
+# Q6 planed and/or defined system
 Is Hazop limited to defined system?
 
 ## planed and existing
