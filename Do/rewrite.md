@@ -84,3 +84,23 @@ Process: a sequence of operations (consisting of people, machines, materials, an
 過程：製品またはサービスの設計、製造、および配送のための一連の操作（人、機械、材料、および方法で構成）。
 
 
+# Q5 personnel or equipment.
+Is Hazop limited to personnel or equipment?
+
+## 3 personal opinion
+Hazop is not limited to personnel or equipment.
+For example, Hazop is very useful to information flow.
+
+So HAZOP is use for system include personnel, equipment and information.
+
+# Q6 defined system
+Is Hazop limited to defined system?
+
+## 3 personal opinion
+Hazop is not limited to defined system.
+
+For example, Hazop is very useful to define a system.
+"Before" is a Hazop guide word for a system.
+Before you define a system, Hazop analysis is the best technique.
+
+
