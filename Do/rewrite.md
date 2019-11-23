@@ -1,4 +1,12 @@
+IEC 61882 is the HAZOP standard.
+
 https://en.wikipedia.org/wiki/Hazard_and_operability_study
+
+The standard and wikipedia is not good for all systems.
+It may restricted some situations or usage.
+Hazop is an abstruct method and study for any systems.
+So you should try to understand more wide concept and usage.
+
 
 # HAZOP
 ## 1 wiki
