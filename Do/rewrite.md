@@ -17,8 +17,8 @@ This is a structured and systematic technique for examining a defined system, wi
 これは、構造化された体系的な手法で、以下の目的で、定義されたシステムを検査します。
 
 ## 3 my opinion
-A Hazard and Operability study(HAZOP) is a systematic and structured risk identification method.
-examination of a complex planned or existing operation 
+A Hazard and Operability study(HAZOP) is a structured and systematic risk identification method.
+Examination of a complex planned or existing operation 
 
 
 
