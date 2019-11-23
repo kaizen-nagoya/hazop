@@ -163,11 +163,24 @@ If you want problem analysis, Hazop is very useful.
 # Q5 personnel or equipment.
 Is Hazop limited to personnel or equipment?
 
+## ex.1 
+
+HAZOP Study
+https://www.thesafetymaster.com/training-certifications/hazop-study/
+
+"An introspective and extensive HAZOP Study (Hazard and Operational Study) is geared towards analyzing the existing process or daily operations in a working environment with the objective of identifying risks that could cause harm to personnel or damage equipment."
+
+試訳：
+
+内省的で広範なHAZOP研究（危険(hazard)および運用研究）は、作業員の危害や機器の損傷を引き起こす可能性のある恐れ(risk)を特定する目的で、作業環境における既存の過程(process)または日常業務の分析を対象としています。
+
+
 ##  personal opinion
 Hazop is not limited to personnel or equipment.
-For example, Hazop is very useful to information flow.
+More abstruct concepts could be used.
+For example, Hazop is used for information flow.
 
-So HAZOP is use for system include personnel, equipment and information.
+HAZOP is used for any system include personnel, equipment and information.
 
 # Q6 planed and/or defined system
 Is Hazop limited to defined system?
