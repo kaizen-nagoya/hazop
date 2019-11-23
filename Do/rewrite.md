@@ -1,3 +1,7 @@
+For answer the questions
+QandA.md
+https://github.com/kaizen-nagoya/hazop/blob/master/news/QandA.md
+
 IEC 61882 is the HAZOP standard.
 
 https://en.wikipedia.org/wiki/Hazard_and_operability_study
