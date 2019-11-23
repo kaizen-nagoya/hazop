@@ -18,7 +18,7 @@ This is a structured and systematic technique for examining a defined system, wi
 歴史的に、この恐れ(risk)識別のやり方は危険(hazard)操作性調査または略してHAZOP調査と呼ばれてきました。
 これは、構造化された体系的な手法で、以下の目的で、定義されたシステムを検査します。
 
-## 3 my opinion
+##  my opinion
 A Hazard and Operability study(HAZOP) is a structured and systematic risk identification method.
 Examination of a complex planned or existing operation and or system using 11 guide words, not limited a defined system.
 Before define a system, HAZOP guide words are useful.
@@ -51,7 +51,7 @@ http://thetrainingworld.com/faq/casemethod.htm
 後者は学習者の関与がより多く、事後分析ではなく積極的な問題解決を強制します。
 
 
-##3 my opinion
+## personal opinion
 Case study may use case method. Case Study is processes for the problem solving. 
 At some processes in case study, case method should be used.
 
@@ -69,7 +69,7 @@ organized while systematic is carried out using a planned, ordered procedure. "
 形容詞として、構造化と体系化の違いは、構造化が構造を持っていることです。 
 計画的で順序付けられた手順を使用して体系的に実行しながら組織化されます。
 
-## 3. may opinion
+##  personal opinion
 Structured is having structure and systematic is having system.
 Then Waht is the difference between structure and system.
 
@@ -110,7 +110,7 @@ https://svprojectmanagement.com/risks-or-problems-whats-the-difference
 1. risk is uncertain and problem is certain.
 2. risk is positive and/or netagive. problem is negative.
  
-## 3 personal opinion.
+##  personal opinion.
 A problem may have uncertain causes and/or uncertain effects.
 So problem analysis should be included risk analysis.
 If you want problem analysis, Hazop is very useful.
@@ -118,7 +118,7 @@ If you want problem analysis, Hazop is very useful.
 # Q6 personnel or equipment.
 Is Hazop limited to personnel or equipment?
 
-## 3 personal opinion
+##  personal opinion
 Hazop is not limited to personnel or equipment.
 For example, Hazop is very useful to information flow.
 
@@ -131,7 +131,7 @@ Is Hazop limited to defined system?
 planed system is not existing system.
 
 
-## 3 personal opinion
+## personal opinion
 Hazop is not limited to defined system.
 
 For example, Hazop is very useful to define a system.
