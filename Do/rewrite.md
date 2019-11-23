@@ -2,16 +2,16 @@ https://en.wikipedia.org/wiki/Hazard_and_operability_study
 
 # HAZOP
 ## 1 wiki
-A hazard and operability study (HAZOP) is a structured and systematic examination 
+"A hazard and operability study (HAZOP) is a structured and systematic examination 
 of a complex planned or existing process or operation in order to identify and evaluate problems 
-that may represent risks to personnel or equipment.
+that may represent risks to personnel or equipment."
 ハザードおよび操作性調査（HAZOP）は、人員または機器のリスクを表す可能性のある問題を特定および評価するための、
 複雑な計画済みまたは既存のプロセスまたは操作の体系的かつ体系的な検査です。
 
 ## 2 iec 61882:2017
-This standard describes the principles for and approach to guide word-driven risk identification. 
+"This standard describes the principles for and approach to guide word-driven risk identification. 
 Historically this approach to risk identification has been called a hazard and operability study or HAZOP study for short. 
-This is a structured and systematic technique for examining a defined system, with the objectives of:
+This is a structured and systematic technique for examining a defined system, with the objectives of:"
 この規格は、言葉による恐れ(risk)識別を導くための原則とやり方を説明しています。 
 歴史的に、この恐れ(risk)識別のやり方は危険(hazard)操作性調査または略してHAZOP調査と呼ばれてきました。
 これは、構造化された体系的な手法で、以下の目的で、定義されたシステムを検査します。
@@ -40,7 +40,8 @@ and the latter from the perspective of the lecturer. "
 Is there a difference between the case method and a case study?
 http://thetrainingworld.com/faq/casemethod.htm
 
-The latter is more involving for learners, and forces them into proactive problem-solving rather than posthoc analysis.
+"The latter is more involving for learners, and forces them into proactive problem-solving rather than posthoc analysis."
+
 後者は学習者の関与がより多く、事後分析ではなく積極的な問題解決を強制します。
 
 
