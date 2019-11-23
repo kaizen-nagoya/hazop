@@ -7,7 +7,7 @@ What is HAZOP study?
 https://www.quora.com/What-is-HAZOP-study
 
 What is the full form of HAZOP?
-https://www.quora.com/What-is-HAZOP
+https://www.quora.com/What-is-the-full-form-of-HAZOP
 
 What are some ways to motivate people to attend HAZOP sessions?
 https://www.quora.com/What-are-some-ways-to-motivate-people-to-attend-HAZOP-sessions
