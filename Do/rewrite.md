@@ -5,7 +5,8 @@ https://en.wikipedia.org/wiki/Hazard_and_operability_study
 "A hazard and operability study (HAZOP) is a structured and systematic examination 
 of a complex planned or existing process or operation in order to identify and evaluate problems 
 that may represent risks to personnel or equipment."
-ハザードおよび操作性調査（HAZOP）は、人員または機器のリスクを表す可能性のある問題を特定および評価するための、
+
+危険(hazard)および操作性調査（HAZOP）は、人員または機器の恐れ(risk)を表す可能性のある問題を特定および評価するための、
 複雑な計画済みまたは既存の処理（process)または操作の構造的かつ体系的な検査です。
 
 ## 2 iec 61882:2017
