@@ -60,11 +60,11 @@ References
 [3] Seryi, A.A., Seraia, E.I., “Inventing Instruments of Future Science”, URSS Publishing company. In Russian. Published in June 2016, ISBN 978-5-9710-3185-7, (2016).
 
 # 3
-arXiv:1404.6756  [pdf]   cs.HC  
+arXiv:1404.6756 https://arxiv.org/abs/1404.6756 [pdf]   cs.HC  
 doi 10.2139/ssrn.949244 
 Inventions on Tree Navigators used in Graphical User Interface
 Authors: Umakant Mishra
-Abstract: …selected from US patent database. Each of them tries to solve various problems relating to the tree navigator in different ways. Each invention is also analyzed from a TRIZ perspective. ▽ More
+Abstract: …selected from US patent database. Each of them tries to solve various problems relating to the tree navigator in different ways. Each invention is also analyzed from a TRIZ perspective.
 Submitted 27 April, 2014; originally announced April 2014.
 Comments: 7 pages, 4 figures. Umakant Mishra, Inventions on Tree Navigators Used in Graphical User Interface. (December 6, 2006), Available at SSRN: http://ssrn.com/abstract=949244
 
@@ -86,7 +86,7 @@ assigned by IBM, issued Jan 2001
 7. US Patent and Trademark Office (USPTO) site, http://www.uspto.gov/
 
 # 4
-arXiv:1404.6754  [pdf]   cs.HC  
+arXiv:1404.6754 https://arxiv.org/abs/1404.6754 [pdf]   cs.HC  
 doi 10.2139/ssrn.949247 
 Inventions on dialog boxes used in GUI
 Authors: Umakant Mishra
@@ -94,7 +94,22 @@ Abstract: …US Patent database. Each invention tries to overcome some limitatio
 Submitted 27 April, 2014; originally announced April 2014.
 Comments: Available at SSRN: http://ssrn.com/abstract=949247. Mishra, Umakant, Inventions on Dialog Boxes Used in GUI, (December 6, 2006)
 
-arXiv:1404.6750  [pdf]   cs.HC  
+### Reference:
+1. US Patent 5821932, “Dynamic dialog box facility for graphical user interface for computer system video display”, invented by William Pittore, Assigned by Sun Microsystems, Oct 1998.
+
+2. US Patent 6061059, “Method of providing preview capability to a dialog box”, invented by Taylor et al., assigned by Adobe Systems Incorporated, may 2000.
+
+3. US Patent 6091415, “System and method for displaying multiple dialog boxes in a window display”, invented by Chang et al., assigned by Inventec Corporation, issued July 2000.
+
+4. US Patent 6118451, “Apparatus and method for controlling dialog box display and system interactivity in a computer-based system”, invented by Alexander, assignee Agilent Technologies, assigned Sep 2000.
+
+5. US Patent 6414699, “Message box facility for graphical user interface for computer system video display”, invented by Pittore, assigned by Sun Microsystems, issued Jul 2002.
+
+6. US Patent and Trademark Office (USPTO) site, http://www.uspto.gov/
+ 
+
+# 5
+arXiv:1404.6750 https://arxiv.org/abs/1404.6750 [pdf] cs.HC  
 doi 10.2139/ssrn.949240 
 10 Inventions on Command Buttons in a Graphical User Interface
 Authors: Umakant Mishra
@@ -103,6 +118,32 @@ Submitted 27 April, 2014; originally announced April 2014.
 Comments: 12 pages
 Journal ref: Mishra, Umakant, 10 Inventions on Command Buttons in a Graphical User Interface, (December 6, 2006) Available at SSRN: http://ssrn.com/abstract=949240
 
+###Reference:
+
+1. US Patent 5617527, “Method for adding a graphical user interface to a command line application”, invented by Kressin et al., assigned to IBM, issued April 1997.
+
+2. US Patent 5694562, “Closely integrated key icons in a graphical interface”, invented by Thomas Fisher, issued Dec 1997.
+
+3. US Patent 5736985, “GUI pushbutton with multi-function mini-button”, invented by Lection et al., assigned by IBM, issued Apr 1998.
+10 Inventions on Command Buttons in a GUI by Umakant Mishra
+
+4. US Patent 5748927, “Graphical user interface with icons having expandable descriptors”, Invented by Stein et al., Assigned to Apple Computers, May 98.
+
+5. US Patent 5828376, “Menu control in a graphical user interface”, Invented by Solimene et al., Assigned to J.D. Edwards World Source Company, Oct 98.
+
+6. US Patent 5838316, “Method and system for presenting a plurality of animated display objects to a user for selection on a graphical user interface in a data processing system”, invented by Arruza, assigned by IBM, Nov 1998.
+
+7. US Patent 5880729, “Graphical user interfaces having animated control elements”, invented by Johnston Jr., et al., assigned by Apple Computer Inc., issued Mar 1999.
+
+8. US Patent 6091416, “Method, apparatus and computer program product for graphical user interface control and generating a multitool icon”, invented by Cragun, assigned by IBM, Jul 2000.
+
+9. US Patent 6384849, “Method for displaying controls in a system using a graphical user interface”, invented by Marcos et al., Assigned to Microsoft, May 02
+
+10. US Patent 6535229, “Graphical user interface for selection of options within mutually exclusive subsets”, (invented by Kraft, assigned to IBM, issued March 2003.
+
+11. US Patent and Trademark Office (USPTO) site, http://www.uspto.gov/
+ 
+# 6
 arXiv:1404.6747  [pdf]   cs.HC  
 doi 10.2139/ssrn.1264683 
 10 inventions on Improving Toolbars: A TRIZ based analysis
@@ -111,6 +152,31 @@ Abstract: …the item he is looking for. This article explores the desired featu
 Submitted 27 April, 2014; originally announced April 2014.
 Comments: 15 pages
 Journal ref: Mishra, Umakant, 10 Inventions on Improving Toolbars: A TRIZ Based Analysis (September 7, 2007). Available at SSRN: http://ssrn.com/abstract=1264683
+
+Reference:
+
+1. US Patent 5572648, “System for simultaneously displaying a static tool palette having predefined windowing tool functions and a dynamic tool palette which changes windowing tool functons in accordance with a context of an executed application program”, Invented by Bibayan, Assigned to Canon Kabushiki, Nov 96.
+
+2. US Patent 5644739, “Method and system for adding buttons to a toolbar”, Invented by Elizabeth Moursund, Assigned to Microsoft Corporation, Jul 97.
+
+3. US Patent 5644737, “Method and system for stacking toolbars in a computer display”, invented by Tuniman et al., Microsoft Corporation, July 1997.
+
+4. US Patent 5914716, “Sliding out interface”, invented by Rubin et al, assigned to Microsoft Corporation, Jun 99.
+
+5. US Patent 6057836, “System and method for resizing and rearranging a composite toolbar by direct manipulation”, invented by Kavalam et al., Assigned to Microsoft Corporation, May 2000
+
+6. US Patent 6133915, “System and method for customizing controls on a toolbar”, invented by Aurcuri et al., Assigned to Microsoft, Oct 2000.
+
+7. US Patent 6232972, “Method for dynamically displaying controls in a toolbar display based on control usage”, Invented by Arcuri, et al., assigned to Microsoft, in May 01
+
+8. US Patent 6456304, “Procedural toolbar user interface”, Invented by Angiulo et al, Assigned to Microsoft, Sep 2002
+
+9. US Patent 6621532, “Easy method of dragging pull-down menu items onto a toolbar”, invented by Mandt, assigned to IBM, Sep 03 (Menu Article)
+10. US Patent 6624831, “System and process for generating a dynamically adjustable toolbar”, Invented by Shahine, et al., assigned to Microsoft, Sept 2003.
+11. US Patent and Trademark Office (USPTO) site, http://www.uspto.gov/
+ 10 Inventions on improving Toolbars by Umakant Mishra
+ 
+# 7
 
 arXiv:1404.6745  [pdf]   cs.HC  
 doi 10.2139/ssrn.949236 
