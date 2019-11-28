@@ -229,30 +229,55 @@ Comments: 6 pages, the paper is accepted to 9th IEEE International Conference on
 Journal ref: Proceedings of 9th IEEE International Conference on Nano/Micro Engineered and Molecular Systems (IEEE-NEMS 2014) April 13-16, 2014,Hawaii,USA, pp 102-107
 
 ### REFERENCES
+
 [1] Naser El-Sheimy and Xiaoji Niu, “The Promise of MEMS to the Navigation Community”, InsideGNSS, March-April 2007
+
 [2] Genrich Altshuller, And Suddenly the Inventor Appeared, Translated by Lev Shulyak, Worcester, MA: Technical Innovation Center, 1994
+
 [3] Harvey Weinberg, “Gyro Mechanical Performance: The Most Important Parameter”, Analog Devices Inc., Technical Article MS-2158, http://www.analog.com/static/imported- files/tech_articles/MS-2158.pdf
+
 [4] Yigiter Yuksel, Naser El-Sheimy, and Aboelmagd Noureldin, “Error Modeling and Characterization of Environmental Effects for Low Cost Inertial MEMS Units”, IEEE/ION Position Location and Navigation Symposium (PLANS), 4-6 May 2010
+
 [5] Y. Yuksel, N. El-Sheimy and A. Nouerldin, “A New Autoregressive Error Modeling Method Based on Wavelet Decomposition for MEMS Inertial Sensors”, 22nd International Meeting of the Satellite Division of The Institute of Navigation, Savannah, GA, 22-25 September 2009
+
 [6]Honglong Chang, Liang Xue, Wei Qin, Guangmin Yuan, and Weizheng Yuan, “An Integrated MEMS Gyroscope Array with Higher Accuracy Output”, Sensors, vol. 8, pp. 2886-2899, 2008
+
 [7] Rumen Arnaudov, Yasen Angelov, “Improvement in the Method for Bias Drift Compensation in Micromechanical Gyroscopes”, Radioengineering, vol. 14, N. 2, JUNE 2005
+
 [8] Hakyoung Chung, Lauro Ojeda, and Johann Borenstein, “Sensor fusion for Mobile Robot Dead-reckoning With a Precision- calibrated Fiber Optic Gyroscope”, IEEE International Conference on Robotics and Automation, Seoul, Korea, pp. 3588-3593, 21-26 May 2001.
+
 [9] Lauro Ojeda, Hakyoung Chung, and Johann Borenstein, “Precision- calibration of Fiber-optics Gyroscopes for Mobile Robot Navigation”, Proceedings of the 2000 IEEE International Conference on Robotics and Automation, San Francisco, CA, pp. 2064-2069, 24-28 April 2000.
+
 [10] Sung Kyung Hong and Young-sun Ryuh, “Heading Measurements for Indoor Mobile Robots with Minimized Drift using a MEMS Gyroscopes”, Robot Localization and Map Building, 2010
+
 [11]Sung Kyung Hong and Sungsu Park, “Minimal-Drift Heading Measurement using a MEMS Gyro for Indoor Mobile Robots”, Sensors, vol. 8, pp. 7287-7299, 2008
+
 [12] Gyro sensors ST L3GD20 specifications.
+
 [13] Johann Borenstein and Lauro Ojeda, “Heuristic reduction of gyro drift in vehicle tracking applications”, Int. J. of Vehicle Autonomous Systems, vol. 2, N. 1/2, 2009, pp. 78-98 (Tracking, Proceedings of the the SPIE Defense, Security + Sensing, Conference 7305: Sensors, and Command, Control, Communications, and Intelligent (C3I) Technologies for Homeland Security and Homeland Defense VIII, Proc. SPIE Vol. 7305, Orlando, FL, April 2009
+
 [14] Johann Borenstein and Lauro Ojeda, Heuristic Drift Elimination for Personnel Tracking Systems, THE JOURNAL OF NAVIGATION (2010), 63, 591–606
+
 [15]Johann Borenstein, Lauro Ojeda, and Surat Kwanmuang, “Heuristic Reduction of Gyro Drift in IMU-based Personnel Tracking Systems” the SPIE Defense, Security + Sensing, Conference 7306A: Optics and Photonics in Global Homeland Security V, Orlando, FL, April 13-17, 2009. Reference: Proc. SPIE Vol 7306A
+
 [16]Johann Borenstein, Lauro Ojeda, and Surat Kwanmuang, “Heuristic Reduction of Gyro Drift For Personnel Tracking Systems”, Journal of Navigation, vol .62, No 1, pp. 41-58, January 2009
+
 [17] Huaming Qian, Quanxi Xia, Biao Liu, Di An, and Xuefeng Peng, “Fuzzy Heuristic Reduction of Gyro Drift in Gyrobased Mobile Robot Tracking”, IEEE International Conference on information Engineering and Computer Science, 2009
+
 [18] Billur Barshan and Hugh F. Durrant-Whyte, “Evaluation of a Solid- state Gyroscope for Robotics Applications”, IEEE Transactions on Instrumentation and Measurement, vol. 44, N. 1, February 1994.
+
 [19]Katsu Yonezawa and Reduced-Order Kalman “Filtering with Incomplete Observability”, J. guidance and control, vol. 3, N. 3, p. 280
+
 [20] Vaibhav Saini, S C Rana, MM Kuber, “Online Estimation of State Space Error Model for MEMS IMU”, Journal of Modelling and SimulationofSystems,Vol.1,Iss.4, pp.219-225,2010
+
 [21] Quang M. Lam, Nick Stamatakos, Craig Woodruff, and Sandy Ashton “Gyro Modeling and Estimation of Its Random Noise Sources”, AIAA Guidance, Navigation and Control Conference and Exhibit, Austin, Texas, 14 August 2003.
+
 [22] Quang M. Lam, Tomas Wilson Jr., Ronald Contillo, and Darrin Buck, “Enhancing MEMS Sensor Accuracy Via Random Noise Charactirization and Calibration, Sensors, and Command, Control, Communications, and Intelligence (C3I) Technologies for Homeland Security and Homeland Defense III, E. M. Carapezza, ed., Proc. of SPIE Vol. 5403, SPIE, Bellingham, WA, 2004
+
 [23]Quang M. Lam, Jonathan Lakso, Teresa Hunt, and Peter Vanderham, “Enhancing Attitude Estimation Accuracy Via System Noise Optimization”, Sensors, and Command, Control, Communications, and Intelligence (C3I) Technologies for Homeland Security and Homeland Defense III, E. M. Carapezza, ed., Proc. of SPIE Vol. 5403, SPIE, Bellingham, WA, 2004
+
 [24]Quang M. Lam and John L. Crassidis, “Precision Attitude Determination Using a Multiple Model Adaptive Estimation Scheme”, IEEE Aerospace Conference, paper #1439, Version 8, Updated Dec 8, 2006
+
 [25] Johann Borenstein, Adam Borrell, Russ Miller, David Thomas, “Heuristics-enhanced Dead-reckoning (HEDR) for Accurate Position Tracking of Tele-operated UGVs”, Proceedings of the SPIE Defense, Security + Sensing; Unmanned Systems Technology XII, Conference DS117: Unmanned, Robotic, and Layered Systems. Orlando, FL, April 5-9, 2010
 
 # 9
