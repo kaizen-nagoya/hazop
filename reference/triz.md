@@ -12,44 +12,52 @@ Comments: 4 pages, 1 figure, Conference Proceedings of NAPAC 2016
 
 [1] A. Seryi, “Unifying physics of accelerators, lasers and plasma”, CRC Press, 2015, https://www.crcpress.com/ Unifying-Physics-of-Accelerators-Lasers-and- Plasma/Seryi/p/book/9781482240580.
 
-[2] E. Seraia and A. Seryi, “Accelerating Science TRIZ inventive methodology in illustrations”, arXiv:1608.00536, http:// arxiv.org/abs/1608.00536.
+[2] E. Seraia and A. Seryi, “Accelerating Science TRIZ inventive methodology in illustrations”, arXiv:1608.00536, http://arxiv.org/abs/1608.00536.
 
-[3] T.TajimaandJ.M.Dawson,“LaserElectronAccelerator”, Phys. Rev. Lett. 43, pp.267-270, 1979, http://link.aps. org/doi/10.1103/PhysRevLett.43.267.
+[3] T.TajimaandJ.M.Dawson,“LaserElectronAccelerator”, Phys. Rev. Lett. 43, pp.267-270, 1979, http://link.aps.org/doi/10.1103/PhysRevLett.43.267.
 
-[4] A. Pukhov and J. Meyer-Ter-Vehn, “Laser wake field accelera- tion: the highly non-linear broken-wave regime”, Appl. Phys. B 74, pp.355-361, 2002, http://dx.doi.org/10.1007/ s003400200795.
+[4] A. Pukhov and J. Meyer-Ter-Vehn, “Laser wake field accelera- tion: the highly non-linear broken-wave regime”, Appl. Phys. B 74, pp.355-361, 2002, http://dx.doi.org/10.1007/s003400200795.
 
 [5] S.P.D.Manglesetal.,“Monoenergeticbeamsofrelativistic electrons from intense laser-plasma interactions”, Nature 431, 535, 2004, http://dx.doi.org/10.1038/nature02939
 
-[6] C.G.R.Geddesetal.,“High-qualityelectronbeamsfroma laser wakefield accelerator using plasma-channel guiding”, Nature 431, 538, 2004, http://dx.doi.org/10.1038/ nature02900
+[6] C.G.R.Geddesetal.,“High-qualityelectronbeamsfroma laser wakefield accelerator using plasma-channel guiding”, Nature 431, 538, 2004, http://dx.doi.org/10.1038/nature02900
 
 [7] V. Yanovsky et al., “Ultra-high intensity 300-TW laser at 0.1 Hz repetition rate”, Vol. 16, Issue 3, pp. 2109-2114, 2008, http://dx.doi.org/10.1364/OE.16.002109,
 
-[8] E.Esareyetal.,“Physicsoflaser-drivenplasma-basedelec- tron accelerators”, Rev. Mod. Phys. 81, 1229, http://dx. doi.org/10.1103/RevModPhys.81.1229.
+[8] E.Esareyetal.,“Physicsoflaser-drivenplasma-basedelec- tron accelerators”, Rev. Mod. Phys. 81, 1229, http://dx.doi.org/10.1103/RevModPhys.81.1229.
 
-[9] W. P. Leemans et al., “Multi-GeV Electron Beams from Capillary-Discharge-Guided Subpetawatt Laser Pulses in the Self-Trapping Regime”, Phys. Rev. Lett. 113, 245002, http: //dx.doi.org/10.1103/PhysRevLett.113.245002.
+[9] W. P. Leemans et al., “Multi-GeV Electron Beams from Capillary-Discharge-Guided Subpetawatt Laser Pulses in the Self-Trapping Regime”, Phys. Rev. Lett. 113, 245002, http://dx.doi.org/10.1103/PhysRevLett.113.245002.
 
-[10] S. Kneip et al., “Near-GeV Acceleration of Elec- trons by a Nonlinear Plasma Wave Driven by a Self- Guided Laser Pulse”, Phys. Rev. Lett. 103, 035002, http://journals.aps.org/prl/abstract/10.1103/ PhysRevLett.103.035002.
+[10] S. Kneip et al., “Near-GeV Acceleration of Elec- trons by a Nonlinear Plasma Wave Driven by a Self- Guided Laser Pulse”, Phys. Rev. Lett. 103, 035002, http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.103.035002.
 
 [11] H. Grote and F. Schmidt, “MAD-X – An Upgrade from MAD8”, CERN-AB-2003-024 ABP.
 
-[12] N. A. Mezentsev, “Survey of superconducting inser- tion devices for light sources”, Proceedings of 2005 Particle Accelerator Conference, Knoxville, Tennessee, http://accelconf.web.cern.ch/AccelConf/p05/ PAPERS/TOAA003.PDF.
+[12] N. A. Mezentsev, “Survey of superconducting inser- tion devices for light sources”, Proceedings of 2005 Particle Accelerator Conference, Knoxville, Tennessee, http://accelconf.web.cern.ch/AccelConf/p05/PAPERS/TOAA003.PDF.
 
-[13] Y. Ivanyushenkov et al., “Development and operating experience of a short-period superconducting undulator at the Advanced Photon Source”, Phys. Rev. ST Ac- cel. Beams 18, 040703, http://dx.doi.org/10.1103/ PhysRevSTAB.18.040703.
+[13] Y. Ivanyushenkov et al., “Development and operating experience of a short-period superconducting undulator at the Advanced Photon Source”, Phys. Rev. ST Ac- cel. Beams 18, 040703, http://dx.doi.org/10.1103/PhysRevSTAB.18.040703.
 
 [14] S. Semushin and V. Malka, “High density gas jet nozzle design for laser target production”, Review of Scientific In- struments 72, 2961, 2001, http://dx.doi.org/10.1063/ 1.1380393
 
-[15] A. A. Sahai, “Beam interaction with Plasma-Vacuum inter- face”, CLIC Experimental & Breakdown Studies Meeting, August 2013., http://indico.cern.ch/event/269506/ contributions/607723/
+[15] A. A. Sahai, “Beam interaction with Plasma-Vacuum inter- face”, CLIC Experimental & Breakdown Studies Meeting, August 2013., http://indico.cern.ch/event/269506/contributions/607723/
 
-[16] A. Rousse et al., “Production of a keV X-ray beam from synchrotron radiation in relativistic laser-plasma interaction”, Phys. Rev. Lett. 93, 135005, 2004, http://dx.doi.org/ 10.1103/PhysRevLett.93.135005.
+[16] A. Rousse et al., “Production of a keV X-ray beam from synchrotron radiation in relativistic laser-plasma interaction”, Phys. Rev. Lett. 93, 135005, 2004, http://dx.doi.org/10.1103/PhysRevLett.93.135005.
 
 [17] M. Abd-Elmeguid et al., “TESLA, Technical Design Report”.
 
 # 2
-arXiv:1608.00536  [pdf, other]   physics.ed-ph
+arXiv:1608.00536 https://arxiv.org/abs/1608.00536 [pdf, other]   physics.ed-ph
 Accelerating Science TRIZ inventive methodology in illustrations
 Authors: Elena Seraia, Andrei Seryi
 Abstract: Theory of Inventive Problem Solving (TRIZ) is a powerful tool widely used in engineering community. It is based on identification of a physical contradiction in a problem, and based on the corresponding pair of contradicting parameters selecting a few of suitable inventive principles, narrowing down the choice and leading to a much faster solution of a probl… ▽ More
 Submitted 29 July, 2016; originally announced August 2016.
+
+References
+
+[1] Altshuller, G., “Innovation Algorithm: TRIZ, systematic innovation and technical creativity”, first ed. Worcester, MA: Technical Innovation Cen- ter, Inc. (1999).
+
+[2] Seryi, A., “Unifying Physics of Accelerators, Lasers and Plasma”, CRC Press, Taylor & Francis Group, (2015).
+
+[3] Seryi, A.A., Seraia, E.I., “Inventing Instruments of Future Science”, URSS Publishing company. In Russian. Published in June 2016, ISBN 978-5-9710-3185-7, (2016).
 
 # 3
 arXiv:1404.6756  [pdf]   cs.HC  
