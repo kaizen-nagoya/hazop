@@ -1,18 +1,57 @@
 search TRIZ at arXiv.
 
-arXiv:1610.05699  [pdf, other]   physics.acc-ph
+# 1
+arXiv:1610.05699 https://arxiv.org/abs/1610.05699 [pdf, other]   physics.acc-ph
 Compact ring-based X-ray source with on-orbit and on-energy laser-plasma injection
 Authors: Marlene Turner, Jeremy Cheatam, Auralee Edelen, James Gerity, Andrew Lajoie, Gerard Lawler, Osip Lishilin, Kookjin Moon, Aakash Ajit Sahai, Andrei Seryi, Kai Shih, Brandon Zerbe
 Abstract: …laser-plasma accelerator. We performed these studies during the June 2016 USPAS class "Physics of Accelerators, Lasers, and Plasma..." applying the art of inventiveness TRIZ. We describe three versions of the light source with the constraints of the electron beam with energy 1GeV or 3GeV and a magnetic lattice design being normal co… ▽ More
 Submitted 17 October, 2016; originally announced October 2016.
 Comments: 4 pages, 1 figure, Conference Proceedings of NAPAC 2016
 
+### REFERENCES
+
+[1] A. Seryi, “Unifying physics of accelerators, lasers and plasma”, CRC Press, 2015, https://www.crcpress.com/ Unifying-Physics-of-Accelerators-Lasers-and- Plasma/Seryi/p/book/9781482240580.
+
+[2] E. Seraia and A. Seryi, “Accelerating Science TRIZ inventive methodology in illustrations”, arXiv:1608.00536, http:// arxiv.org/abs/1608.00536.
+
+[3] T.TajimaandJ.M.Dawson,“LaserElectronAccelerator”, Phys. Rev. Lett. 43, pp.267-270, 1979, http://link.aps. org/doi/10.1103/PhysRevLett.43.267.
+
+[4] A. Pukhov and J. Meyer-Ter-Vehn, “Laser wake field accelera- tion: the highly non-linear broken-wave regime”, Appl. Phys. B 74, pp.355-361, 2002, http://dx.doi.org/10.1007/ s003400200795.
+
+[5] S.P.D.Manglesetal.,“Monoenergeticbeamsofrelativistic electrons from intense laser-plasma interactions”, Nature 431, 535, 2004, http://dx.doi.org/10.1038/nature02939
+
+[6] C.G.R.Geddesetal.,“High-qualityelectronbeamsfroma laser wakefield accelerator using plasma-channel guiding”, Nature 431, 538, 2004, http://dx.doi.org/10.1038/ nature02900
+
+[7] V. Yanovsky et al., “Ultra-high intensity 300-TW laser at 0.1 Hz repetition rate”, Vol. 16, Issue 3, pp. 2109-2114, 2008, http://dx.doi.org/10.1364/OE.16.002109,
+
+[8] E.Esareyetal.,“Physicsoflaser-drivenplasma-basedelec- tron accelerators”, Rev. Mod. Phys. 81, 1229, http://dx. doi.org/10.1103/RevModPhys.81.1229.
+
+[9] W. P. Leemans et al., “Multi-GeV Electron Beams from Capillary-Discharge-Guided Subpetawatt Laser Pulses in the Self-Trapping Regime”, Phys. Rev. Lett. 113, 245002, http: //dx.doi.org/10.1103/PhysRevLett.113.245002.
+
+[10] S. Kneip et al., “Near-GeV Acceleration of Elec- trons by a Nonlinear Plasma Wave Driven by a Self- Guided Laser Pulse”, Phys. Rev. Lett. 103, 035002, http://journals.aps.org/prl/abstract/10.1103/ PhysRevLett.103.035002.
+
+[11] H. Grote and F. Schmidt, “MAD-X – An Upgrade from MAD8”, CERN-AB-2003-024 ABP.
+
+[12] N. A. Mezentsev, “Survey of superconducting inser- tion devices for light sources”, Proceedings of 2005 Particle Accelerator Conference, Knoxville, Tennessee, http://accelconf.web.cern.ch/AccelConf/p05/ PAPERS/TOAA003.PDF.
+
+[13] Y. Ivanyushenkov et al., “Development and operating experience of a short-period superconducting undulator at the Advanced Photon Source”, Phys. Rev. ST Ac- cel. Beams 18, 040703, http://dx.doi.org/10.1103/ PhysRevSTAB.18.040703.
+
+[14] S. Semushin and V. Malka, “High density gas jet nozzle design for laser target production”, Review of Scientific In- struments 72, 2961, 2001, http://dx.doi.org/10.1063/ 1.1380393
+
+[15] A. A. Sahai, “Beam interaction with Plasma-Vacuum inter- face”, CLIC Experimental & Breakdown Studies Meeting, August 2013., http://indico.cern.ch/event/269506/ contributions/607723/
+
+[16] A. Rousse et al., “Production of a keV X-ray beam from synchrotron radiation in relativistic laser-plasma interaction”, Phys. Rev. Lett. 93, 135005, 2004, http://dx.doi.org/ 10.1103/PhysRevLett.93.135005.
+
+[17] M. Abd-Elmeguid et al., “TESLA, Technical Design Report”.
+
+# 2
 arXiv:1608.00536  [pdf, other]   physics.ed-ph
 Accelerating Science TRIZ inventive methodology in illustrations
 Authors: Elena Seraia, Andrei Seryi
 Abstract: Theory of Inventive Problem Solving (TRIZ) is a powerful tool widely used in engineering community. It is based on identification of a physical contradiction in a problem, and based on the corresponding pair of contradicting parameters selecting a few of suitable inventive principles, narrowing down the choice and leading to a much faster solution of a probl… ▽ More
 Submitted 29 July, 2016; originally announced August 2016.
 
+# 3
 arXiv:1404.6756  [pdf]   cs.HC  
 doi 10.2139/ssrn.949244 
 Inventions on Tree Navigators used in Graphical User Interface
@@ -21,6 +60,24 @@ Abstract: …selected from US patent database. Each of them tries to solve vario
 Submitted 27 April, 2014; originally announced April 2014.
 Comments: 7 pages, 4 figures. Umakant Mishra, Inventions on Tree Navigators Used in Graphical User Interface. (December 6, 2006), Available at SSRN: http://ssrn.com/abstract=949244
 
+### Reference:
+
+1. US Patent 6078327, “Navigating applications and objects in a graphical user interface”, invented by Liman et al., assigned by IBM, issued Jun 2000.
+
+2. US Patent 6104400, “Large tree structure visualization and display system”, invented by Halachmi et al., assignee IBM, issued Aug 2000.
+
+3. US Patent 6181316, “Graphical user interface inline scroll control”, invented by Little et al., assigned by IBM, issued Jan 2001
+assigned by IBM, issued Jan 2001
+
+4. US Patent 6348935, “Programmable tree viewer graphical user interface with integrated control panel”, invented by Malacinki et al., assigned by IBM, Feb 2002.
+
+5. US Patent 6559871, “Asynchronous tree navigator graphical user interface and associated methods”, invented by Brozowski et al., assigned by IBM, issued May 2003.
+
+6. Umakant Mishra, “10 Inventions on Scrolling and Scrollbars in Graphical User Interface”, www.trizsite.com, Jul 2005.
+
+7. US Patent and Trademark Office (USPTO) site, http://www.uspto.gov/
+
+# 4
 arXiv:1404.6754  [pdf]   cs.HC  
 doi 10.2139/ssrn.949247 
 Inventions on dialog boxes used in GUI
