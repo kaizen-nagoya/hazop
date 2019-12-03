@@ -46,3 +46,8 @@ https://www.amazon.co.jp/dp/4860034708
 
 
 計測工学
+
+# 臨床工学技士国家試験
+http://www.jaame.or.jp/rinsyo/rinsyo.html
+過去問
+http://www.jaame.or.jp/rinsyo/siken17/releasedtest.html?row=4
